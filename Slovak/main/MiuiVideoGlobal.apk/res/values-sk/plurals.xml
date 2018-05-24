@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Titulky sú posunuté o %.1f sekúnd vopred</item>
+        <item quantity="one">Titulky sú posunuté o %.1f sekundu vopred</item>
+        <item quantity="few">Titulky sú posunuté o %.1f sekundy vopred</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Titulky sú oneskorené o %.1f sekúnd</item>
+        <item quantity="one">Titulky sú oneskorené o %.1f sekundu</item>
+        <item quantity="few">Titulky sú oneskorené o %.1f sekundy</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Veľkosť: %.2f kB</item>
+        <item quantity="one">Veľkosť: %.2f kB</item>
+        <item quantity="few">Veľkosť: %.2f kB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d videí</item>
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+    </plurals>
+</resources>

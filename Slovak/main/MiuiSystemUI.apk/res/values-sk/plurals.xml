@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Nedávne aplikácie: %d</item>
+        <item quantity="one">1 nedávna aplikácia</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Skryť upozornenia %d aplikácie?</item>
+        <item quantity="one">Skryť upozornenia tejto aplikácie?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Jasno</item>
+        <item quantity="one">Slnečno</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Otvorené nedávne aplikácie, dostupných je: %d.</item>
+        <item quantity="one">Otvorené nedávne aplikácie, dostupných je: 1.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Otvorené nedávne aplikácie, dostupných je: %d. Potiahnite nahor pre ich odstránenenie alebo nadol pre ich uzamknutie v RAM.</item>
+        <item quantity="one">Otvorené nedávne aplikácie, dostupných je: 1. Potiahnite nahor pre ich odstránenenie alebo nadol pre ich uzamknutie v RAM.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d prepínačov nad čiarou je aktívnych</item>
+        <item quantity="one">1 prepínač nad čiarou je aktívny</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Skryté upozornenia od %1$s &amp; %2$d apl.</item>
+        <item quantity="one">Skryté upozornenia od %1$s &amp; 1 apl.</item>
+    </plurals> 
+    <plurals name="fold_tips_title">
+        <item quantity="other">Zbalené upozornenia: %d</item>
+        <item quantity="one">Zbalené upozornenia: %d</item>
+    </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">Upozornení: %1$d</item>
+        <item quantity="one">Upozornení: %1$d</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s ďalších upozornení.</item>
+        <item quantity="one">%s ďalšie upozornenie.</item>
+    </plurals>	
+</resources>

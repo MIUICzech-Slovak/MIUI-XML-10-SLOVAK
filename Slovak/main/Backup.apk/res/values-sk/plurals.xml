@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%dmin.</item>
+        <item quantity="one">%dmin.</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+   <plurals name="data_item_count">
+       <item quantity="other">Položiek: %d</item>
+        <item quantity="one">Položiek: %d</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d položiek,</item>
+        <item quantity="one">%d položka,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">%d položka</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d systémové dáta</item>
+        <item quantity="one">%d systémový súbor</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d užívateľské dáta</item>
+        <item quantity="one">%d užívateľské dáta</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d položiek</item>
+        <item quantity="one">%1$s | %2$d položka</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">položiek</item>
+        <item quantity="one">položka</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Obnovených %d položiek</item>
+        <item quantity="one">Obnovená %d položka</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Importované a obnovené %d položiek</item>
+        <item quantity="one">Importovaná a obnovená %d položka</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Importovaných %d položiek. "</item>
+        <item quantity="one">"Importovaná %d položka. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Importovať %d položiek znova.</item>
+        <item quantity="one">Importovať %d položku znova.</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">Nebolo možné preniesť %d položiek. Zobraziť podrobnosti.</item>
+        <item quantity="one">Nebolo možné preniesť %d položku. Zobraziť podrobnosti.</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">Nebolo možné preniesť %d položiek.</item>
+        <item quantity="one">Nebolo možné preniesť %d položku.</item>
+    </plurals>	
+</resources>
