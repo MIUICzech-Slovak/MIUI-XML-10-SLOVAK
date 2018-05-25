@@ -1,3 +1,5 @@
+[![MIUI10 logo](https://i.imgur.com/PDpAAjL.png)](https://miuios.cz/)
+
 MIUI-v10 translation for all supported devices. MIUI Translation: **ingbrzy**
 
 
