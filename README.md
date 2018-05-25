@@ -1,6 +1,6 @@
 [![MIUI10 logo](https://i.imgur.com/PDpAAjL.png)](https://miuios.cz/)
 
-MIUI-v10 translation for all supported devices. MIUI Translation: **@ingbrzy**
+MIUI-v10 translation for all supported devices. MIUI Translation: **ingbrzy**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
