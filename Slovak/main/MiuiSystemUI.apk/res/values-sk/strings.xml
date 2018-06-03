@@ -1221,7 +1221,6 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
      <string name="pip_skip_to_prev">Preskočiť na predchádzajúce</string>
      <string name="pointer_location">Umiestnenie kurzora</string>
      <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_duration">^1 – ^2 do úplného nabitia</string>
      <string name="power_discharging_duration">^1 – približný zostávajúci čas: ^2</string>
      <string name="power_discharging_duration_enhanced">^1 – zostáva približne ^2 v závislosti od intenzity využitia</string>
@@ -1261,7 +1260,6 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
      <string name="power_remaining_duration_only_short">Zostávajúci čas: ^1</string>
      <string name="power_remaining_duration_only_short_enhanced">Zostáva ^1 v závislosti od intenzity využitia</string>
      <string name="preference_summary_default_combination">%1$s / %2$s</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="profile_owned_footer">Profil môže byť monitorovaný</string>
      <string name="qs_dnd_keep">Ponechať</string>
      <string name="qs_dnd_prompt_app">Režim Nerušiť bol zapnutý aplikáciou (%s).</string>
@@ -1875,7 +1873,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="tuner_doze_always_on">Always on</string>
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ON</string>
-     <string name="velocity_tracker_impl">platform</string>
      <string name="volume_stream_limited_dnd">%s — Priority only</string>
      <string name="volume_stream_muted">%s silent</string>
      <string name="volume_stream_muted_dnd">%s silent — Total silence</string>
