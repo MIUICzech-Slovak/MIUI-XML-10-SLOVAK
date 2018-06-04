@@ -376,4 +376,5 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="agree">Súhlasím</string>
   <string name="disagree">Nesúhlasím</string>
   <string name="net_work_notice">Rodičovský zámok potrebuje pripojenie na internet a prístup k vašej polohe. Povoliť?</string>
+  <string name="this_function_can_not_use_in_second_space">Táto funkcia môže byť použitá len v Prvom profile.</string>
 </resources>

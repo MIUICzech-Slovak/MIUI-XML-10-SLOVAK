@@ -4010,7 +4010,8 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="toast_lockscreen_glogin_empty_password">Zadajte heslo</string>
   <string name="toast_need_login">Prihláste sa Mi účtom</string>
   <string name="total">Režim Nerušiť</string>
-  <string name="total_info">Stíšiť zvonenia a vypnúť vibrácie pre všetko okrem budíka</string>
+  <string name="total_info">Stíšiť zvonenia %1$s okrem budíka</string>
+  <string name="total_info_sub">a vypnúť vibrácie</string>
   <string name="total_memory">Celková pamäť</string>
   <string name="total_size">Celkom %s</string>
   <string name="total_size_label">Celkom</string>

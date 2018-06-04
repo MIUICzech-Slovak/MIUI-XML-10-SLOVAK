@@ -1838,7 +1838,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="quick_settings_autobrightness_label">Auto. jas</string>
      <string name="quick_settings_batterysaver_label">Šetrenie batérie</string>
      <string name="quick_settings_drivemode_label">Automobil</string>
-     <string name="quick_settings_dual_location_label">GPS</string>
+     <string name="quick_settings_dual_location_label">Dual GPS</string>
      <string name="quick_settings_edit_label">Upraviť</string>
      <string name="quick_settings_midrop_label">MiDrop</string>
      <string name="quick_settings_mute_label">Stíšiť</string>
@@ -1875,4 +1875,12 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="volume_stream_vibrate">%s vibrovať</string>
      <string name="volume_stream_vibrate_dnd">%s vibrovať — Iba dôležité</string>
      <string name="wallpaper_global_des_drop_down_notify_text">Pustite pre zobrazenie podrobností</string>
+	 <string name="prompt_danger">Nebezpečenstvo</string>
+  <string name="prompt_detecting">Kontrola</string>
+  <string name="prompt_safe">Bezpečné</string>
+  <string name="prompt_unknown">Neznáme</string>
+  <string name="status_bar_safepay_risk">Nájdene riziko platby</string>
+  <string name="status_bar_safepay_safe">Žiadne riziko platby</string>
+  <string name="status_bar_safepay_scanning">Kontrola platobného prostredia...</string>
+  <string name="status_bar_safepay_unknown">Nebolo možné skontrolovať platobné prostredie</string>
 </resources>
