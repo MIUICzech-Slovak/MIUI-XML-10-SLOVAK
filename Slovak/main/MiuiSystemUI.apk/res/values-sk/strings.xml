@@ -1876,11 +1876,4 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="volume_stream_vibrate_dnd">%s vibrovať — Iba dôležité</string>
      <string name="wallpaper_global_des_drop_down_notify_text">Pustite pre zobrazenie podrobností</string>
 	 <string name="prompt_danger">Nebezpečenstvo</string>
-  <string name="prompt_detecting">Kontrola</string>
-  <string name="prompt_safe">Bezpečné</string>
-  <string name="prompt_unknown">Neznáme</string>
-  <string name="status_bar_safepay_risk">Nájdene riziko platby</string>
-  <string name="status_bar_safepay_safe">Žiadne riziko platby</string>
-  <string name="status_bar_safepay_scanning">Kontrola platobného prostredia...</string>
-  <string name="status_bar_safepay_unknown">Nebolo možné skontrolovať platobné prostredie</string>
 </resources>
