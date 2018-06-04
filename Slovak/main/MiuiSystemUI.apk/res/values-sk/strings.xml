@@ -1875,5 +1875,4 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="volume_stream_vibrate">%s vibrovať</string>
      <string name="volume_stream_vibrate_dnd">%s vibrovať — Iba dôležité</string>
      <string name="wallpaper_global_des_drop_down_notify_text">Pustite pre zobrazenie podrobností</string>
-	 <string name="prompt_danger">Nebezpečenstvo</string>
 </resources>
