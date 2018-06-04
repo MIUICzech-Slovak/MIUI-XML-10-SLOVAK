@@ -84,4 +84,5 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
   <string name="open_wifi_settings">Otvoriť nastavenia Wi-Fi</string>
   <string name="emergency_call">Núdzový hovor</string>
   <string name="return_to_call">Naspäť k Hovoru</string>
+  <string name="find_device_notice">Choďte na i.mi.com pre vyhľadanie vášho zariadenia alebo jeho zablokovanie.</string>
 </resources>

@@ -87,5 +87,14 @@
         <item>Vonku padajú krúpy!</item>	    
         <item>Blíži sa piesočná búrka!</item>		
         <item>Prajeme prijemný deň!</item>		
-     </string-array>	
+     </string-array>
+     <string-array name="timer_duration">
+        <item>Celkom %1$s</item>
+        <item>Celkom %2$s</item>
+        <item>Celkom %1$s%2$s</item>
+        <item>Celkom %3$s</item>
+        <item>Celkom %1$s%3$s</item>
+        <item>Celkom %2$s%3$s</item>
+        <item>Celkom %1$s%2$s%3$s</item>
+     </string-array>	 
 </resources>

@@ -499,4 +499,6 @@
   <string name="guide_virus_dialog_positive">Skontrolovať</string>
   <string name="guide_virus_dialog_title">Antivírus</string>
   <string name="mainbtn_text_no_trash">Preskočiť</string>
+  <string name="clean_long_msg">"Čistenie %1$d súborov,%2$d dokončené 
+%3$d%% položiek/s ostávajúci čas: %4$s"</string>
 </resources>

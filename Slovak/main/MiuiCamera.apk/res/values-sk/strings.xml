@@ -585,4 +585,7 @@ a zvýrazniť osobu na fotografii"</string>
   <string name="accessibility_protrait">Portrét</string>
   <string name="accessibility_selected">Vybrané položky</string>
   <string name="accessibility_setting">Nastavenia</string>
+       <string name="accessibility_ai_scene_off">AI je vypnuté</string>
+     <string name="accessibility_ai_scene_on">AI fotoaparát</string>
+     <string name="hint_ae_af_lock">Auto. zaostrenie / auto. expozícia bola uzamknutá</string>
 </resources>

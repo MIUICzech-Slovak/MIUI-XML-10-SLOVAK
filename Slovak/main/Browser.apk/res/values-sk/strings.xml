@@ -993,4 +993,16 @@ Chcete opustiť túto web stránku?"</string>
   <string name="mw_miui_content_share">Zdieľať</string>
   <string name="mw_miui_content_translate">Preložiť</string>
   <string name="mw_miui_content_web_search">Hľadať</string>
+     <string name="action_one_touch">Otvoriť upozornenia</string>
+     <string name="action_skip">Preskočiť</string>
+     <string name="enter_infoflow_guide">Potiahnite nahro pre novinky</string>
+     <string name="hot_words_item_ads_mark">reklamy</string>
+     <string name="info_flow_description">Info channel</string>
+     <string name="message_notice_push">Latest hot spots no longer miss!</string>
+     <string name="pref_navscreen_layoutstate_title">Správa rozdelenej obrazovky</string>
+     <string name="refresh_description">Obnoviť</string>
+     <string name="short_video_description">Video channel</string>
+     <string name="short_video_tip">Look! Fun video</string>
+     <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
+     <string name="title_notice_push">Upozornenie</string>  
 </resources>

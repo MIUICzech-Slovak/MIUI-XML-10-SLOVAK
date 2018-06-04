@@ -727,4 +727,9 @@ Pokus: %s."</string>
   <string name="dialog_title_fake_cell_detect_error">Upraviť</string>
   <string name="draft">Koncept</string>
   <string name="fake_cell_alert_detect_error">Nebolo to odoslané z falošnej BTS</string>
+     <string name="notification_channel_description">Upozornenia a Správy</string>
+     <string name="notification_channel_name">Správy</string>
+     <string name="notification_copy">Skopírovať heslo</string>
+     <string name="toast_pending_hangup_msg">Správa bude odoslaná po skončení hovoru</string>
+     <string name="url_scan_again">Skontrolovať znova</string>  
 </resources>
