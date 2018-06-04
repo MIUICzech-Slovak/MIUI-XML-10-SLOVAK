@@ -88,4 +88,6 @@ Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred p
   <string name="other_settings_ad_enable_summary">Prisplsobiť reklamy vášmu správaniu</string>
   <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Povoliť pripojenie k mobilným dátam?</string>
+  <string name="sim_card_detection_mobile_not_available">SIM karta sa nemôže pripojiť k sieti</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">Vaša SIM karta sa nemôže pripojiť k sieti. Skontrolujte jej platnosť a skúste to znova.</string>
 </resources>

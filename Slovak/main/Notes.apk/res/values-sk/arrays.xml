@@ -47,4 +47,14 @@ http://www.miuios.cz/
         <item>Podľa dátumu vytvorenia</item>
         <item>Podľa dátumu úpravy</item>
     </string-array>	 
+     <string-array name="first_guide_contents">
+        <item>Vitajte v Poznámkach!</item>
+        <item>Vytvorte si poznámku</item>
+        <item>Môžete ju napísať, vložiť obrázok a nahrať svojim hlasom.</item>
+        <item>Zoznamy a upozornenia vám pomôžu pri nakupovaní.</item>
+     </string-array>
+     <string-array name="second_guide_contents">
+        <item>Hlasovné poznámky</item>
+        <item>Nahrajte vašu poznámku hlasom.</item>
+     </string-array>	
 </resources>

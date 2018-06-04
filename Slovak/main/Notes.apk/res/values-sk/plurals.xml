@@ -21,4 +21,12 @@
         <item quantity="other">Nebolo synchr.: %1$s</item>
         <item quantity="one">Nebolo synchr.: %1$s</item>
     </plurals>
+     <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">Ostáva %ds</item>
+        <item quantity="one">Ostáva %ds</item>
+     </plurals>
+     <plurals name="word_count">
+        <item quantity="other">%s znakov</item>
+        <item quantity="one">%s znak</item>
+     </plurals>	
 </resources>

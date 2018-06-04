@@ -5265,4 +5265,62 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="mqs_privacy_dialog_confirm">Odoslať</string>
   <string name="mqs_privacy_dialog_content">Odoslať záznam o chybe?</string>
   <string name="mqs_privacy_dialog_title">Nastala chyba</string>
+     <string name="aod_mode_time_summary">Naplánujte čas kedy sa má vaše zariadenie prepnúť do Always on režimu</string>
+     <string name="aod_mode_time_title">Naplánovať čas</string>
+     <string name="aod_mode_turn_off">Vyp</string>
+     <string name="aod_mode_turn_on">Zap</string>
+     <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
+     <string name="miui_lab_drive_mode_title">Car mode</string>
+     <string name="miui_lab_super_resolution_desc">Zvýšte rozlíšenie obrázkov</string>
+     <string name="miui_lab_super_resolution_title">Super rozlíšenie</string>
+     <string name="navigation_guide_appswitch_summary">Posuňte prstom vpravo alebo vľavo od hrany displeja a chvíľku podržte</string>
+     <string name="navigation_guide_appswitch_title">Prepnúť na predchádzajúcu aplikáciu</string>
+     <string name="paper_mode_side_effect_hint">Vyššia intenzita môže ovplyvniť zobrazenie obsahu.</string>
+     <string name="status_bar_carrier_settings_no_sim_card">Žiadna SIM karta</string>
+     <string name="status_bar_settings_show_carrier_under_keyguard">Zobraziť názov operátora na zamyk. obrazovke</string>
+     <string name="structure_add_facerecoginition_text">Pridať 3D dáta tváre</string>
+
+     <string name="super_resolution_access_title">Dostupné aplikácie</string>
+     <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
+     <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
+     <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
+     <string name="super_resolution_reboot_tips">Restart apps to make this feature work after you turn it on.</string>
+     <string name="super_resolution_title">Super resolution</string>
+	 
+     <string name="wifi_assistant">Wi-Fi asistent</string>
+     <string name="wifi_assistant_auto_confirm_data_message">Táto Wi-Fi sieť nemá prístup k internetu. Vaše zariadenie bude používať mobilné dáta. Wi-Fi asistent môžete vypnúť v Nastaveniach.</string>
+     <string name="wifi_assistant_confirm_always">Viac nezobrazovať</string>
+     <string name="wifi_assistant_confirm_connection_title">Potvrdiť</string>
+     <string name="wifi_assistant_data_prompt">Zobraziť varovanie spotreby dát</string>
+     <string name="wifi_assistant_data_prompt_summary">Zobraziť upozornenie ak Wi-Fi asistent prepne na mobilné dáta</string>
+     <string name="wifi_assistant_description">"Wi-Fi asistent funguje takto:
+1. Ak je slabé pripojenie k Wi-Fi sieti, Wi-Fi asistent sa pokúsi o pripojenie k silnejšej Wi-fi sieti.
+2. Ak všetky Wi-Fi siete budú mať slabý signál alebo nedostupné pripojenie na internet a budete mať zapnuté mobilné dáta, Wi-Fi asistent prepne vaše pripojenie na mobilné dáta."</string>
+     <string name="wifi_assistant_disconnect">Odpojiť</string>
+     <string name="wifi_assistant_explicitly_confirm_data_message">Táto Wi-Fi sieť nemá prístup k internetu. Použiť mobilné dáta?</string>
+     <string name="wifi_assistant_explicitly_confirm_disconnect">Táto Wi-Fi sieť nemá prístup k internetu. Odpojiť?</string>
+     <string name="wifi_assistant_explicitly_confirm_wifi_message">Táto Wi-Fi sieť nemá prístup k internetu. Sú dostupné iné Wi-Fi siete, chcete sa k ním pripojiť?</string>
+     <string name="wifi_assistant_keep_connection">Ostať pripojený</string>
+     <string name="wifi_assistant_off">Vyp</string>
+     <string name="wifi_assistant_ok">OK</string>
+     <string name="wifi_assistant_on">Zap</string>
+     <string name="wifi_assistant_setup_wifi_assistant">Nastaviť</string>
+     <string name="wifi_assistant_summary">Prepnúť medzi Wi-Fi sieťami a mobilnými dátami ak je slabý signál Wi-Fi</string>
+     <string name="wifi_assistant_switch_data">Použiť mobilné dáta</string>
+     <string name="wifi_assistant_switch_wifi">Prepnúť siete</string>
+     <string name="wifi_connection_management">Spravovať Wi-Fi pripojenia</string>
+     <string name="wifi_eap_options_advanced">Ďalšie možnosti</string>
+     <string name="wifi_eap_options_simple">Jednoduché možnosti</string>
+     <string name="wifi_network_optimization">Optimalizovať pripojenie</string>
+     <string name="wifi_other_connection_mode">Možnosti iného pripojenia</string>
+     <string name="wifi_property">Wi-Fi nastavenia</string>
+     <string name="wifi_remembered_disabled_auto_connect">Uložené. Autom. pripojenie je vypnuté.</string>
+     <string name="wifi_traffic_priority">Wi-Fi režim rýchlosti</string>
+     <string name="wifi_traffic_priority_extreme">Extrémny režim</string>
+     <string name="wifi_traffic_priority_extreme_summary">Prideliť čo najväčšiu časť pásma aplikáciam v popredí. Procesy na pozadí sa nemusia pripojiť k internetu.</string>
+     <string name="wifi_traffic_priority_off">Vyp</string>
+     <string name="wifi_traffic_priority_on">Zap</string>
+     <string name="wifi_traffic_priority_regular">Normálny režim</string>
+     <string name="wifi_traffic_priority_regular_summary">Zdieľať pásmo medzi aplikáciami v popredí a na pozadí</string>
+     <string name="wifi_traffic_priority_summary">Uprednostniť rýchlosť pripojenia automaticky</string>  
 </resources>
