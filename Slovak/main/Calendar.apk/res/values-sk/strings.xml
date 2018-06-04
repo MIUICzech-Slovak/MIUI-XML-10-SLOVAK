@@ -510,4 +510,22 @@
   <string name="miuishare_title_share">Zdieľať</string>
   <string name="miuishare_wechat_timeline_title">Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>  
+     <string name="action_bar_date_button_title">Vypočítať dátum</string>
+     <string name="anniversary_secondary_tag">Výročie</string>
+     <string name="birthday_born">Narodeniny</string>
+     <string name="clear_net_mock_success">Net mock clear success</string>
+     <string name="countdown_secondary_tag">Odpočet</string>
+     <string name="date_calculate_hint">Ktorý dátum výjde po počte dní</string>
+     <string name="date_jump_hint">Skočiť na dnešný dátum</string>
+     <string name="date_jump_title">Skočiť na dátum</string>
+     <string name="edit_event_birthday_reminder_3_days_before">Pripomenúť aj o 3 dni</string>
+     <string name="guide_card_import">Importovať</string>
+     <string name="guide_card_primary_text">Importovať narodeniny priateľa</string>
+     <string name="guide_card_second_text">Dávkový import</string>
+     <string name="guide_card_title">Importovať narodeniny</string>
+     <string name="receive_net_mock_success">Net mock receive success</string>
+     <string name="tab_title_agenda">Udalosti</string>
+     <string name="tab_title_day">Deň</string>
+     <string name="tab_title_month">Mesiac</string>
+     <string name="tab_title_week">Týždeň</string>  
 </resources>
