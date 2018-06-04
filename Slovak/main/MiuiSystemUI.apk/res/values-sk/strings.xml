@@ -1857,8 +1857,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="report_rejected_touch">Report rejected touch</string>
      <string name="select_logd_level">Select log level</string>
      <string name="snooze_option_15_min">15 minút</string>
-     <string name="snooze_option_1_hour">1 hodina</string>
-     <string name="snooze_option_2_hour">2 hhodiny</string>
+     <string name="snooze_option_1_hour">1 hodinu</string>
+     <string name="snooze_option_2_hour">2 hodiny</string>
      <string name="snooze_option_30_min">30 minút</string>
      <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
      <string name="stream_system_enforced">System enforced</string>
