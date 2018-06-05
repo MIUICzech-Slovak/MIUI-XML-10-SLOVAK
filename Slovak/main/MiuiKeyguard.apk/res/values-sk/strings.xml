@@ -2,11 +2,14 @@
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Dotykom otvoríte Galériu tapiet</string>
   <string name="btn_camera">Zamerajte vašu tvár</string>
+  <string name="change_to_ac_charging">Prepnúť na bezdrôtové nabíjanie</string>
   <string name="click_to_enter_text">Dotykom otvoríte</string>
   <string name="confirm_pin_msg">Zadajte PIN znova</string>
   <string name="custom_lock_wallpaper_enter">Zadať</string>
   <string name="default_lockscreen_unlock_hint_text">Potiahnite nahor</string>
   <string name="delete">Vymazať</string>
+  <string name="do_disclosure_generic">Toto zariadenie je spravované vašou organizáciou</string>
+  <string name="do_disclosure_with_name">Toto zariadenie je spravované %s</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Skúsiť</string>
   <string name="experimental_validate">Schváliť</string>
@@ -23,6 +26,8 @@
   <string name="face_data_input_msg">Zamerajte vašu tvár do rámčeka</string>
   <string name="face_data_input_ok">Hotovo</string>
   <string name="face_data_input_ok_msg">Zapnite displej pre odomknutie tvárou.</string>
+  <string name="face_data_input_ok_msg_angle">"Odomknite vaše zariadenie tvárou keď je displej zapnutý.
+(Nastavte vašu tvár z rôzných uhlov.)"</string>
   <string name="face_data_input_ok_title">Pridané</string>
   <string name="face_data_input_title">Pridať tvár</string>
   <string name="face_data_introduction_msg">Tvár môže byť nastavená pre odomykanie alebo overenie vašej identity. Najskôr nastavte heslo zamykacej obrazovky.</string>
@@ -34,6 +39,8 @@
   <string name="face_data_manage_delete_title">Tvár</string>
   <string name="face_data_manage_unlock_msg">Odomknúť zariadenie pomocou tváre</string>
   <string name="face_data_manage_unlock_title">Odomknúť pomocou tváre</string>
+  <string name="face_data_siggesstion_next">Ďalej</string>
+  <string name="face_data_siggesstion_next_time">Ďalej (%ds)</string>
   <string name="face_data_suggesstion_first">Odomykanie vašeho zariadenia tvárou je menej bezpečné ako použitie hesla. Vaše zariadenie môže byť odomknuté ľudmi ktorí sa vám podobajú.</string>
   <string name="face_data_suggesstion_second">Ujistite sa, že vám nič nezakrýva tvár.</string>
   <string name="face_unlock_adjust_distance">Ujistite sa, že ste dostatočne vzdialený od zariadenia.</string>
@@ -53,6 +60,8 @@
   <string name="face_unlock_passwork">Použiť heslo</string>
   <string name="face_unlock_passwork_and_fingerprint">Použiť heslo alebo tvár</string>
   <string name="face_unlock_quality">Nebolo možné vidieť vašu tvár</string>
+  <string name="face_unlock_reenter_content">Algoritmus odomknutia tvárou bol aktualizovaný. Nastavte vašu tvár znova.</string>
+  <string name="face_unlock_reenter_title">Nastavte vašu tvár znova.</string>
   <string name="face_unlock_reveal_eye">Ukážte vaše oči</string>
   <string name="face_unlock_reveal_mouth">Ukážte vaše pery</string>
   <string name="face_unlock_rise">dajte nižšie vašu hlavu</string>
@@ -71,6 +80,9 @@
   <string name="fingerprint_try_again_msg">Nebolo možné rozpoznať odtlačok, skúste to znova.</string>
   <string name="fingerprint_try_again_text">Znova</string>
   <string name="forget_password_string">Zabudol som heslo</string>
+  <string name="gxzw_press_harder">Stlačte silnejšie</string>
+  <string name="gxzw_try_more_again">Skúste to znova</string>
+  <string name="gxzw_use_password">Použite heslo</string>
   <string name="incorrect_pincode">Nesprávny PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Nesprávny PIN kód, ostávajúce pokusy: %d</string>
   <string name="incorrect_pukcode">Nesprávny PUK</string>
@@ -113,16 +125,19 @@
   <string name="keyguard_charging_info_tip_text4">Nevyťažujte vaše zariadenie ak je pripojené k nabíjačke aby ste predišli jeho prehrievaniu.</string>
   <string name="keyguard_charging_info_tip_text5">Batérie sa nabíjajú dlhšie ak sa prehrejú.</string>
   <string name="keyguard_charging_info_tip_text6">Vypnite displej a nechajte vaše zariadenie vychladnúť.</string>
+  <string name="keyguard_left_bankcard">Kalkulačka</string>
+  <string name="keyguard_left_buscard">Poznámky</string>
   <string name="keyguard_left_remotecentral">Kalendár</string>
   <string name="keyguard_left_smarthome">Kontakty</string>
-  <string name="keyguard_left_bankcard">Kalkulačka</string>
-  <string name="keyguard_left_buscard">Poznámky</string>  
+  <string name="keyguard_left_view_lock_wallpaper">Hudba</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Zobraziť podrobnosti</string>
   <string name="keyguard_quickly_charging_info_charging_text">Rýchlonabíjanie</string>
   <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
+  <string name="kg_password_pin_failed">SIM PIN zlyhal!</string>
   <string name="left_action_default_hint_text">skratky</string>
   <string name="lock_screen_date">EE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
+  <string name="lock_screen_no_sim_card">Žiadna SIM karta</string>
   <string name="lock_wallpaper_enter">Otvoriť</string>
   <string name="lock_wallpaper_learn_more">Viac</string>
   <string name="lock_wallpaper_see_more">Zistiť viac &gt;</string>
@@ -164,6 +179,8 @@
   <string name="phone_locked_string">Zariadenie je zablokované</string>
   <string name="phone_locked_timeout_minutes_string">Skúste znovu o %d minút</string>
   <string name="phone_locked_timeout_seconds_string">Skúste znovu o %d sekúnd</string>
+  <string name="reset_device_detail_tip">Položte vaše zariadenie na nabíjačku správne pre čo najrýchlejšie nabíjanie.</string>
+  <string name="reset_device_tip">Pomalé nabíjanie, zmeňte pozíciu zariadenia</string>
   <string name="unlock_camera_steady">Chvíľku sa nehýbte</string>
   <string name="unlock_failed">Interná chyba</string>
   <string name="unlock_failed_face_not_found">Rozpoznávanie...</string>
@@ -174,26 +191,9 @@
   <string name="unlockscreen_quick_charging_message">Rýchlonabíjanie %d%%</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
-  <string name="wrong_password">Nesprávne heslo</string>
-  <string name="lock_screen_no_sim_card">Žiadna SIM karta</string>
-  <string name="do_disclosure_generic">Toto zariadenie je spravované vašou organizáciou</string>
-  <string name="do_disclosure_with_name">Toto zariadenie je spravované %s</string>  
-  <string name="face_data_input_ok_msg_angle">"Odomknite vaše zariadenie tvárou keď je displej zapnutý.
-(Nastavte vašu tvár z rôzných uhlov.)"</string>
-  <string name="face_data_siggesstion_next">Ďalej</string>
-  <string name="face_data_siggesstion_next_time">Ďalej (%ds)</string>
-  <string name="face_unlock_reenter_content">Algoritmus odomknutia tvárou bol aktualizovaný. Nastavte vašu tvár znova.</string>
-  <string name="face_unlock_reenter_title">Nastavte vašu tvár znova.</string>
-  <string name="keyguard_left_view_lock_wallpaper">Hudba</string>
-  <string name="change_to_ac_charging">Prepnúť na bezdrôtové nabíjanie</string>
-  <string name="reset_device_detail_tip">Položte vaše zariadenie na nabíjačku správne pre čo najrýchlejšie nabíjanie.</string>
-  <string name="reset_device_tip">Pomalé nabíjanie, zmeňte pozíciu zariadenia</string>
   <string name="wireless_charge_dialog_cancel">Zrušiť</string>
   <string name="wireless_charge_dialog_title">Mimo pozície, posuňte zariadenie</string>
   <string name="wireless_charge_stop">Bezdrôtové nabíjanie sa zastavilo</string>
   <string name="wireless_current_charge">Nabíjanie</string>
-  <string name="kg_password_pin_failed">SIM PIN zlyhal!</string>
-  <string name="gxzw_press_harder">Stlačte silnejšie</string>
-  <string name="gxzw_try_more_again">Skúste to znova</string>
-  <string name="gxzw_use_password">Použite heslo</string>
+  <string name="wrong_password">Nesprávne heslo</string>
 </resources>

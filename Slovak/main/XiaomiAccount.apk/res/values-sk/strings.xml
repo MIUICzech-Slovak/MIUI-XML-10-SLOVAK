@@ -18,6 +18,8 @@
   <string name="account_error_longer_user_name">Nemôže mať viac ako 20 znakov</string>
   <string name="account_error_shorter_user_name">Nemôže mať menej ako 2 znaky</string>
   <string name="account_error_user_birthday">Dátum narodenia nie je správny</string>
+  <string name="account_error_user_name">Zadané meno nie je správne</string>
+  <string name="account_global_region">Global</string>
   <string name="account_has_been_set">Zmeniť</string>
   <string name="account_limit_update_birthday">Prepáčte, nebolo možné spracovať vašu požiadavku.</string>
   <string name="account_mipay_info">Mi pay</string>
@@ -66,6 +68,8 @@
   <string name="account_vip_achievements">Achievements</string>
   <string name="account_vip_level">Účet</string>
   <string name="account_xiaomi_service">Služby</string>
+  <string name="action_add_phone">Pripojiť telefónné číslo</string>
+  <string name="action_update_phone">zmeniť telefónné číslo</string>
   <string name="activate_email_notice">Váš účet musíte aktivovať do 24 hodín</string>
   <string name="activity_not_found_notice">Nie je možné nájsť aplikáciu</string>
   <string name="add_account">Pridať účet</string>
@@ -160,10 +164,12 @@
   <string name="find_device_unknown_error">Nie je možné načítať stav zariadenia skúste to znova neskôr.</string>
   <string name="first_login_time">Prvý pokus prihlásenia: %s</string>
   <string name="forward_to_bind">Pripojiť</string>
+  <string name="get_back_pwd">Obnoviť heslo</string>
   <string name="get_device_list_failed">Nie je možné načítať zariadenia</string>
   <string name="get_phone_bind_exceed_limit">Prepojené telefónne číslo presiahlo maximum Mi účtov (3). Zadajte nové telefónne číslo.</string>
   <string name="get_phone_verifycode_exceed_limit">Bolo odoslaných príliš mnoho overovacích kódov. Čakajte 24 hodín a skúste to znova.</string>
   <string name="guest_account_label">Účet Mi Hosťa</string>
+  <string name="identity">Identita</string>
   <string name="ignore">Teraz nie</string>
   <string name="input_email_address_notice">Táto adresa bude použitá pre overenie vášho účtu</string>
   <string name="io_error_title">Potvrďte vašu sieť</string>
@@ -194,6 +200,7 @@
   <string name="my_favorite">Moje obľúbené</string>
   <string name="no_network_btn">Obnoviť</string>
   <string name="no_network_title">Nie je možné sa pripojiť k sieti.</string>
+  <string name="no_phone">Žiadne číslo</string>
   <string name="no_response_retry">Žiadna odpoveď, skúste to neskôr.</string>
   <string name="no_sim_card">Žiadna SIM karta</string>
   <string name="no_sim_card_or_unactivated">Žiadna SIM karta alebo nie je aktivovaná</string>
@@ -241,6 +248,7 @@ odkaz v správe ktorá prišla do vašej emailovej schránky.
 Skontrolujte aj SPAM."</string>
   <string name="passport_completed">Dokončiť</string>
   <string name="passport_confirm">OK</string>
+  <string name="passport_confirm_login">Pokračovať</string>
   <string name="passport_confirm_recycle_account">Áno</string>
   <string name="passport_confirm_recycle_account_msg">%s is the operator to buy again after the purchase number, the number has been under the millet account, this account is your</string>
   <string name="passport_continue">Pokračovať</string>
@@ -278,6 +286,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_error_verify_activator_phone_message">Chyba telefónneho čísla</string>
   <string name="passport_error_verify_activator_phone_title">Problém s overením telefónneho čisla</string>
   <string name="passport_error_verify_code">Zadaný kód nie je správny</string>
+  <string name="passport_extra_gdpr_license">Vytvorením Mi účtu súhlasíte, že Xiaomi bude zhromažďovať a spracovávať vaše osobné dáta a ostatné dáta špecifikované v Podmienkach používania.</string>
   <string name="passport_failed_to_send_activate_email">Nie je možné odoslať aktivačný email</string>
   <string name="passport_find_device_activate_account">Aktivovať účet</string>
   <string name="passport_find_device_display_id">Odblokovať číslo: %s</string>
@@ -285,6 +294,8 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_forget_password">Zabudnuté heslo</string>
   <string name="passport_forget_password_no_underline">Zabudol som heslo</string>
   <string name="passport_get_back_pwd">Obnoviť heslo</string>
+  <string name="passport_get_innetdate_agree">Skontrolovať</string>
+  <string name="passport_get_innetdate_disagree">Nie</string>
   <string name="passport_get_verify_code">Získať kód</string>
   <string name="passport_getting_activator_phone">Načítavanie info. zo SIM karty...</string>
   <string name="passport_getting_verify_code">Získavanie</string>
@@ -397,6 +408,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_skip_setup_account_msg">Môžete nastaviť Mi účet neskôr.</string>
   <string name="passport_skip_setup_account_title">Preskočiť</string>
   <string name="passport_sms_send_success">Odoslané</string>
+  <string name="passport_sms_verification_code_login">Overovací SMS kód</string>
   <string name="passport_title_reg">Vytvoriť účet</string>
   <string name="passport_trust_device">Dôverovať tomuto zariadeniu</string>
   <string name="passport_trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
@@ -423,6 +435,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_wrong_vcode">Zadaný kód nie je správny</string>
   <string name="passport_yes">Áno</string>
   <string name="phone_activated">%s aktivované</string>
+  <string name="phone_num_use_for">Telefónné číslo použité pre:</string>
   <string name="phone_send_verify_code_prompt">Odoslať overovací kód na %s</string>
   <string name="phone_unactivated">Neaktivované</string>
   <string name="phone_unknown">Neznáme</string>
@@ -459,6 +472,9 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="send_email_activate_message">Overovací email odoslaný</string>
   <string name="service_error">Chyba služby</string>
   <string name="set_security_question_title">Nastaviť bezpečnostné otázky</string>
+  <string name="set_success">Hotovo</string>
+  <string name="sign_in">Prihlásiť sa</string>
+  <string name="sim_changed_notification_title">Zmenili ste telefónné čislo?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Odoslané</string>
   <string name="sns_access_token_expired_warning">Prihlásenie k účtu vypršalo. Prihláste sa znovu.</string>
@@ -479,6 +495,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="update_contacts_description">Aktualizovať vaše kontakty a ostatné informácie</string>
   <string name="update_email_address_dialog_message">Musíte overiť vašu identitu predtým ako zmeníte váš email.</string>
   <string name="update_email_address_dialog_title">Zmeniť email</string>
+  <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
   <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne čislo.</string>
   <string name="updated_nothing">Žiadna aktualizácia</string>
   <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
@@ -493,21 +510,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
-  <string name="action_add_phone">Pripojiť telefónné číslo</string>
-  <string name="action_update_phone">zmeniť telefónné číslo</string>
-  <string name="get_back_pwd">Obnoviť heslo</string>
-  <string name="identity">Identita</string>
-  <string name="no_phone">Žiadne číslo</string>
-  <string name="phone_num_use_for">Telefónné číslo použité pre:</string>
-  <string name="set_success">Hotovo</string>
-  <string name="sign_in">Prihlásiť sa</string>
-  <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
-  <string name="account_global_region">Global</string>
-  <string name="account_error_user_name">Zadané meno nie je správne</string>
-  <string name="passport_get_innetdate_agree">Skontrolovať</string>
-  <string name="passport_get_innetdate_disagree">Nie</string>
-  <string name="sim_changed_notification_title">Zmenili ste telefónné čislo?</string>
-  <string name="passport_confirm_login">Pokračovať</string>
-  <string name="passport_sms_verification_code_login">Overovací SMS kód</string>
-  <string name="passport_extra_gdpr_license">Vytvorením Mi účtu súhlasíte, že Xiaomi bude zhromažďovať a spracovávať vaše osobné dáta a ostatné dáta špecifikované v Podmienkach používania.</string>
 </resources>

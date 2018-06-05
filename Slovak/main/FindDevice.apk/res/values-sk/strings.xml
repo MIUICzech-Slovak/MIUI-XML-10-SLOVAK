@@ -12,6 +12,7 @@
   <string name="disable_find_device_error">Nebolo možné deaktivovať vyhľadávanie zariadenia. %1$s</string>
   <string name="disable_find_device_success">Vyhľadanie zariadenia je deaktivované.</string>
   <string name="doing_extra_login_steps">Overovanie prihlásenia...</string>
+  <string name="emergency_call">Núdzový hovor</string>
   <string name="enable_find_device_error">Nebolo možné aktivovať vyhľadávanie zariadenia. %1$s</string>
   <string name="enable_find_device_success">Vyhľadanie zariadenia je aktivované.</string>
   <string name="find_device">Vyhľadať zariadenie</string>
@@ -24,6 +25,7 @@
   <string name="find_device_error_server">Chyba servera (%s)</string>
   <string name="find_device_error_unknown">Neznáma chyba (%s)</string>
   <string name="find_device_noise_title">Vyhľadanie zariadenia zvukom</string>
+  <string name="find_device_notice">Choďte na i.mi.com pre vyhľadanie vášho zariadenia alebo jeho zablokovanie.</string>
   <string name="find_device_notice_p1">Choďte na</string>
   <string name="find_device_notice_p3">" pre vyhľadanie, zablokovanie, alebo obnovu vášho zariadenia.
 Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
@@ -35,6 +37,7 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="lock_msg_phone">Kontaktné informácie: %s</string>
   <string name="login_extra_steps">Overenie prihlásenia</string>
   <string name="login_failed">Nebolo možné sa prihlásiť %s</string>
+  <string name="open_wifi_settings">Otvoriť nastavenia Wi-Fi</string>
   <string name="passport_checking_vcode">Kontrola hesla...</string>
   <string name="passport_error_empty_vcode">Zadajte overovací kód</string>
   <string name="passport_notification_need_unlock_again">Skúste odblokovať znova</string>
@@ -46,6 +49,7 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="phone_locked">Toto zariadenie je zrejme prepojené s existujúcim Mi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
   <string name="phone_locked_account_email">, prepojený email: %s</string>
   <string name="phone_locked_account_phone">, prepojené telefónne číslo: %s</string>
+  <string name="return_to_call">Naspäť k Hovoru</string>
   <string name="stop_on_empty_captcha">Captcha nesmie byť prázdna</string>
   <string name="stop_on_empty_password">Heslo nesmie byť prázdne</string>
   <string name="sys_notification_async_open_failed_content">Skúste to znova.</string>
@@ -81,8 +85,4 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
   <string name="unlocking">Aktivovanie...</string>
   <string name="verifing_account">Overovanie hesla...</string>
   <string name="verify_password_failed">Nebolo možné overiť Mi účet. %s.</string>
-  <string name="open_wifi_settings">Otvoriť nastavenia Wi-Fi</string>
-  <string name="emergency_call">Núdzový hovor</string>
-  <string name="return_to_call">Naspäť k Hovoru</string>
-  <string name="find_device_notice">Choďte na i.mi.com pre vyhľadanie vášho zariadenia alebo jeho zablokovanie.</string>
 </resources>

@@ -21,13 +21,13 @@
   <string name="search_the_yellowpage">Vyhľadať v zozname</string>
   <string name="send_sms">Odoslať správu</string>
   <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="sim_state_changed">SIM karta bola zmenená</string>
   <string name="third_party_delete_contact_info">\"%s\" vymaže vaše Mi kontakty. Použite systémovú aplikáciu Kontakty pre bezpečné mazanie Vašich kontaktov.</string>
   <string name="upgrade_msg">Aktualizácia databázy kontaktov.</string>
   <string name="upgrade_out_of_memory_notification_text">Výberom tejto možnosti dokončíte upgrade.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Upgrade kontaktu vyžaduje viac pamäti</string>
   <string name="upgrade_out_of_memory_notification_title">Nedostatok pamäti pre upgrade kontaktov</string>
   <string name="video_call">Video hovor</string>
-  <string name="voicemail_from_column">"Hlasová správa od užívateľa "</string>
-  <string name="sim_state_changed">SIM karta bola zmenená</string>
   <string name="voicemail_cleanup">Vyčistiť hlasovú schránku</string>
+  <string name="voicemail_from_column">"Hlasová správa od užívateľa "</string>
 </resources>

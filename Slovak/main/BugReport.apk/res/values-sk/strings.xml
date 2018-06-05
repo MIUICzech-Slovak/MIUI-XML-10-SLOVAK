@@ -6,6 +6,7 @@
   <string name="app_empty">Nestiahli ste žiadnu aplikáciu</string>
   <string name="app_label">Hlásenie chýb</string>
   <string name="app_name">Hlásenie chýb</string>
+  <string name="app_search">Vyhľadať apl.</string>
   <string name="btn_send">Odoslať</string>
   <string name="bugreport_dialog_not_show_again">Viac nezobrazovať</string>
   <string name="bugreport_dialog_submit_content">Vaše hlásenie môže obsahovať osobné informácie.</string>
@@ -25,6 +26,9 @@
   <string name="cta_dialog_content">Hlásenie chýb vyžaduje prístup na internet. Chcete pokračovať?</string>
   <string name="cta_dialog_title">Podmienky používania</string>
   <string name="cta_not_show_again">Viac nezobrazovať</string>
+  <string name="customer_service_apply">Request customer service</string>
+  <string name="customer_service_complain">Report customer service</string>
+  <string name="customer_service_station">Service locations</string>
   <string name="description">Našli ste novú chybu? Napíšte jej popis (v angličtine)</string>
   <string name="dialog_ask_delete">Vymazať</string>
   <string name="dialog_ask_quit">Ukončiť</string>
@@ -56,10 +60,13 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s chyba \"%2$s\"</string>
   <string name="feedback_choose_module">Vyberte položku</string>
   <string name="feedback_choose_module_hint">Povinné</string>
+  <string name="feedback_choose_reproductivity">Výskyt</string>
+  <string name="feedback_choose_third_app_name">Vyberte názov aplikácie</string>
   <string name="feedback_collect_log_failed">Nebolo možné získať záznam o chybe</string>
   <string name="feedback_continue">Pokračovať s hlásením</string>
   <string name="feedback_description">Popis chyby</string>
   <string name="feedback_description_bugreport_hint">Popis chyby v angličtine.</string>
+  <string name="feedback_description_hint">Popíšte chybu</string>
   <string name="feedback_description_label">Popis chyby v angličtine</string>
   <string name="feedback_description_suggest_hint">Popis novej funkcie v angličtine.</string>
   <string name="feedback_detail_tile">Stav</string>
@@ -90,6 +97,7 @@
   <string name="feedback_status_recorded">Prijaté hlásenia</string>
   <string name="feedback_status_replyed">Odpovedané</string>
   <string name="feedback_status_reresolved">Vyriešené</string>
+  <string name="feedback_status_submit_attachment">Nahraná príloha</string>
   <string name="feedback_status_supplement">Popíšte podrobne váš problém (v angličtine)</string>
   <string name="feedback_status_supplement_more">Pridať komentár</string>
   <string name="feedback_submit_failed_notification_desc">Zobraziť podrobnosti</string>
@@ -105,12 +113,14 @@
   <string name="feedback_third_packagename_hint">Ktorá doinštalovaná aplikácia spôsobuje problémy?</string>
   <string name="feedback_title">Názov</string>
   <string name="feedback_title_hint">Popíšte stručne chybu (v angličtine)</string>
+  <string name="feedback_title_reproductivity">Vyberte ako často sa vyskytuje chyba</string>
   <string name="feedback_tracking">Sledovať chyby</string>
   <string name="feedback_version_label">Verzia</string>
   <string name="feesback_list">Hlásenia</string>
   <string name="from">od %1$s</string>
   <string name="goon_feedback_main">Pokračovať</string>
   <string name="hint_feedback_main">Popíšte chybu</string>
+  <string name="issue_search">Vyhľadať</string>
   <string name="loading_apps">Vytváranie zoznamu...</string>
   <string name="login_system_failed">Nebolo možné sa prihlásiť, skúste to znova.</string>
   <string name="logo_title">Centrum hlásenia Chýb</string>
@@ -192,6 +202,7 @@
   <string name="section_description">Popis</string>
   <string name="section_err_type">Typ chyby</string>
   <string name="section_screenshot">Screenshot</string>
+  <string name="select_system_app_tag">Vyberte štítky</string>
   <string name="submit_dialog_cancel">Zrušiť</string>
   <string name="submit_dialog_confirm">Odoslať</string>
   <string name="submit_dialog_content">Vaše hlásenie bude odoslané na server Mi.</string>
@@ -220,6 +231,7 @@
   <string name="toast_feedback_submitting">Odosielanie...</string>
   <string name="toast_feedbackservice_in_submit">Odosielanie staršieho hlásenia...</string>
   <string name="toast_fill_brackets">Vyplňte v zátvorkách</string>
+  <string name="toast_loading_app_id">Získavanie informácií...</string>
   <string name="toast_module_required">Vyberte položku</string>
   <string name="toast_network_unavailable">Nie je možné odoslať. Pripojte sa k sieti.</string>
   <string name="toast_pending_log_collection">Zhromažďovanie záznamov, čakajte prosím</string>
@@ -234,16 +246,4 @@
   <string name="upload_log_failed">Nebolo možné odoslať záznam o chybe</string>
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
-  <string name="customer_service_apply">Request customer service</string>
-  <string name="customer_service_complain">Report customer service</string>
-  <string name="customer_service_station">Service locations</string>
-  <string name="feedback_choose_third_app_name">Vyberte názov aplikácie</string>
-  <string name="feedback_description_hint">Popíšte chybu</string>
-  <string name="feedback_status_submit_attachment">Nahraná príloha</string>
-  <string name="select_system_app_tag">Vyberte štítky</string>
-  <string name="feedback_choose_reproductivity">Výskyt</string>
-  <string name="feedback_title_reproductivity">Vyberte ako často sa vyskytuje chyba</string>
-  <string name="app_search">Vyhľadať apl.</string>
-  <string name="issue_search">Vyhľadať</string>
-  <string name="toast_loading_app_id">Získavanie informácií...</string>
 </resources>

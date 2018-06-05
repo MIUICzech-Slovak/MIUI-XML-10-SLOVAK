@@ -9,6 +9,7 @@
   <string name="credential_info">Balíček obsahuje:</string>
   <string name="credential_name">Názov certifikátu:</string>
   <string name="credential_password">Ak chcete extrahovať certifikáty, zadajte heslo.</string>
+  <string name="credential_usage_label">Použitie poverení:</string>
   <string name="done_label">HOTOVO</string>
   <string name="extracting_pkcs12">Prebieha extrahovanie...</string>
   <string name="install_done">Poverenia rozhrania %1$s boli pridané do uložených sietí Wi-Fi.</string>
@@ -23,6 +24,7 @@
   <string name="one_cacrt">jeden certifikát CA</string>
   <string name="one_usercrt">certifikát pre jedného používateľa</string>
   <string name="one_userkey">kľúč pre jedného používateľa</string>
+  <string name="only_primary_user_allowed">Certifikáty môže inštalovať iba vlastník tohto zariadenia.</string>
   <string name="p12_description">Certifikáty v úložisku kľúčov PKCS12.</string>
   <string name="password_empty_error">Zadajte heslo.</string>
   <string name="password_error">Zadajte správne heslo.</string>
@@ -63,6 +65,4 @@ Kľúč: %2$s
 "</string>
   <string name="wifi_ttls_config_text">"Používateľské meno: %s
 "</string>
-     <string name="credential_usage_label">Použitie poverení:</string>
-     <string name="only_primary_user_allowed">Certifikáty môže inštalovať iba vlastník tohto zariadenia.</string>
 </resources>

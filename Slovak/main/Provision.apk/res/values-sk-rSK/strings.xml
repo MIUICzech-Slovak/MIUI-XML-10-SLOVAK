@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enabled">Zjednodušenie je zapnuté.</string>
   <string name="agree">Súhlasím</string>
   <string name="agree_terms">Prečítal som a súhlasím s Podmienkami používania a Ochranou súkromia.</string>
   <string name="app_name">Provision</string>
   <string name="application_permissions">Povolenia aplikácií</string>
   <string name="back">Späť</string>
   <string name="congratulation_label"/>
+  <string name="congratulation_swipe">Potiahnite nahor pre spustenie systému</string>
   <string name="congratulation_title">Navštívte miuios.cz</string>
   <string name="content_description_complete">Hotovo</string>
   <string name="content_description_language_picker">Výber jazyka</string>
   <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Spustiť</string>
+  <string name="continue_to_enable_accessibility">Podržte dva prsty na displeji pre povolenie režimu zjednodušenia.</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa.</string>
   <string name="desc_international_fingerprint">Použite odtlačok prsta na odomknutie vášho zariadenia alebo prihlásenie.</string>
   <string name="disagree">Odmietnuť</string>
+  <string name="enable_accessibility_canceled">Zjednodušenie je vypnuté.</string>
   <string name="enable_accessibility_dialog_message">Povolili ste TalkBack podržaním dvoch prstov na displeji po dobu 10s. TalkBack pomáha nevidiacim užívateľom. Ak ste ho aktivovali omylom, stlačte tlačidlo zrušiť a 2x poklepte po displeji.</string>
   <string name="enable_accessibility_dialog_negative_btn">Zrušiť</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
@@ -35,10 +39,15 @@
   <string name="miui_terms_no_network">Žiadne internetové pripojenie. Podmienky používania nájdete na %s</string>
   <string name="multisim_settings_category">Nastavenie preferovanej SIM</string>
   <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
+  <string name="navigation_picker_gesture_guide">Navod pre gestá</string>
+  <string name="navigation_picker_radio_text_full_screen">Režim celej obrazovky</string>
+  <string name="navigation_picker_radio_text_virtual_key">Režim tlačidiel</string>
   <string name="network_access_warning">Pre aktiváciu zariadenia sa vyžaduje internetové pripojenie</string>
   <string name="next">Ďalej</string>
   <string name="next_fingerprint">Ďalej</string>
   <string name="other_settings">Ďalšie nastavenia</string>
+  <string name="other_settings_ad_enable">Prispôsobený výber reklám</string>
+  <string name="other_settings_ad_enable_summary">Prisplsobiť reklamy vášmu správaniu</string>
   <string name="other_settings_auto_update">Aktualizovať MIUI</string>
   <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip</string>
   <string name="other_settings_location">Prístup k polohe</string>
@@ -50,6 +59,7 @@
   <string name="other_settings_user_experience">Spätná väzba</string>
   <string name="other_settings_user_experience_summary">Pomôžte nám zlepšiť naše služby a funkcie MIUI pomocou odosielania anonymných štatistík.</string>
   <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
+  <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
   <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
   <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
   <string name="privacy_policy">Podmienky súkromia</string>
@@ -58,37 +68,27 @@
   <string name="setting_locale">Nastavovanie krajiny...</string>
   <string name="shut_down">Vypnúť</string>
   <string name="sim_card_detecting">Vyhľadávanie SIM karty...</string>
+  <string name="sim_card_detecting_check">Nebolo možné nájsť SIM kartu.</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Povoliť pripojenie k mobilným dátam?</string>
   <string name="sim_card_detecting_title">Skontrolovať SIM kartu</string>
   <string name="sim_card_detection">SIM karta sa nenašla</string>
   <string name="sim_card_detection_info">Pre vytvorenie Mi účtu sa vyžaduje SIM karta.</string>
+  <string name="sim_card_detection_mobile_not_available">SIM karta sa nemôže pripojiť k sieti</string>
   <string name="sim_dectection_next">Pokračovať</string>
   <string name="sim_redetection">Skontr. SIM</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">Vaša SIM karta sa nemôže pripojiť k sieti. Skontrolujte jej platnosť a skúste to znova.</string>
   <string name="skip_underline">Preskočiť</string>
+  <string name="start_up_slogan">Navštívte miuios.cz</string>
   <string name="summary_not_set">Nenastavené</string>
+  <string name="system_navigation_mode">Navigácia v systéme</string>
   <string name="terms_of_use">Podmienky používania</string>
   <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
+  <string name="terms_of_use_label_gms">"Vaša bezpečnosť je našou hlavnou prioritou. Prečítajte si naše Podmienky používania a Ochranu súkromia.
+
+Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred používaním MIUI."</string>
   <string name="title_fingerprint">Pridať odomknutie</string>
   <string name="two_dimensional_code_scan">Skenovanie QR kódu</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="user_strayed_warning">Táto stránka je len pre testovanie, vráťte sa naspäť.</string>
   <string name="welcome">Vitajte</string>
-  <string name="accessibility_enabled">Zjednodušenie je zapnuté.</string>
-  <string name="continue_to_enable_accessibility">Podržte dva prsty na displeji pre povolenie režimu zjednodušenia.</string>
-  <string name="enable_accessibility_canceled">Zjednodušenie je vypnuté.</string>
-  <string name="terms_of_use_label_gms">"Vaša bezpečnosť je našou hlavnou prioritou. Prečítajte si naše Podmienky používania a Ochranu súkromia.
-
-Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred používaním MIUI."</string>
-  <string name="congratulation_swipe">Potiahnite nahor pre spustenie systému</string>
-  <string name="navigation_picker_gesture_guide">Navod pre gestá</string>
-  <string name="navigation_picker_radio_text_full_screen">Režim celej obrazovky</string>
-  <string name="navigation_picker_radio_text_virtual_key">Režim tlačidiel</string>
-  <string name="sim_card_detecting_check">Nebolo možné nájsť SIM kartu.</string>
-  <string name="system_navigation_mode">Navigácia v systéme</string>
-  <string name="other_settings_ad_enable">Prispôsobený výber reklám</string>
-  <string name="other_settings_ad_enable_summary">Prisplsobiť reklamy vášmu správaniu</string>
-  <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
-  <string name="sim_card_detecting_confirm_turn_on_network">Povoliť pripojenie k mobilným dátam?</string>
-  <string name="sim_card_detection_mobile_not_available">SIM karta sa nemôže pripojiť k sieti</string>
-  <string name="sim_scard_detecting_check_mobile_not_available">Vaša SIM karta sa nemôže pripojiť k sieti. Skontrolujte jej platnosť a skúste to znova.</string>
-  <string name="start_up_slogan">Navštívte miuios.cz</string>
 </resources>

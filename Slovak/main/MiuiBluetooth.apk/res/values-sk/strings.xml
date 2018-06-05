@@ -8,6 +8,7 @@
   <string name="ble_device_rename">Premenovať</string>
   <string name="bluetooth_connected">Pripojené</string>
   <string name="bluetooth_connecting">Pripájanie...</string>
+  <string name="bluetooth_device_context_unpair">Odpárovať</string>
   <string name="bluetooth_disconnected">Odpojené</string>
   <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
@@ -44,5 +45,4 @@
   <string name="unbind_device_alert_content">Bluetooth zariadenie %1$s nie je pripojené. Jeho odpojenie môže zvýšiť výkon vášho zariadenia.</string>
   <string name="unbind_device_alert_ok">OK</string>
   <string name="unbind_device_alert_title">Odpojiť zariadenie</string>
-  <string name="bluetooth_device_context_unpair">Odpárovať</string>
 </resources>

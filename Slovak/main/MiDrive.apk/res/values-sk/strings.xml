@@ -106,6 +106,8 @@
   <string name="quota_info">MiDrive: %1$s dostupné, %2$s celkom</string>
   <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
   <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
+  <string name="request_permission_msg">Povoľte MiDrive prístup k vášmu účtu.</string>
+  <string name="request_permission_title">Vyžadujú sa povolenia</string>
   <string name="sd_full">SD karta je plná</string>
   <string name="sd_invalid">Chybná SD karta</string>
   <string name="send_to_midrive_failed">Tento typ súboru nie je podporovaný.</string>
@@ -127,10 +129,8 @@
   <string name="wait_wifi">Čakanie na pripojenie Wi-Fi</string>
   <string name="waiting">Čakám...</string>
   <string name="wangpan_root_path">MiDrive</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
-  <string name="yesterday">Včera</string>
-  <string name="request_permission_msg">Povoľte MiDrive prístup k vášmu účtu.</string>
-  <string name="request_permission_title">Vyžadujú sa povolenia</string>
   <string name="xiaomi_drive_description_content">MiDrive je online úložisko. Chcete ho prestať využívať?</string>
   <string name="xiaomi_drive_description_title">Čo je to MiDrive</string>
+  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="yesterday">Včera</string>
 </resources>

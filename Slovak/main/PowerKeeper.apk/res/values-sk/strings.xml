@@ -50,6 +50,7 @@
   <string name="disabled">Vyp</string>
   <string name="empty_title_apps_container_list">Žiadne aplikácie</string>
   <string name="enable_hide_mode">Povoliť MIUI Úsporu batérie</string>
+  <string name="enable_sleep_mode">Povolenie režimu spánku pre optimalizáciu spotreby v noci</string>
   <string name="error_filename_too_long">Zadaný názov je príliš dlhý.</string>
   <string name="extreme_power_config_mode_category">Extrémna Úspora batérie</string>
   <string name="extreme_power_config_mode_desc">Povolenie tejto funkcie deaktivuje synchronizáciu, bluetooth, GPS, NFC, prebudenie dvojitým poklepaním, podsvietenie tlačidiel, rozsvietenie displeja pri novom upozornení, LED.</string>
@@ -96,10 +97,14 @@
   <string name="new_group_name">Vlastný režim</string>
   <string name="no_applications">Žiadne</string>
   <string name="none">Žiadne procesy</string>
+  <string name="nonui_mode_config_description">Nerozsviecovať displej, LED, senzor odtlačku prsta keď je zariadenie vo vrecku.</string>
+  <string name="nonui_mode_config_title">Neinteraktívny režim</string>
   <string name="normal">Predvolený režim</string>
   <string name="notify_app_consume_abnormal_title">" vybíja batériu"</string>
   <string name="operation_create_group">Názov</string>
   <string name="operation_create_group_message">Zadajte nový názov skupiny</string>
+  <string name="performance_category">Výkon</string>
+  <string name="power_center">Výkon</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s beží abnormálne</string>
   <string name="power_checker_background_cpu_title">%1$s beží abnormálne</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s často lokalizuje</string>
@@ -163,6 +168,7 @@
   <string name="power_config_ultimate_title">Agresívne obmedzenie</string>
   <string name="power_config_ultimate_unlock_already">Všetky položky odomknuté</string>
   <string name="power_configure_screen_brightness_enable">Nastaviť jas displeja</string>
+  <string name="power_consume_abnormal_night">Nezvyčajná spotreba počas noci</string>
   <string name="power_customize_giveup_change">Zrušiť zmeny?</string>
   <string name="power_dialog_cancel">Zrušiť</string>
   <string name="power_dialog_cpu_max_freq_title">Frekvencia CPU</string>
@@ -183,6 +189,7 @@
   <string name="power_hide_mode_summary">Zakázať aplikáciám prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
   <string name="power_hide_mode_title">Úspora batérie</string>
   <string name="power_keeper">Úspora batérie</string>
+  <string name="power_mode">Nastavenie výkonu</string>
   <string name="power_mode_cpu_state_high">Výkon</string>
   <string name="power_mode_cpu_state_high_desc">Uprednostniť výkon na úkor spotreby batérie</string>
   <string name="power_mode_cpu_state_low">Úspora batérie</string>
@@ -193,6 +200,8 @@
   <string name="power_mode_view_event_title">Úlohy</string>
   <string name="power_mode_view_user_define_title">Nová úloha</string>
   <string name="power_optimize_activity_profile_file_error">Chyba Úspory batérie</string>
+  <string name="power_usage">Využitie výkonu</string>
+  <string name="pref_config_title">Optimalizácia výkonu</string>
   <string name="quick_disconnect_description">Aplikácia nebude mať prístup k sieti na pozadí</string>
   <string name="quick_disconnect_title">Odpojiť</string>
   <string name="ragment_sys_listempty">Žiadne aplikácie</string>
@@ -203,6 +212,7 @@
   <string name="screen_off">Displej Vyp.</string>
   <string name="screen_off_10_min">Displej vypnutý viac ako 10 minút</string>
   <string name="screen_on">Displej Zap.</string>
+  <string name="search_result_text">Nič sa nenašlo</string>
   <string name="select_items">Vybrané: %d</string>
   <string name="set_brightness">Max jas displeja</string>
   <string name="set_cpu_powermode">Využitie CPU</string>
@@ -213,8 +223,14 @@
   <string name="sleep_config_disable_description">MIUI nebude šetriť batériu cez noc</string>
   <string name="sleep_config_disable_title">Vypnuté</string>
   <string name="sleep_config_enhance_description">MIUI bude šetriť batériu počas noci</string>
+  <string name="sleep_config_enhance_description_non_nfc">Ak MIUI zistí, že ste zaspali, ukončí aplikácie na pozadí, obmedzí Bluetooth, GPS, mobilné dáta W-Fi, a nebude sa rozsviecovať displej pri nových upozorneniach.</string>
   <string name="sleep_config_enhance_title">Zapnuté</string>
   <string name="sleep_config_mode_title">Šetrenie batérie v noci</string>
+  <string name="sleepmode_disclaimer_agree">Súhlasím</string>
+  <string name="sleepmode_disclaimer_cancel">Zrušiť</string>
+  <string name="sleepmode_privacy_content">Táto funkcia bude využívať informácie o zariadení, ktoré nebudú nikam odosielané.</string>
+  <string name="sleepmode_privacy_link">Podrobné podmienky používania</string>
+  <string name="sleepmode_privacy_title">režim spánku</string>
   <string name="still">Obrázky</string>
   <string name="sucess">Hotovo</string>
   <string name="ui">Štandard</string>
@@ -223,20 +239,4 @@
   <string name="user_define_mode">Názov</string>
   <string name="warm_configure">Nastavenie kontroly teploty</string>
   <string name="warm_performance_tip">Vo výkonných operáciach sa môže teplota zariadenia zvýšiť viac ako je bežné</string>
-  <string name="nonui_mode_config_description">Nerozsviecovať displej, LED, senzor odtlačku prsta keď je zariadenie vo vrecku.</string>
-  <string name="nonui_mode_config_title">Neinteraktívny režim</string>
-  <string name="performance_category">Výkon</string>
-  <string name="power_center">Výkon</string>
-  <string name="power_mode">Nastavenie výkonu</string>
-  <string name="power_usage">Využitie výkonu</string>
-  <string name="sleep_config_enhance_description_non_nfc">Ak MIUI zistí, že ste zaspali, ukončí aplikácie na pozadí, obmedzí Bluetooth, GPS, mobilné dáta W-Fi, a nebude sa rozsviecovať displej pri nových upozorneniach.</string>
-  <string name="search_result_text">Nič sa nenašlo</string>
-  <string name="enable_sleep_mode">Povolenie režimu spánku pre optimalizáciu spotreby v noci</string>
-  <string name="power_consume_abnormal_night">Nezvyčajná spotreba počas noci</string>
-  <string name="sleepmode_disclaimer_agree">Súhlasím</string>
-  <string name="sleepmode_disclaimer_cancel">Zrušiť</string>
-  <string name="sleepmode_privacy_content">Táto funkcia bude využívať informácie o zariadení, ktoré nebudú nikam odosielané.</string>
-  <string name="sleepmode_privacy_link">Podrobné podmienky používania</string>
-  <string name="sleepmode_privacy_title">režim spánku</string>
-  <string name="pref_config_title">Optimalizácia výkonu</string>
 </resources>

@@ -37,6 +37,7 @@
   <string name="component_title_wallpaper">Tapeta</string>
   <string name="current_using_desktop_wallpaper_text">Domáca plocha</string>
   <string name="current_using_lockscreen_wallpaper_text">Zámok</string>
+  <string name="current_version_incompatible">Nekompatibilná verzia</string>
   <string name="deleting">Odstraňovanie...</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dizajnér</string>
@@ -53,6 +54,7 @@
   <string name="fail_to_add_account">Pridávanie účtu zlyhalo.</string>
   <string name="favorite_list">Obľúbené</string>
   <string name="favorite_list_format">Obľúbené %1$s</string>
+  <string name="find_more_theme">Vyhľadať viac</string>
   <string name="find_more_wallpapers">Viac</string>
   <string name="forcetouch_featured">Odporúčané</string>
   <string name="forcetouch_free_themes">Zdarma</string>
@@ -89,6 +91,8 @@
   <string name="gift_use_confirmation_dlg_title">Odoslať tento dar?</string>
   <string name="gift_use_fail_dlg_title">Nastala chyba</string>
   <string name="gift_used">Odoslané</string>
+  <string name="hide_free">"Skryť neplatené "</string>
+  <string name="hide_incompatible">"Skryť nekompatibilné "</string>
   <string name="home_apply_failured">Nie je možné nastaviť tapetu</string>
   <string name="home_apply_success">Tapeta nastavená</string>
   <string name="in_the_end">Nič viac</string>
@@ -122,6 +126,7 @@
   <string name="my_gifts_received">Prijaté</string>
   <string name="no_data">Nie je možné sa pripojiť k sieti</string>
   <string name="online_no_network">Sieť je nedostupná</string>
+  <string name="online_precust_abstract">Abstrakt</string>
   <string name="online_precust_animal">Zvieratá</string>
   <string name="online_precust_building">Architektúra</string>
   <string name="online_precust_cartoon">Rozprávky</string>
@@ -133,6 +138,7 @@
   <string name="online_precust_starry_sky">Vesmír</string>
   <string name="online_search_hint">Vyhľadať online informácie</string>
   <string name="present_local_themes">Stiahnuté</string>
+  <string name="present_official_themes">Oficiálny výber</string>
   <string name="present_online_themes">Online</string>
   <string name="provision_default_theme_title">Predvolené</string>
   <string name="provision_loading_tips">Načítavanie...</string>
@@ -197,6 +203,7 @@
   <string name="resource_comment_upload_not_logined">Musíte sa najskôr prihlásiť</string>
   <string name="resource_comment_upload_success">Komentár je odoslaný! Zobrazí sa až po jeho schválení.</string>
   <string name="resource_continue">Ďalej</string>
+  <string name="resource_current_using_title">Súčasné zdroje</string>
   <string name="resource_data_empty">Prázdne</string>
   <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroj</string>
@@ -244,6 +251,8 @@
   <string name="resource_exchange_wrong_format_by_server">"Kód nebol overený. Uistite sa, že ste ho zadali správne."</string>
   <string name="resource_expand_full_text">Rozbaliť</string>
   <string name="resource_failed_to_load_list">Načítavanie zoznamu zlyhalo</string>
+  <string name="resource_free_trial_15_days">Vyskúšajte si na 15 dní zdarma</string>
+  <string name="resource_free_use_last_one_day">Skušobná doba skončila.</string>
   <string name="resource_get_auth_checking">Kontrola autorizácie...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Mi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Mi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizácia zariadení pre tento účet presiahla limit</string>
@@ -255,7 +264,9 @@
   <string name="resource_import_failed">Import zlyhal</string>
   <string name="resource_import_successful">Sťahovanie dokončené</string>
   <string name="resource_importing">Importovanie...</string>
+  <string name="resource_is_off_shelf">Nie je dostupné</string>
   <string name="resource_list_title">Posledné zvolené</string>
+  <string name="resource_local_picker">Vybrať lokálne zvonenie</string>
   <string name="resource_menu_refresh">Obnoviť</string>
   <string name="resource_mute">Žiadne</string>
   <string name="resource_my">Lokálne</string>
@@ -265,7 +276,9 @@
   <string name="resource_no_result">Nenašlo sa</string>
   <string name="resource_notification_default">Upozornenia</string>
   <string name="resource_on_trial">Skúšate: %1$s</string>
+  <string name="resource_on_use">Použité: %1$s</string>
   <string name="resource_online">Online</string>
+  <string name="resource_online_picker">Vybrať online zvonenie</string>
   <string name="resource_pack_confirm">Už ste zakúpili %1$d položiek, ale súčasná cena je stále výhodnejšia ako ich zakúpenie jednotlivo, pokračovať?</string>
   <string name="resource_pack_discount_info">O %1$s menej!</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná.</string>
@@ -302,6 +315,7 @@
   <string name="resource_select_boot_audio_confirm">Vybrať tento zvuk pri spúšťaní?</string>
   <string name="resource_select_notification_audio_confirm">Vybrať tento zvuk budíku?</string>
   <string name="resource_select_ringtone_audio_confirm">Vybrať toto zvonenie?</string>
+  <string name="resource_select_ringtone_confirm">Vybrať toto zvonenie?</string>
   <string name="resource_selected">Najlepšie</string>
   <string name="resource_send">Odoslať</string>
   <string name="resource_server_alert_dialog_title">Server je momentálne nedostupný</string>
@@ -319,6 +333,9 @@
   <string name="resource_title_rank">Najlepšie</string>
   <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
   <string name="resource_title_subject">Populárne</string>
+  <string name="resource_trial_15_days_end_title">Skušobná doba 15 dní skončila</string>
+  <string name="resource_trial_15_days_immediately">Skúsiť na 15 dní</string>
+  <string name="resource_trial_end_change">Zmeniť</string>
   <string name="resource_trial_end_message">Skúšobná verzia %1$s vypršala. Ak sa vám páči, môžete si ju zakúpiť.</string>
   <string name="resource_trial_end_purchase">Zakúpiť</string>
   <string name="resource_trial_end_restore">Ukončiť skúšku</string>
@@ -421,16 +438,19 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="title_component">Upraviť tému</string>
   <string name="title_my_audio_resource">Moje zvonenia</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
+  <string name="title_system_audio_notification_resource">Upozornenia systému</string>
   <string name="title_system_audio_resource">Systémové zvonenia</string>
   <string name="title_system_wallpaper_resource">Systémové tapety</string>
   <string name="to_activate_the_account">Aktivovať Mi účet.</string>
   <string name="uid_change_dialog_message">Vymazali ste aktualizácie. Reštartujte zariadenie pre použitie nových tém.</string>
   <string name="uid_change_dialog_ok">Rozumiem</string>
   <string name="uid_change_dialog_title">Rešťartujte zariadenie</string>
+  <string name="up_to_the_end">To je všetko. Príďte znova neskôr.</string>
   <string name="wallpaper_apply">Použiť</string>
   <string name="wallpaper_auto_change_title">Zamykacia obrazovka</string>
   <string name="wallpaper_crop">Orezať</string>
   <string name="wallpaper_decoded_error">Nepodarilo sa dešifrovať!</string>
+  <string name="wallpaper_detail_load_page_no_network">Pripojte sa k sieti a skúste to znova.</string>
   <string name="wallpaper_loading_text">Načítava sa...</string>
   <string name="wallpaper_scroll_type_tips">Posúvanie tapety</string>
   <string name="wallpaper_set_as_both">Plocha a zámok</string>
@@ -444,24 +464,4 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="wallpaper_settings_no_history">Žiadna história</string>
   <string name="wallpaper_settings_pad_more_page_title">Viac tapiet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
-  <string name="current_version_incompatible">Nekompatibilná verzia</string>
-  <string name="hide_free">"Skryť neplatené "</string>
-  <string name="hide_incompatible">"Skryť nekompatibilné "</string>
-  <string name="find_more_theme">Vyhľadať viac</string>
-  <string name="online_precust_abstract">Abstrakt</string>
-  <string name="present_official_themes">Oficiálny výber</string>
-  <string name="resource_current_using_title">Súčasné zdroje</string>
-  <string name="resource_free_trial_15_days">Vyskúšajte si na 15 dní zdarma</string>
-  <string name="resource_free_use_last_one_day">Skušobná doba skončila.</string>
-  <string name="resource_is_off_shelf">Nie je dostupné</string>
-  <string name="resource_local_picker">Vybrať lokálne zvonenie</string>
-  <string name="resource_on_use">Použité: %1$s</string>
-  <string name="resource_online_picker">Vybrať online zvonenie</string>
-  <string name="resource_select_ringtone_confirm">Vybrať toto zvonenie?</string>
-  <string name="resource_trial_15_days_end_title">Skušobná doba 15 dní skončila</string>
-  <string name="resource_trial_15_days_immediately">Skúsiť na 15 dní</string>
-  <string name="resource_trial_end_change">Zmeniť</string>
-  <string name="title_system_audio_notification_resource">Upozornenia systému</string>
-  <string name="up_to_the_end">To je všetko. Príďte znova neskôr.</string>
-  <string name="wallpaper_detail_load_page_no_network">Pripojte sa k sieti a skúste to znova.</string>
 </resources>

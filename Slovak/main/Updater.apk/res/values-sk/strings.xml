@@ -10,8 +10,8 @@
   <string name="btn_no">Zrušiť</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Zastaviť</string>
-  <string name="btn_stop">Ukončiť</string>
   <string name="btn_share">Zdieľať</string>
+  <string name="btn_stop">Ukončiť</string>
   <string name="btn_yes">Áno</string>
   <string name="check_new_version">Skontrolovať</string>
   <string name="dialog_3g_desc">Sťahovanie novej verzie MIUI cez mobilné dáta môže navýšiť vaše mesačné poplatky. Odporúča sa pripojiť na Wi-Fi.</string>
@@ -31,6 +31,8 @@ Vaše dáta nebudú vymazané."</string>
   <string name="menu_title_current_version_log">Informácie o aktualizácií</string>
   <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
   <string name="menu_title_recovery">Reštartovať do TWRP recovery</string>
+  <string name="message_checkbox">Nezobrazovať oznámenia od miuios.cz</string>
+  <string name="message_title">Oznámenie!</string>
   <string name="new_version">Je dostupná nová verzia MIUI!</string>
   <string name="no_info">Informácie nie sú dostupné</string>
   <string name="no_network">Žiaden prístup k sieti.</string>
@@ -56,6 +58,4 @@ Vaše dáta nebudú vymazané."</string>
   <string name="version">Nainštalovaná verzia</string>
   <string name="weekly">Týždenná</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
-  <string name="message_checkbox">Nezobrazovať oznámenia od miuios.cz</string>
-  <string name="message_title">Oznámenie!</string>
 </resources>

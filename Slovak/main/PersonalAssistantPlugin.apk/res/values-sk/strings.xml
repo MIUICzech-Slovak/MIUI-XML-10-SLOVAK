@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Clock_main">Budík</string>
+  <string name="Clock_parent">Hodiny</string>
+  <string name="MiDrop_main">Odoslať</string>
+  <string name="MiDrop_parent">MiDrop</string>
+  <string name="Paytm_main">Načítať</string>
+  <string name="Paytm_parent">Platby</string>
   <string name="agenda_assistant">Udalosť v kalendári</string>
   <string name="agenda_assistant_account_num">Účet</string>
   <string name="agenda_assistant_add">Nová udalosť</string>
@@ -109,6 +115,7 @@
   <string name="no_install">Nenainštalované</string>
   <string name="note_name">Nová poznámka</string>
   <string name="note_parent">Poznámky</string>
+  <string name="paycode_sdk_parent">Platenie</string>
   <string name="personalAssistant_mainpage">Hlavná stránka</string>
   <string name="plan">Scheduled</string>
   <string name="qq_new">New status</string>
@@ -160,18 +167,11 @@
   <string name="wx_collectioncode">Receive payment</string>
   <string name="wx_name">My card</string>
   <string name="wx_parent">WeChat</string>
+  <string name="wx_paycode">Platby</string>
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Batéria</string>
   <string name="xiaomi_search_label">Vyhľadať</string>
   <string name="year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="Clock_main">Budík</string>
-  <string name="Clock_parent">Hodiny</string>
-  <string name="MiDrop_parent">MiDrop</string>
-  <string name="MiDrop_main">Odoslať</string>
-  <string name="paycode_sdk_parent">Platenie</string>
-  <string name="wx_paycode">Platby</string>
-  <string name="Paytm_parent">Platby</string>
-  <string name="Paytm_main">Načítať</string>
 </resources>
