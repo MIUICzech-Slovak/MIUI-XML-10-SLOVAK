@@ -5324,4 +5324,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="wifi_traffic_priority_regular">Normálny režim</string>
      <string name="wifi_traffic_priority_regular_summary">Zdieľať pásmo medzi aplikáciami v popredí a na pozadí</string>
      <string name="wifi_traffic_priority_summary">Uprednostniť rýchlosť pripojenia automaticky</string>  
+  <string name="notch_force_black_desc">Ak je zapnuté, oblasť výrezu bude čierna</string>
+  <string name="notch_force_black_title">Skryť výrez na displeji</string>	 
 </resources>

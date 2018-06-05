@@ -1310,4 +1310,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="search_quick_dial_setting">Kontakty</string>
   <string name="preference_contacts_moresetting">Viac</string>
   <string name="preference_display_contact">Nastavenie zobrazenia</string>
+  <string name="no_setting_menu">Nastavenie menu nie je dostupné</string>
 </resources>

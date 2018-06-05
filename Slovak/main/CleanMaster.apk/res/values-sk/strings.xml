@@ -501,4 +501,10 @@
   <string name="mainbtn_text_no_trash">Preskočiť</string>
   <string name="clean_long_msg">"Čistenie %1$d súborov,%2$d dokončené 
 %3$d%% položiek/s ostávajúci čas: %4$s"</string>
+  <string name="tips_low_storage_dialog_cancel">Zrušiť</string>
+  <string name="tips_low_storage_dialog_msg_storage">Máte zaplnených 90% interného úložiska. Odinštalujte aplikácie ktoré nepoužívate.</string>
+  <string name="tips_low_storage_dialog_ok">Vyčistiť</string>
+  <string name="tips_low_storage_dialog_ok_storage">Uvoľniť miesto</string>
+  <string name="tips_low_storage_dialog_title">Dochádza vám voľne miesto</string>
+  <string name="menu_open">Otvoriť</string>
 </resources>

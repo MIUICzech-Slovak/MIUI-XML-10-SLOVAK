@@ -57,4 +57,21 @@
         <item>Mrznúci dážď</item>
         <item></item>
     </string-array>
+     <string-array name="miui_volume_timer_segments_title">
+        <item>Vyp</item>
+        <item>30 minút</item>
+        <item>1 hodinu</item>
+        <item>2 hodiny</item>
+        <item>8 hodín</item>
+     </string-array>	
+     <string-array name="battery_options">
+        <item>Vždy zobrazovať percentá</item>
+        <item>Zobraziť percentá počas nabíjania</item>
+        <item>Nezobrazovať túto ikonu</item>
+     </string-array>
+     <string-array name="clock_options">
+        <item>Zobraziť hodiny, minúty a sekundy</item>
+        <item>Zobraziť hodiny a minúty</item>
+        <item>Nezobrazovať túto ikonu</item>
+     </string-array>	 
 </resources>
