@@ -1098,14 +1098,12 @@ Pripojili ste sa k aplikácii %3$s, ktorá môže sledovať vašu osobnú aktiv
 
 Ďalšie informácie vám poskytne správca."</string>
      <string name="monitoring_description_ca_cert_settings">Otvoriť dôveryhodné poverenia</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
      <string name="monitoring_description_ca_certificate">V tomto zariadení je nainštalovaná certifikačná autorita. Zabezpečená sieťová premávka môže byť sledovaná či upravená.</string>
      <string name="monitoring_description_do_body">Správca môže sledovať a spravovať nastavenia, firemný prístup, aplikácie a údaje súvisiace s týmto zariadením vrátane informácií o polohe vášho zariadenia.</string>
      <string name="monitoring_description_do_body_vpn">Ste pripojený/-á k aplikácii %1$s, ktorá môže sledovať vašu aktivitu v sieti vrátane e-mailových správ, aplikácií a webových stránok.</string>
      <string name="monitoring_description_do_header_generic">Vaše zariadenie spravuje aplikácia %1$s.</string>
      <string name="monitoring_description_do_header_with_name">%1$s spravuje vaše zariadenie pomocou aplikácie %2$s.</string>
      <string name="monitoring_description_do_learn_more">Ďalšie informácie</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
      <string name="monitoring_description_managed_profile_ca_certificate">Organizácia nainštalovala pre váš pracovný profil certifikačnú autoritu. Zabezpečená sieťová premávka môže byť sledovaná či upravená.</string>
      <string name="monitoring_description_managed_profile_named_vpn">Váš pracovný profil je pripojený k aplikácii %1$s, ktorá môže sledovať vašu aktivitu v sieti vrátane správ, aplikácií a webových stránok.</string>
      <string name="monitoring_description_management">"Zariadenie spravuje vaša organizácia.
@@ -1137,7 +1135,6 @@ Správca môže sledovať vašu aktivitu v sieti vrátane e-mailov, aplikácií
 
 Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu aktivitu v rámci siete."</string>
      <string name="monitoring_description_vpn_settings">Otvoriť nastavenia pripojenia VPN</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="monitoring_subtitle_ca_certificate">Certifikáty CA</string>
      <string name="monitoring_subtitle_network_logging">Zapisovanie do denníka siete</string>
      <string name="monitoring_subtitle_vpn">VPN</string>
