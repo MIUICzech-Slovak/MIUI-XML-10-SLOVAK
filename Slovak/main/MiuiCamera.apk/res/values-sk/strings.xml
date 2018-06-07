@@ -588,4 +588,16 @@ a zvýrazniť osobu na fotografii"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
+  <string name="edit_chin">Brada</string>
+  <string name="edit_lips">Pery</string>
+  <string name="edit_neck">Krk</string>
+  <string name="edit_nose">Nos</string>
+  <string name="edit_risorius">Risorius</string>
+  <string name="edit_slim_nose">Nos</string>
+  <string name="edit_smile">Úsmev</string>
+  <string name="hibernate_hint">Dotknite sa displeja pre spustenie Fotoaparátu</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D skrášlenie</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Vysoká kompatibilita</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Vysoká kvalita</string>
+  <string name="pref_video_encoder_title">Kódovanie videa</string>
 </resources>
