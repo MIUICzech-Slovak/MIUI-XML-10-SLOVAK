@@ -995,7 +995,6 @@ Skúste to znova o %2$d s."</string>
   <string name="left_keycode">Ľavý kód klávesnice</string>
   <string name="left_nav_bar_button_type">Dodatočný typ ľavého tlačidla</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading_desktop">Načítavanie...</string>
   <string name="local_backup_password_summary_change">Klepnutím zmeníte alebo odstránite heslo pre úplné zálohy do počítača</string>
   <string name="local_backup_password_summary_none">Úplné zálohy na počítači nie sú momentálne chránené</string>
