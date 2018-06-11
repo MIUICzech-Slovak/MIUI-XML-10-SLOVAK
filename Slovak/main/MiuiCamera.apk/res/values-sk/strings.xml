@@ -599,4 +599,8 @@ a zvýrazniť osobu na fotografii"</string>
   <string name="pref_video_encoder_entry_h264">H.264 Vysoká kompatibilita</string>
   <string name="pref_video_encoder_entry_h265">H.265 Vysoká kvalita</string>
   <string name="pref_video_encoder_title">Kódovanie videa</string>
+  <string name="lens_dirty_detected_content">"Máte zašpinený objektív fotoaparátu,
+prosím vyčistite ho pre lepšie fotografie."</string>
+  <string name="lens_dirty_detected_title_back">Zadný fotoaparát je špinavý</string>
+  <string name="lens_dirty_detected_title_front">Predný fotoaparát je špinavý</string>
 </resources>

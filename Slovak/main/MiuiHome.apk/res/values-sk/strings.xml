@@ -160,7 +160,7 @@
   <string name="guide_install_app_title">Inštalovať Aplikáciu</string>
   <string name="guide_tips_editing_mode">Podržte prst na widgete pre jeho pretiahnutie na obrazovku</string>
   <string name="home_screen">Domáca obrazovka</string>
-  <string name="icon_reorganize_channel">图标整理</string>
+  <string name="icon_reorganize_channel">Usporiadať ikony</string>
   <string name="image_too_small_message">Obrázok nemá dostatočnú veľkosť</string>
   <string name="install">Inštalovať</string>
   <string name="invalid_contact_shortcut">Neplatný zástupca kontaktu</string>
@@ -212,7 +212,7 @@
   <string name="notification_open_button">Otvoriť</string>
   <string name="notification_reset_description">%1$s%1$s Môže obnoviť launcher do %2$s</string>
   <string name="notification_reset_duration">O dve hodiny,</string>
-  <string name="notification_reset_title">Čistenie dokončené</string>
+  <string name="notification_reset_title">Usporiadanie ikon dokončené</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Zrušiť</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovať</string>
@@ -325,4 +325,6 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="widget_quick_function">Skratky</string>
+  <string name="reset_description_first_time">Môžete obnoviť rozloženie ikon z %1$s do 2 hodín</string>
+  <string name="reset_description_others">Môžete obnoviť rozloženie ikon z %1$s</string>
 </resources>

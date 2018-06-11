@@ -1409,7 +1409,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
   <string name="quick_settings_rotation_locked_label">Otáčanie je uzamknuté</string>
   <string name="quick_settings_rotation_locked_landscape_label">Na šírku</string>
   <string name="quick_settings_rotation_locked_portrait_label">Na výšku</string>
-  <string name="quick_settings_rotation_unlocked_label">Automatické otáčanie</string>
+  <string name="quick_settings_rotation_unlocked_label">Otáčanie</string>
   <string name="quick_settings_rssi_emergency_only">Len tiesňové volania</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">Tlačidlá</string>
@@ -1867,4 +1867,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
   <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
   <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
+  <string name="data_connection_no_internet">Žiaden internet</string>
+  <string name="quick_settings_night_secondary_label_on_at">Zapnuté o %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Zapnuté od západe slnka</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Do východu slnka</string>
+  <string name="quick_settings_secondary_label_until">Do %s</string>
 </resources>

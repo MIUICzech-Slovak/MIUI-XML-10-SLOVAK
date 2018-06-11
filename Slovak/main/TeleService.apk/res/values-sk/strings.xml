@@ -1708,4 +1708,11 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="preferred_wificall_title">Nastavenie siete</string>
+  <string name="wfcmode_mobile_preferred">Preferovať mobilné</string>
+  <string name="wfcmode_wifi_only">Iba Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Preferovať Wi-Fi</string>
+  <string name="wifi_call_setting">Wi-Fi volania</string>
+  <string name="wificall_switch_summary">Vaše zariadenie môže prepínať medzi Wi-Fi a VoLTE ak je slabé pripojenie</string>
+  <string name="wificall_switch_title">Vykonať hovory cez Wi-Fi</string>
 </resources>
