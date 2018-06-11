@@ -870,7 +870,6 @@ Použite sieťovú nabíjačku."</string>
   <string name="keyguard_missing_sim_instructions_long">SIM karta chýba alebo sa z nej nedá čítať. Vložte SIM kartu.</string>
   <string name="keyguard_missing_sim_message">V telefóne nie je žiadna SIM karta.</string>
   <string name="keyguard_missing_sim_message_short">Žiadna SIM karta</string>
-  <string name="keyguard_more_overflow_text">+%d</string>
   <string name="keyguard_network_locked_message">Sieť je zablokovaná</string>
   <string name="keyguard_password_enter_password_code">Zadajte heslo na odomknutie</string>
   <string name="keyguard_password_enter_pin_code">Zadajte kód PIN</string>
