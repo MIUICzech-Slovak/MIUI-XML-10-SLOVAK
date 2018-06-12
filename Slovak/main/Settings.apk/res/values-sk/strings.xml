@@ -5324,4 +5324,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="miui_lab_ai_cloud_closed">"AI prednačítavanie nie je dostupné.</string>
+  <string name="miui_lab_ai_preload_desc">AI prednačítavanie zvyšuje rýchlosť spúšťania aplikácií</string>
+  <string name="miui_lab_ai_preload_title">AI prednačítavanie</string>  
 </resources>

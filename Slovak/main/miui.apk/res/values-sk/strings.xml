@@ -332,4 +332,9 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="cancel_description">Zrušiť</string>
+  <string name="confirm_description">Potvrdiť</string>
+  <string name="delete_description">Vymazať</string>
+  <string name="deselect_all_description">Odznačiť</string>
+  <string name="select_all_description">Všetko</string>
 </resources>
