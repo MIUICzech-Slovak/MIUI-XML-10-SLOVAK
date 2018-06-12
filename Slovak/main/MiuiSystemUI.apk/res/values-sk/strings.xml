@@ -1595,7 +1595,6 @@ d. MMMM"</string>
   <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
   <string name="status_bar_network_flow_purchase">" | Zakúpiť &gt;"</string>
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">Žiadne upozornenia</string>
   <string name="status_bar_no_recent_apps">Žiadne aplikácie v RAM</string>
   <string name="status_bar_notification_app_settings_title">Nastavenia aplikácie %s</string>
