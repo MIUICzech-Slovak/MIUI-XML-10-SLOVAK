@@ -603,4 +603,5 @@ a zvýrazniť osobu na fotografii"</string>
 prosím vyčistite ho pre lepšie fotografie."</string>
   <string name="lens_dirty_detected_title_back">Zadný fotoaparát je špinavý</string>
   <string name="lens_dirty_detected_title_front">Predný fotoaparát je špinavý</string>
+  <string name="back_bokeh_use_hint">Uistite sa, že objekt nie je ďalej ako 1,5m.</string>
 </resources>

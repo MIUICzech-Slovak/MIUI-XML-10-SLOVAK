@@ -1311,4 +1311,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="preference_show_firewall_calllog">Zobraziť blokované hovory v zozname hovorov</string>
 </resources>

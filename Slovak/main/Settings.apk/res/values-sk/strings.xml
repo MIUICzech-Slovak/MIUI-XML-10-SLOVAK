@@ -5327,4 +5327,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="miui_lab_ai_cloud_closed">"AI prednačítavanie nie je dostupné.</string>
   <string name="miui_lab_ai_preload_desc">AI prednačítavanie zvyšuje rýchlosť spúšťania aplikácií</string>
   <string name="miui_lab_ai_preload_title">AI prednačítavanie</string>  
+  <string name="wifi_click_login_wlan">Vyžaduje prihlásenie/autorizáciu</string>
 </resources>
