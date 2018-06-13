@@ -1203,7 +1203,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="details_title">Podrobnosti používania</string>
   <string name="dev_settings_warning_message">Tieto nastavenia sú len pre vývojárske účely. Môžu spôsobiť nestabilitu systému.</string>
   <string name="dev_settings_warning_title">Povoliť vývojárske nastavenia?</string>
-  <string name="developer_build">" | Týždenná"</string>
+  <string name="developer_build">Týždenná</string>
   <string name="development_enable">Povoliť vývoj</string>
   <string name="development_settings_not_available">Pre tohto používateľa sú možnosti vývojára nedostupné</string>
   <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>
