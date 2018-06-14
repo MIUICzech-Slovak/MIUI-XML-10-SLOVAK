@@ -109,8 +109,8 @@
   <string name="minute">1 minúta</string>
   <string name="minutes">%d minút</string>
   <string name="module_download_cancel">Neskôr</string>
-  <string name="module_download_data_msg">Pre funkciu inteligentného budíka, zvukov prírody a narodenín, aplikácia vyžaduje prístup k vašim kontaktom a sieti. Použiť mobilné dáta pre stiahnutie nových zvukov?</string>
-  <string name="module_download_data_msg_golbal">Pre funkciu inteligentného budíka a zvukov prírody sa vyžaduje stiahnutie nových zvukov. Použiť mobilné dáta pre stiahnutie nových zvukov?</string>
+  <string name="module_download_data_msg">Pre funkciu inteligentného budíka, zvukov prírody a narodenín, aplikácia vyžaduje prístup k vašim kontaktom a sieti. Použiť mobilné dáta pre stiahnutie nových zvukov (20MB)?</string>
+  <string name="module_download_data_msg_golbal">Pre funkciu inteligentného budíka a zvukov prírody sa vyžaduje stiahnutie nových zvukov. Použiť mobilné dáta pre stiahnutie nových zvukov (20MB)?</string>
   <string name="module_download_fail">Nebolo možné stiahnuť zvuky</string>
   <string name="module_download_msg">Pre funkciu inteligentného budíka, zvukov prírody a narodenín, aplikácia vyžaduje prístup k vašim kontaktom a sieti. Súhlasíte?</string>
   <string name="module_download_msg_golbal">Pre funkciu inteligentného budíka a zvukov prírody sa vyžaduje stiahnutie nových zvukov. Súhlasíte?</string>
@@ -207,4 +207,5 @@
   <string name="worldcolock_timezone_local">Rovnaký čas ako u vás</string>
   <string name="open_keep_screen">Displej sa nezhasne</string>
   <string name="shut_down_keep_screen">Displej sa zhasne</string>
+  <string name="dialog_message_not_remind">Viac nezobrazovať</string>
 </resources>
