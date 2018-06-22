@@ -327,4 +327,6 @@
   <string name="widget_quick_function">Skratky</string>
   <string name="reset_description_first_time">Môžete obnoviť rozloženie ikon z %1$s do 2 hodín</string>
   <string name="reset_description_others">Môžete obnoviť rozloženie ikon z %1$s</string>
+  <string name="default_folder_title_services">Služby</string>
+  <string name="open_personal_assistant_dialog_desc_international">Nebude možné využívať karty asistenta.</string>
 </resources>
