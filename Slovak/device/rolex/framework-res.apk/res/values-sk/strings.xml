@@ -476,7 +476,6 @@ Naozaj chcete túto stránku opustiť?"</string>
   <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
   <string name="kg_sim_pin_instructions">Zadajte kód PIN SIM karty</string>
   <string name="kg_sim_unlock_progress_dialog_message">Prebieha odomykanie SIM karty...</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Skúste to znova o %1$d s.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"%d-krát ste zadali nesprávne heslo. 
 
