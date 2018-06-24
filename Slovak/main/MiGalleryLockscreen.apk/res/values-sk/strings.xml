@@ -61,4 +61,22 @@
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
   <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
+ <string name="cat_1">Mesto</string>
+   <string name="cat_2">Animované</string>
+   <string name="cat_3">Interiér</string>
+   <string name="cat_4">Šport</string>
+   <string name="cat_5">Pop</string>
+   <string name="cat_6">Ľudia</string>
+   <string name="cat_7">Autá</string>
+   <string name="cat_8">Veda</string>
+   <string name="cat_9">Móda</string>
+   <string name="cat_10">Príroda</string>
+   <string name="cat_11">Technológia</string>
+   <string name="cat_12">Umenie</string>
+   <string name="cat_13">Jedlo</string>
+   <string name="cat_14">Herci</string>
+   <string name="cat_15">Herečky</string>
+   <string name="cat_16">Ženy</string>
+   <string name="cat_17">Filmy</string>
+   <string name="cat_18">Zvieratá</string>   
 </resources>
