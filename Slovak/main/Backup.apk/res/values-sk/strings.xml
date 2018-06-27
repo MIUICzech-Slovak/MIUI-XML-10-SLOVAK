@@ -594,4 +594,11 @@ Uvoľnite priestor alebo preneste menej súborov."</string>
   <string name="usb_trans_old_phone_low_space_title">Nie je dostatok voľného miesta</string>
   <string name="usb_trans_select_data_no_space">"Je dostupné len %s na USB úložisku.
 Uvoľnite priestor alebo preneste menej súborov."</string>
+  <string name="err_acquire_system_service">Nebolo možné spustiť službu.</string>
+  <string name="trans_button_exit">Ukončiť</string>
+  <string name="trans_button_stay">Zostať</string>
+  <string name="trans_cancel_selection_message">Ak ukončíte Prenos, transfér bude prerušený.</string>
+  <string name="trans_cancel_selection_title">Zostať v Presune</string>
+  <string name="trans_select_notification_message">Dotykom zobrazíte</string>
+  <string name="trans_select_notification_title">Prenos pracuje...</string>
 </resources>

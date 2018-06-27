@@ -208,4 +208,6 @@
   <string name="open_keep_screen">Displej sa nezhasne</string>
   <string name="shut_down_keep_screen">Displej sa zhasne</string>
   <string name="dialog_message_not_remind">Viac nezobrazovať</string>
+  <string name="add_clock">Pridať hodiny</string>
+  <string name="content_desc_keep_screen">\"Nezhasínať displej\" tlačidlo</string>
 </resources>

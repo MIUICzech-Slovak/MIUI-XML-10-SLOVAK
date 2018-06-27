@@ -1870,4 +1870,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="quick_settings_night_secondary_label_on_at_sunset">Zapnuté od západe slnka</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Do východu slnka</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
+  <string name="accessibility_menu_item_split_disable">Aplikácia nepodporuje rozdelenie obrazovky.</string>
+  <string name="accessibility_menu_item_split_enable">Aplikácia podporuje rozdelenie obrazovky</string>
+  <string name="accessibility_splite_screen_primary">Pridať do primárnej rozdelenej obrazovky</string>
+  <string name="accessibility_splite_screen_secondary">Pridať do sekundárnej rozdelenej obrazovky</string>
 </resources>
