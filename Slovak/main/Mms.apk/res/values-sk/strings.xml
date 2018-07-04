@@ -648,11 +648,11 @@
   <string name="stick">Pripnúť</string>
   <string name="stick_conversation">Pripnúť konverzáciu</string>
   <string name="sticked_conversation">Správa je pripnutá</string>
-  <string name="storage_dialog_attachments">Prílohy MMS:</string>
-  <string name="storage_dialog_available_space">Dostupné:</string>
-  <string name="storage_dialog_database">Databáza:</string>
+  <string name="storage_dialog_attachments">"Prílohy MMS: "</string>
+  <string name="storage_dialog_available_space">"Dostupné: "</string>
+  <string name="storage_dialog_database">"Databáza: "</string>
   <string name="storage_dialog_mms">MMS: %d</string>
-  <string name="storage_dialog_mms_size">Veľkosť MMS:</string>
+  <string name="storage_dialog_mms_size">"Veľkosť MMS: "</string>
   <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Obmedzenia úložiska</string>
   <string name="storage_limits_message">Chcete obmedziť počet správ a šetriť tak miesto na rozhovor?</string>

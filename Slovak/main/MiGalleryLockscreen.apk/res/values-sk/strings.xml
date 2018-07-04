@@ -61,7 +61,7 @@
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
   <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
- <string name="cat_1">Mesto</string>
+  <string name="cat_1">Mesto</string>
    <string name="cat_2">Animované</string>
    <string name="cat_3">Interiér</string>
    <string name="cat_4">Šport</string>
@@ -79,4 +79,10 @@
    <string name="cat_16">Ženy</string>
    <string name="cat_17">Filmy</string>
    <string name="cat_18">Zvieratá</string>   
+  <string name="idbct_desc">Prispôsobiť kvalitu tapiet</string>
+  <string name="idbct_opt_auto_select_desc_text">Stiahnuť v nižšom rozlíšení na mobilných dátach a v HD na Wi-Fi</string>
+  <string name="idbct_opt_auto_select_main_text">Automaticky</string>
+  <string name="idbct_opt_high_def_desc_text">Vždy stiahnuť v HD kvalite</string>
+  <string name="idbct_opt_high_def_main_text">HD</string>
+  <string name="idbct_title">Režim sťahovania</string>
 </resources>
