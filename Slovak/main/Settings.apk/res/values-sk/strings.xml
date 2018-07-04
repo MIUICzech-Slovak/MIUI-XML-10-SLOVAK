@@ -5337,7 +5337,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="lockpassword_choose_your_pin_title">Zadajte 4-16 čísel</string>
   <string name="add_fingerprint_dirty_fingerprint">Ujistite sa, že je povrch displeja čistý. Skúste nastaviť váš odtlačok prsta znova.</string>
   <string name="add_fingerprint_move_fast">Podržte váš prst o trochu dlhšie</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Povoliť dôležité upozornenia na zamykacej obrazovke</string>
   <string name="flash_drive_backup_restore">Zálohovať alebo obnoviť pomocou USB</string>
   <string name="flash_drive_backup_restore_summary">Pripojte USB kľuč</string>
   <string name="extended_power_menu">Rozšírené menu reštartovania</string>
