@@ -3936,7 +3936,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_show_carrier_summary">Zobraziť len na uzamknutej obrazovke a v roletke</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Zobraziť názov operátora na zamyk. obrazovke</string>
   <string name="status_bar_settings_show_floating_notification">Plávajúce upozornenia</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Plávajúce upozornenia automaticky zmiznú po zobrazení sa v hornej časti displeja.</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Povoliť dôležité upozornenia na vrchu obrazovky.</string>
   <string name="status_bar_settings_show_flow_info">Zobraziť info o spotrebe dát</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikácie</string>
   <string name="status_bar_settings_show_keyguard_notification">Upozornenia na zamykacej obr.</string>
@@ -5337,4 +5337,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="lockpassword_choose_your_pin_title">Zadajte 4-16 čísel</string>
   <string name="add_fingerprint_dirty_fingerprint">Ujistite sa, že je povrch displeja čistý. Skúste nastaviť váš odtlačok prsta znova.</string>
   <string name="add_fingerprint_move_fast">Podržte váš prst o trochu dlhšie</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Povoliť dôležité upozornenia na zamykacej obrazovke</string>
+  <string name="flash_drive_backup_restore">Zálohovať alebo obnoviť pomocou USB</string>
+  <string name="flash_drive_backup_restore_summary">Pripojte USB kľuč</string>
+  <string name="extended_power_menu">Rozšírené menu reštartovania</string>
 </resources>

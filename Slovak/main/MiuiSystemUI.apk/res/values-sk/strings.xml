@@ -1874,4 +1874,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="accessibility_menu_item_split_enable">Aplikácia podporuje rozdelenie obrazovky</string>
   <string name="accessibility_splite_screen_primary">Pridať do primárnej rozdelenej obrazovky</string>
   <string name="accessibility_splite_screen_secondary">Pridať do sekundárnej rozdelenej obrazovky</string>
+  <string name="miui_guide_dialog_button_negative_text">Nastavenia</string>
+  <string name="miui_guide_dialog_button_positive_text">Rozumiem</string>
+  <string name="miui_guide_dialog_message">Zvuky médií (hudba, videá, atď.) budú stále prehrávané v Tichom režime. Môžete to zmeniť v Nastaveniach.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Zvonenie, upozornenenia a zvuky médií budú prehrávané.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Zvonenie, upozornenenia a zvuky médií budú stíšené.</string>
 </resources>

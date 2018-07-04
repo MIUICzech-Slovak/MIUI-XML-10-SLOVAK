@@ -263,4 +263,8 @@ http://www.miuios.cz/rom
   <string name="actionbar_home_description">Späť</string>
   <string name="menu_more_description">Viac</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Táto funkcia nie je dostupná v režime rozdelenia obrazovky</string>
+  <string name="date_time_picker_alarm_reminder">Budík</string>
+  <string name="date_time_picker_dialog_title">NAstaviť dátum a čas</string>
+  <string name="date_time_picker_has_not_set_alarm">Budík nie je nastavený</string>
+  <string name="date_time_picker_has_set_alarm">Budík je nastavený</string>
 </resources>

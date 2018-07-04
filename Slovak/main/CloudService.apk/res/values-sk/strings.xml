@@ -600,4 +600,8 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
   <string name="xmpp_server_addr"/>
+  <string name="member_menu_vipname_free">Zdarma</string>
+  <string name="member_menu_vipname_mega">Mega</string>
+  <string name="member_menu_vipname_premium">Premium</string>
+  <string name="member_menu_vipname_ultra">Ultra</string>
 </resources>
