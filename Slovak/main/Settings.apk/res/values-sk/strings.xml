@@ -5340,4 +5340,17 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="flash_drive_backup_restore">Zálohovať alebo obnoviť pomocou USB</string>
   <string name="flash_drive_backup_restore_summary">Pripojte USB kľuč</string>
   <string name="extended_power_menu">Rozšírené menu reštartovania</string>
+  <string name="secspace_fod_finger_tips">Nebolo možné overiť. Skúste to znova.</string>
+  <string name="secspace_fod_finger_title">Overte svoj odlačok prsta</string>
+  <string name="secspace_fod_use_password">Zadajte heslo</string>
+  <string name="bt_ldac_declaration">Ak Bluetooth zariadenie podporuje LDAC, bude pripojené automaticky. LDAC poskytuje vysokú kvalitu prehrávania zvuku na úkor spotreby batérie.</string>
+  <string name="bt_ldac_dialog_summary">"LDAC poskytuje vysokú kvalitu prehrávania zvuku na úkor spotreby batérie. Môžete to zmeniť v [Nastaveniach]"</string>
+  <string name="bt_ldac_dialog_title">Súčasné zariadenie porporuje LDAC:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC poskytuje vysokú kvalitu prehrávania zvuku na úkor spotreby batérie.</string>
+  <string name="bt_ldac_open_dialog_title">Chcete povoliť LDAC?</string>
+  <string name="bt_ldac_pre_summary">Vysoká kvalita prehrávania</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Atribúty</string>
+  <string name="bt_ldac_remember_choice">Pamätať nastavenie</string>
+  <string name="bt_ldac_settings">Nastavenia</string>
 </resources>
