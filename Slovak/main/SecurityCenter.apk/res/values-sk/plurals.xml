@@ -414,4 +414,20 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%1$d hovorov od %2$s a ostatných</item>
         <item quantity="one">%1$d hovor od %2$s</item>
     </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">Položiek: %d</item>
+        <item quantity="one">Položiek: %d</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">Dní: %d</item>
+        <item quantity="one">Dní: %d</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">Položiek: %d</item>
+        <item quantity="one">Položiek: %d</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">Aplikácií: %d</item>
+        <item quantity="one">Aplikácií: %dp</item>
+    </plurals>	
 </resources>

@@ -210,4 +210,6 @@
   <string name="dialog_message_not_remind">Viac nezobrazovať</string>
   <string name="add_clock">Pridať hodiny</string>
   <string name="content_desc_keep_screen">\"Nezhasínať displej\" tlačidlo</string>
+  <string name="timer_cancel_hint">Zastaviť</string>
+  <string name="timer_end_time">Časovač skončí o %s</string>
 </resources>

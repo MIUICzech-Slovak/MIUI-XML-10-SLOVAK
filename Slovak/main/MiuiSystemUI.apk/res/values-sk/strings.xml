@@ -1907,4 +1907,11 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="structure_face_delete_data_dialog_msg">Nebolo možné spustiť kameru. Skúste to znovu.</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Skúsiť znovu</string>
   <string name="structure_face_delete_data_dialog_title">Nebolo možné spustiť kameru</string>
+  <string name="wireless_change_to_ac_charging">Bezdrôtové nabíjanie</string>
+  <string name="wireless_charge_current">Nabíjanie</string>
+  <string name="wireless_charge_dialog_cancel">Rozumiem</string>
+  <string name="wireless_charge_dialog_title">Umiestnite zariadenie do stredu nabíjačky</string>
+  <string name="wireless_charge_reset_device">Nabíjanie je pomalé. Zmeňte polohu zariadenia.</string>
+  <string name="wireless_charge_reset_device_detail">Skontrolujte umiestnenie zariadenia na podložke</string>
+  <string name="wireless_charge_stop">Bezdrôtové nabíjanie ukončené</string>  
 </resources>

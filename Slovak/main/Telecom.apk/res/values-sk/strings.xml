@@ -136,7 +136,7 @@ Vzorkovacia frekvencia"</string>
   <string name="charge_length_format">pred %1$s</string>
   <string name="choose_profile">Výber profilu</string>
   <string name="clear_adb_keys">Odvolať autorizácie na ladenie cez USB</string>
-  <string name="close">Zatvoriť</string>
+  <string name="close">Vypnúť</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORNENIE: Dokiaľ bude toto nastavenie zapnuté, funkcie ochrany zariadenia nebudú na tomto zariadení fungovať.</string>
   <string name="confirm_enable_oem_unlock_title">Povoliť odblokovanie OEM?</string>
   <string name="connected_via_network_scorer">Automaticky pripojené prostredníctvom %1$s</string>
