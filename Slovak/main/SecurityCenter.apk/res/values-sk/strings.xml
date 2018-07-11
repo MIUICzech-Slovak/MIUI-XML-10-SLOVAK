@@ -1443,7 +1443,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">Bezpečnosť</string>
   <string name="menu_text_garbage_cleanup">Čistič</string>
-  <string name="menu_text_garbage_cleanup_danger">%s nad</string>
   <string name="menu_text_license_manager">Povolenia</string>
   <string name="menu_text_networkassistants">Spotreba dát</string>
   <string name="menu_text_networkassistants_danger">%s nad limit!</string>
@@ -1451,7 +1450,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="menu_text_optimize_manage">Zrýchlenie</string>
   <string name="menu_text_power_manager">Správa výkonu</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">Batéria %s</string>
   <string name="menu_text_power_percent_title_default">Batéria</string>
   <string name="menu_wh_remove">Odobrať</string>
   <string name="mi_service_app_detail">Podrobnosti o spotrebe dát</string>

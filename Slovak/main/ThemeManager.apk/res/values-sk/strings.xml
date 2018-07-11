@@ -223,7 +223,6 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s témy</string>
   <string name="resource_detail_recommend_other_themes">Užívateľom sa tiež páči</string>
   <string name="resource_detail_update_log_title">Aktualizácie</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s</string>
   <string name="resource_download">Stiahnuť</string>
   <string name="resource_download_notification_title_many">Sťahovanie %1$s tém úspešné!</string>
@@ -285,7 +284,6 @@
   <string name="resource_pack_price_info">Zľava z %1$s</string>
   <string name="resource_pack_warning">Upozornenie, Už ste zakúpili %1$d položiek, ale súčasná cena nie je stále výhodnejšia ako ich zakúpenie jednotlivo.</string>
   <string name="resource_present">Darček</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Zdarma</string>
   <string name="resource_price_unit">" MiKreditov"</string>
   <string name="resource_purchase_common_error">Operácia zlyhala, skúste to znova neskôr.</string>
