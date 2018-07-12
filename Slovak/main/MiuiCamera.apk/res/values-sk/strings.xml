@@ -618,4 +618,5 @@ efekty osvetlenia"</string>
   <string name="lighting_pattern_rainbow">Dúha</string>
   <string name="lighting_pattern_shutter">Blinds</string>
   <string name="lighting_pattern_stage">Stage</string>  
+  <string name="pref_camera_super_resolution_title">Povoliť SR</string>
 </resources>

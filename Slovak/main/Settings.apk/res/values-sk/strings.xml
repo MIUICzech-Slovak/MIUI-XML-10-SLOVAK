@@ -5353,4 +5353,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="bt_ldac_property">Atribúty</string>
   <string name="bt_ldac_remember_choice">Pamätať nastavenie</string>
   <string name="bt_ldac_settings">Nastavenia</string>
+  <string name="structure_manage_facerecoginition_text">Spravovať 3D dáta tváre</string>
+  <string name="rgb_manage_facerecoginition_text">Spravovať 3D dáta tváre</string>
 </resources>
