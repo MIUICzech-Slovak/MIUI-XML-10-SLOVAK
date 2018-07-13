@@ -1935,4 +1935,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="structure_face_unlock_model_other_suggestion_2d">2D rozpoznávanie tváre je menej bezpečné ako ochrana vzorom, PIN alebo heslo.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">3D rozpoznávanie tváre je relatívne bezpečné.</string>
   <string name="structure_face_unlock_model_other_title">Rozpoznávanie tváre</string>
+  <string name="lockscreen_storage_locked">Odomknite pro všetky funkcie a dáta</string>
 </resources>
