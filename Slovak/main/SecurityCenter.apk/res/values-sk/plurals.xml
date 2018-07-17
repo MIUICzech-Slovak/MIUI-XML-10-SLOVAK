@@ -430,4 +430,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Aplikácií: %d</item>
         <item quantity="one">Aplikácií: %dp</item>
     </plurals>	
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Aplikácií: %d</item>
+        <item quantity="one">Aplikácií: %d</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">Skrytých aplikácií: %d</item>
+        <item quantity="one">Skrytých aplikácií: %d</item>
+    </plurals>	
 </resources>

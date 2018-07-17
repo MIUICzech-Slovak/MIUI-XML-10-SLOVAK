@@ -530,4 +530,5 @@
   <string name="whatsapp_type_document_send">Odoslané súbory</string>
   <string name="whatsapp_type_image_recv">Prijaté obrázky</string>
   <string name="whatsapp_type_image_send">Odoslané obrázky</string>  
+  <string name="main_total_garbage">Celkom</string>
 </resources>

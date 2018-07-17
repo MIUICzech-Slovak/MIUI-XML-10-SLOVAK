@@ -2871,4 +2871,17 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gb_first_window_summary">Zrýchliť systém a zvýšiť výkon</string>
   <string name="gb_first_window_title">Zrýchlenie hier</string>
   <string name="manage_hybrid_permissions">Spravovať povolenia aplikácie</string>
+  <string name="privacy_apps">Skryté aplikácie</string>
+  <string name="privacy_apps_category_title">Skryté aplikácie</string>
+  <string name="privacy_apps_checkbox_remind_choice">Viac nezobrazovať</string>
+  <string name="privacy_apps_close">Zatvoriť</string>
+  <string name="privacy_apps_enable_summary">Presunúť aplikácie do skrytej zložky a odstrániť ich ikony z plochy</string>
+  <string name="privacy_apps_go_to_use">Spustiť</string>
+  <string name="privacy_apps_manage">spravovať skryté aplikácie</string>
+  <string name="privacy_apps_manage_dialog_title">Čo sú skryté aplikácie</string>
+  <string name="privacy_apps_manager_dialog_message">Skrývanie aplikácií vyžaduje vaše heslo pre Zámok aplikácií. Upozornenia zo skrytých aplikácií budú deaktivované. Chcete skryť túto aplikáciu?</string>
+  <string name="privacy_apps_tutorial">Návod</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">Ak sryjete aplikáciu, je presunutá do skrytej zložky. Jej ikona na ploche je odstránená. Táto funkcia nie je dostupná pre systémové aplikácie.</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Po zadaní hesla sa zobrazí zložka so skrytými aplikáciami.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>  
 </resources>
