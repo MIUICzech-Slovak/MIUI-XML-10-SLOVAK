@@ -179,4 +179,12 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="total_space">Celkovo: %s</string>
   <string name="try_again">Dotykom skúste znova</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
+  <string name="btn_restore_abort">Zrušiť</string>
+  <string name="btn_restore_cancel">Zrušiť</string>
+  <string name="btn_restore_resume">Obnoviť</string>
+  <string name="btn_restore_retry">Znova</string>
+  <string name="msg_alert_cancel_restore">Záloha z cloudu sa obnovuje, chcete ju zastaviť?</string>
+  <string name="msg_alert_restore_error">Obnova zlyhala. Skúste to znova.</string>
+  <string name="title_alert_cancel_restore">Zastaviť obnovu</string>
+  <string name="title_alert_restore_error">Obnovenie zlyhalo</string>
 </resources>

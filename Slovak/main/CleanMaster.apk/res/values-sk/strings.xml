@@ -531,4 +531,6 @@
   <string name="whatsapp_type_image_recv">Prijaté obrázky</string>
   <string name="whatsapp_type_image_send">Odoslané obrázky</string>  
   <string name="main_total_garbage">Celkom</string>
+  <string name="whatsapp_delete_confirm_cancel">Zrušiť</string>
+  <string name="whatsapp_delete_confirm_ok">OK</string>
 </resources>

@@ -1936,4 +1936,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="structure_face_unlock_model_other_suggestion_3d">3D rozpoznávanie tváre je relatívne bezpečné.</string>
   <string name="structure_face_unlock_model_other_title">Rozpoznávanie tváre</string>
   <string name="lockscreen_storage_locked">Odomknite pro všetky funkcie a dáta</string>
+  <string name="structure_face_unlock_not_same_person">Musíte dokončiť snímanie svojej tváre. Nevymieňajte sa s inou osobou.</string>
+  <string name="structure_face_unlock_really_person">Vyzerá to tak, že ste sa s niekym vumenili.</string>  
 </resources>

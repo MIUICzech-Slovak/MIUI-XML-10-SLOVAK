@@ -983,4 +983,8 @@ Postupujte podľa pokynov"</item>
         <item>Grafická</item>
         <item>Percentá</item>
     </string-array>	
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Vyhľadávanie</item>
+        <item>Nastavenia</item>
+    </string-array>	
 </resources>
