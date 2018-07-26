@@ -4255,7 +4255,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="toast_lockscreen_glogin_empty_password">Zadajte heslo</string>
   <string name="toast_need_login">Prihláste sa Mi účtom</string>
   <string name="total">Režim Nerušiť</string>
-  <string name="total_info">Stíšiť zvonenia %1$s okrem budíka</string>
+  <string name="total_info">Stíšiť zvonenia a vibrácie okrem budíka</string>
   <string name="total_info_sub">a vypnúť vibrácie</string>
   <string name="total_memory">Celková pamäť</string>
   <string name="total_size">Celkom %s</string>
@@ -5363,4 +5363,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="structure_face_enroll_not_able_low_electric_itle">Túto funkciu nie je možné použiť z dôvodu slabej batérie</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Batéria musí byť nabitá aspoň na 5%%.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Skratka v roletke</string>
+  <string name="total_info_no_vibrator">Stíšiť zvuky okrem budíka</string>
 </resources>

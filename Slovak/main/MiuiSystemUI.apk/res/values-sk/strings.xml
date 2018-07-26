@@ -1060,7 +1060,7 @@ Skúste to znova o %2$d s."</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odomknuté s Bluetooth</string>
   <string name="miui_ringer_count_down">Odpočítavanie</string>
-  <string name="miui_ringer_count_down_time">Odpočítavanie: %s</string>
+  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Ticho</string>
   <string name="miui_ringer_standard_description">Stíšiť zvonenie pre hovory a upozornenia</string>
   <string name="miui_ringer_total">Nerušiť</string>
@@ -1938,4 +1938,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="lockscreen_storage_locked">Odomknite pro všetky funkcie a dáta</string>
   <string name="structure_face_unlock_not_same_person">Musíte dokončiť snímanie svojej tváre. Nevymieňajte sa s inou osobou.</string>
   <string name="structure_face_unlock_really_person">Vyzerá to tak, že ste sa s niekym vumenili.</string>  
+  <string name="accessibility_quick_settings_alarm_on">Budík je nastavený.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Stav batérie Bluetooth zariadenia %d percent.</string>
 </resources>

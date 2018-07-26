@@ -619,4 +619,6 @@ efekty osvetlenia"</string>
   <string name="lighting_pattern_shutter">Blinds</string>
   <string name="lighting_pattern_stage">Stage</string>  
   <string name="pref_camera_super_resolution_title">Povoliť SR</string>
+  <string name="pref_camera_video_bokeh_off">Video bokeh je vypnutý</string>
+  <string name="pref_camera_video_bokeh_on">Video bokeh</string>
 </resources>

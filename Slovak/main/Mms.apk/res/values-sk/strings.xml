@@ -732,4 +732,14 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
   <string name="yesterday">Včera</string>
+  <string name="notification_channel_other_description">Ostatné upozornenia</string>
+  <string name="notification_channel_other_name">Iné</string>
+  <string name="notification_channel_sim1_description">SIM1 SMS upozornenie</string>
+  <string name="notification_channel_sim1_name">SIM1 SMS</string>
+  <string name="notification_channel_sim2_description">SIM2 SMS upozornenie</string>
+  <string name="notification_channel_sim2_name">SIM2 SMS</string>
+  <string name="notification_channel_msg_description">SMS upozornenie</string>
+  <string name="notification_channel_msg_name">SMS</string>
+  <string name="notification_group_name">Správy</string>
+  <string name="unsubscribe">Odhlásiť</string>
 </resources>

@@ -26,7 +26,7 @@
         <item quantity="one">Ostáva %ds</item>
      </plurals>
      <plurals name="word_count">
-        <item quantity="other">%s znakov</item>
-        <item quantity="one">%s znak</item>
+        <item quantity="other">Znakov: %d</item>
+        <item quantity="one">Znakov: %d</item>
      </plurals>	
 </resources>
