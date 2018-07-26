@@ -1060,7 +1060,6 @@ Skúste to znova o %2$d s."</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odomknuté s Bluetooth</string>
   <string name="miui_ringer_count_down">Odpočítavanie</string>
-  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Ticho</string>
   <string name="miui_ringer_standard_description">Stíšiť zvonenie pre hovory a upozornenia</string>
   <string name="miui_ringer_total">Nerušiť</string>
