@@ -769,7 +769,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="same_folder_name_warning">Táto zložka už existuje</string>
   <string name="save_button_text">Uložiť</string>
   <string name="save_dialog_title">Uložiť súbor</string>
-  <string name="save_file">Uložiť %s súbor</string>
+  <string name="save_file">"Uložiť súbor "</string>
   <string name="save_file_already_exist_alert_message">Súbor už existuje, chcete ho prepísať?</string>
   <string name="save_file_already_exist_alert_title">Upozornenie</string>
   <string name="save_form_data_confirm_message">Deaktivovanie tejto funkcie môže ovplyvniť používanie.</string>
