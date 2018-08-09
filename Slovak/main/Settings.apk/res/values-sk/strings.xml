@@ -5364,4 +5364,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="structure_face_enroll_not_able_low_electric_msg">Batéria musí byť nabitá aspoň na 5%%.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Skratka v roletke</string>
   <string name="total_info_no_vibrator">Stíšiť zvuky okrem budíka</string>
+  <string name="keyguard_vertical_clock_title">Vertikálne hodiny</string>
 </resources>
