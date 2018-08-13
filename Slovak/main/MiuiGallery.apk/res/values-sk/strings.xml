@@ -1323,4 +1323,8 @@
   <string name="search_request_requesting">Aplikované.</string>
   <string name="secret_reason_video_not_support">Nie je možné pridať video do Tajného albumu</string>
   <string name="video_editor_video_loading">Pripravovanie videa.</string>
+  <string name="ai_album_open_switch_button_title">Analyzovať fotografie</string>
+  <string name="ai_album_requesting_title">AI algoritmus spracováva vaše fotografie. Vráťte sa neskôr.</string>
+  <string name="ai_album_setting_sub_title">Povoliť AI algoritmus pre identifikovanie objektov, miest, ľudí na fotografiach.</string>
+  <string name="ai_album_setting_title">Identifikovať objekty na fotografiach</string>
 </resources>

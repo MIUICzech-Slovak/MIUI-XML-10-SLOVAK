@@ -1020,6 +1020,9 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="welcome_to_new_music">Vitajte v novej verzii Hudby Mi</string>
   <string name="wifi_required_body" formatted="false">"Pre dokončenie sťahovania %s  sa pripojte k Wi-Fi. 
 
-%Ťuknite na  %s  pre začiatok sťahovania pri novom pripojení k Wi-Fi sieti."</string>
+Ťuknite na  %s  pre začiatok sťahovania pri novom pripojení k Wi-Fi sieti."</string>
   <string name="wifi_required_title">Tento súbor by ste mali stiahnuť cez sieť Wi-Fi</string>
+  <string name="headset_and_audio_effect_category">Slúchadlá a efekty</string>
+  <string name="headset_and_audio_effect_summary">Slúchadlá a ekvalizér</string>
+  <string name="headset_and_audio_effect_title">Slúchadlá a efekty</string>
 </resources>
