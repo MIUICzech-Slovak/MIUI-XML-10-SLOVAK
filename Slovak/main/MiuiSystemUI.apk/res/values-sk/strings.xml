@@ -1939,4 +1939,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="structure_face_unlock_really_person">Vyzerá to tak, že ste sa s niekym vumenili.</string>  
   <string name="accessibility_quick_settings_alarm_on">Budík je nastavený.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Stav batérie Bluetooth zariadenia %d percent.</string>
+  <string name="fingerprint_dialog_touch_sensor">Dotknite sa senzora odtlačku prsta</string>
 </resources>

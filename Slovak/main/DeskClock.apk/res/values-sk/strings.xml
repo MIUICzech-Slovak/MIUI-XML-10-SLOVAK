@@ -212,4 +212,6 @@
   <string name="content_desc_keep_screen">\"Nezhasínať displej\" tlačidlo</string>
   <string name="timer_cancel_hint">Zastaviť</string>
   <string name="timer_end_time">Časovač skončí o %s</string>
+  <string name="timer_can_continue_in_timer">Otvorte časovač pre pokračovanie</string>
+  <string name="timer_is_paused">Časovač je pozastavený</string>
 </resources>

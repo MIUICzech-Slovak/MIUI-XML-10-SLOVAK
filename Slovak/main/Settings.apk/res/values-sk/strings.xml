@@ -5365,4 +5365,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_bar_settings_notification_shade_shortcut">Skratka v roletke</string>
   <string name="total_info_no_vibrator">Stíšiť zvuky okrem budíka</string>
   <string name="keyguard_vertical_clock_title">Vertikálne hodiny</string>
+  <string name="status_bar_settings_expand_top_notification">Rozbaliť prvé upozornenie</string>
 </resources>

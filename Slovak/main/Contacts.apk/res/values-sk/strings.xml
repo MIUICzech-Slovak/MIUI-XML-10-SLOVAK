@@ -1314,4 +1314,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="preference_show_firewall_calllog">Zobraziť blokované hovory v zozname hovorov</string>
   <string name="toast_call_no_SoundRecorder">Nahrávanie nie je dostupné</string>
   <string name="toast_call_no_notes">Poznámky nie sú dostupné</string>
+  <string name="preference_privacy_policy_title">Ochrana súkromia</string>
 </resources>

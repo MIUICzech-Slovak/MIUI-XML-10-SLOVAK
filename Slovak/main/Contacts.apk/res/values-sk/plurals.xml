@@ -182,4 +182,8 @@
         <item quantity="other">o %1$dmin</item>
         <item quantity="one">o %1$dmin</item>
     </plurals>	
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Importované kontakty: %1$d</item>
+        <item quantity="one">Importované kontakty: %1$d</item>
+    </plurals>	
 </resources>
