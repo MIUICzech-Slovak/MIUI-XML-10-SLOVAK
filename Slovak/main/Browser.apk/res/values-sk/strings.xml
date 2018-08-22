@@ -1010,5 +1010,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="data_traffic_prompt_free_data">Prehrávanie videa na mobilných dátach môže navýšiť vaše poplatky.</string>
   <string name="data_traffic_stop">Ukončiť</string>  
   <string name="pref_privacy_policy">Ochrana súkromia</string>
-  <string name="data_traffic_goto">Pokračovať</string>
+  <string name="data_traffic_goto">Spotreba dát</string>
 </resources>
