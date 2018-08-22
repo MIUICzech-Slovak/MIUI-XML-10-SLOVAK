@@ -5366,4 +5366,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="total_info_no_vibrator">Stíšiť zvuky okrem budíka</string>
   <string name="keyguard_vertical_clock_title">Vertikálne hodiny</string>
   <string name="status_bar_settings_expand_top_notification">Rozbaliť prvé upozornenie</string>
+  <string name="delete_sound_effect">Zvuk vymazania</string>
+  <string name="keyguard_security_setting_others">Ostatné</string>
+  <string name="keyguard_security_setting_privacy_policy">Ochrana súkromia</string>
 </resources>

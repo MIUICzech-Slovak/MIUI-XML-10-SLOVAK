@@ -2877,13 +2877,24 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="privacy_apps_close">Zatvoriť</string>
   <string name="privacy_apps_enable_summary">Presunúť aplikácie do skrytej zložky a odstrániť ich ikony z plochy</string>
   <string name="privacy_apps_go_to_use">Spustiť</string>
-  <string name="privacy_apps_manage">spravovať skryté aplikácie</string>
+  <string name="privacy_apps_manage">Spravovať skryté aplikácie</string>
   <string name="privacy_apps_manage_dialog_title">Čo sú skryté aplikácie</string>
   <string name="privacy_apps_manager_dialog_message">Skrývanie aplikácií vyžaduje vaše heslo pre Zámok aplikácií. Upozornenia zo skrytých aplikácií budú deaktivované. Chcete skryť túto aplikáciu?</string>
   <string name="privacy_apps_tutorial">Návod</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">Ak sryjete aplikáciu, je presunutá do skrytej zložky. Jej ikona na ploche je odstránená. Táto funkcia nie je dostupná pre systémové aplikácie.</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">Ak skryjete aplikáciu, je presunutá do skrytej zložky. Jej ikona na ploche je odstránená. Táto funkcia nie je dostupná pre systémové aplikácie.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po zadaní hesla sa zobrazí zložka so skrytými aplikáciami.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Roztiahnite dva prsty po displeji. Bude zobrazené okno pre zadanie hesla.</string>
   <string name="gamebox_type_float">Pevný odkaz</string>
   <string name="forbid_autobright_summary">Jas displeja ostane rovnaký počas hrania hry</string>
+  <string name="extreme_add_white_list_summary">Maximálne 4 aplikácie</string>
+  <string name="extreme_add_white_list_title">Výnimky</string>
+  <string name="extreme_power_save_description">"- Extrémna úspora batérie obmedzí aktivity an pozadí a upozornenia.
+- Ak chcete aby aplikácia bežala na pozadí, pridajte ju do výnimiek a uzamknite v RAM. Môžete povoliť maximálne 4 aplikácie.
+- Extrémna úspora batérie vypne NFC.
+- Extrémna úspora batérie bude automaticky deaktivovaná ak má batéria viac ako 30%."</string>
+  <string name="extreme_power_save_mode_summary">Extrémna úspora batérie obmedzí aktivity an pozadí, zastaví synchronizáciu a zredukuje farby na displeji.</string>
+  <string name="extreme_power_save_mode_title">Extrémna úspora batérie</string>  
+  <string name="notification_exit_extreme_mode_text">Batéria má viac ako %s</string>
+  <string name="notification_exit_extreme_mode_title">Vypnutá Extrémna úspora batérie</string>
+  <string name="notification_open_extreme_mode_text">Povolená Extrémna úspora batérie</string>
 </resources>

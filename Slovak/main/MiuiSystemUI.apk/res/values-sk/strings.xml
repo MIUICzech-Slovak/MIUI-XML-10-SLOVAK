@@ -1940,4 +1940,15 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="accessibility_quick_settings_alarm_on">Budík je nastavený.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Stav batérie Bluetooth zariadenia %d percent.</string>
   <string name="fingerprint_dialog_touch_sensor">Dotknite sa senzora odtlačku prsta</string>
+  <string name="battery_can_use_time">Ostáva približne: %s</string>
+  <string name="dlg_cancel">Zrušiť</string>
+  <string name="dlg_confirm">Povoliť</string>
+  <string name="dlg_summary_close_app">Obmedziť aktivity na pozadí a upozornenia</string>
+  <string name="dlg_summary_close_theme">Obmedziť animované témy</string>
+  <string name="dlg_summary_close_wifi">Vypnúť Wi-Fi, Bluetooth a hotspot</string>
+  <string name="dlg_summary_nfc">Vypnúť NFC</string>
+  <string name="dlg_summary_title">Extrémna úspora batérie deaktivuje všetky aktivity na pozadí. ak chcete aby aplikácia bola bežala na pozadí pridajte ju do výnimiek.</string>
+  <string name="enable_extreme_power_save_mode">Extrémna úspora batérie</string>
+  <string name="open_extreme_power_save_mode_title">Povoliť Extrémnu úsporu batérie</string>
+  <string name="quick_settings_extreme_batterysaver_label">Extrémna úspora</string>
 </resources>

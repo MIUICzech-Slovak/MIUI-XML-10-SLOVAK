@@ -1717,4 +1717,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="wificall_switch_title">Vykonať hovory cez Wi-Fi</string>
   <string name="dds_switch_warning_message_data_off">Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>
   <string name="dds_switch_warning_message_data_on">"Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>  
+  <string name="privacy_policy_title">Ochrana súkromia</string>
 </resources>
