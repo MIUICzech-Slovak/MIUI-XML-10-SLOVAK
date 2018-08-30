@@ -1951,4 +1951,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="enable_extreme_power_save_mode">Extrémna úspora batérie</string>
   <string name="open_extreme_power_save_mode_title">Povoliť Extrémnu úsporu batérie</string>
   <string name="quick_settings_extreme_batterysaver_label">Extrémna úspora</string>
+  <string name="keyguard_charging_back_to_lockscreen">Späť</string>
+  <string name="keyguard_left_torch">Svietidlo</string>
+  <string name="switch_system_user">Otvoriť Prvý profil</string>
 </resources>

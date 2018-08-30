@@ -5370,4 +5370,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="keyguard_security_setting_others">Ostatné</string>
   <string name="keyguard_security_setting_privacy_policy">Ochrana súkromia</string>
   <string name="status_bar_settings_notification_use_app_icon">Použiť ikony aplikácií</string>
+  <string name="check_importance_dialog_cancel">Zrušiť</string>
+  <string name="navigation_guide_appswitch_anim_summary">Potiahnite prstom od hrany pre prepnutie aplikácií</string>
+  <string name="navigation_guide_appswitch_anim_title">Prepnúť na predchádzajúcu aplikáciu</string>
+  <string name="navigation_guide_appswitch_click">Najskôr povoľte \"Prepnúť na predch. apl.\"</string>
 </resources>
