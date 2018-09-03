@@ -653,14 +653,14 @@ Postupujte podľa pokynov"</item>
         <item>Normálne (720P)</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Každý deň</item>
+        <item>Raz</item>
 	<item>Každý den</item>    
         <item>Pracovné dni</item>
         <item>Po-Pia</item>
         <item>Vlastné</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Každý deň</item>
+        <item>Raz</item>
 	<item>Každý den</item>    
         <item>Po-Pia</item>
         <item>Vlastné</item>
