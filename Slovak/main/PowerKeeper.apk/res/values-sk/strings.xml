@@ -200,7 +200,7 @@
   <string name="power_mode_view_event_title">Úlohy</string>
   <string name="power_mode_view_user_define_title">Nová úloha</string>
   <string name="power_optimize_activity_profile_file_error">Chyba Úspory batérie</string>
-  <string name="power_usage">Využitie výkonu</string>
+  <string name="power_usage">Využitie batérie</string>
   <string name="pref_config_title">Optimalizácia výkonu</string>
   <string name="quick_disconnect_description">Aplikácia nebude mať prístup k sieti na pozadí</string>
   <string name="quick_disconnect_title">Odpojiť</string>
@@ -243,4 +243,5 @@
   <string name="extreme_mode_max_item_alert">Len 4 aplikácie môžu byť spustené na pozadí počas Extrémnej úspory batérie</string>
   <string name="message_i_know">Rozumiem</string>
   <string name="privacy">Ochrana súkromia</string>
+  <string name="config_classify">Zoradiť podľa nastavenia</string>
 </resources>

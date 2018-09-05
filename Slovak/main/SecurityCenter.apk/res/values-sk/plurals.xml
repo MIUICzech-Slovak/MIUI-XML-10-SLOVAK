@@ -446,4 +446,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%1$d problémov vyžaduje opravu</item>
         <item quantity="one">%1$d problém vyžaduje opravu</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">položiek</item>
+        <item quantity="one">položky</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Pridať %dmin</item>
+        <item quantity="one">Pridať %dmin</item>
+    </plurals>	
 </resources>

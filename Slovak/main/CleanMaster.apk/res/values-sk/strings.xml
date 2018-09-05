@@ -533,4 +533,6 @@
   <string name="main_total_garbage">Celkom</string>
   <string name="whatsapp_delete_confirm_cancel">Zrušiť</string>
   <string name="whatsapp_delete_confirm_ok">OK</string>
+  <string name="toast_updater_close_4g_text">Aplikácie nebudú aktualizované cez mobilné dáta</string>
+  <string name="toast_updater_open_4g_text">Aplikácie budú aktualizované cez mobilné dáta</string>  
 </resources>

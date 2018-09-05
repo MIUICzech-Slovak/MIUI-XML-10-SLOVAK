@@ -90,6 +90,7 @@
     <string-array name="thermal_summaries">
         <item>Súčasný predvolený režim</item>
         <item>Súčasný výkonný režim</item>
+		<item>Nedostupné pre Extrémny režim</item>
     </string-array>	 
     <string-array name="power_mode_entries">
         <item>Výkonný</item>
@@ -98,5 +99,13 @@
     <string-array name="emode_app_groups">
         <item>Systémové aplikácie</item>
         <item>Ostatné aplikácie</item>
+    </string-array>	
+    <string-array name="hmode_app_classify2">
+        <item>Aktívne aplikácie</item>
+        <item>Uspané aplikácie</item>
+    </string-array>	
+    <string-array name="hmode_app_classify1">
+        <item>Vlastné</item>
+        <item>Úspora batérie</item>
     </string-array>	
 </resources>

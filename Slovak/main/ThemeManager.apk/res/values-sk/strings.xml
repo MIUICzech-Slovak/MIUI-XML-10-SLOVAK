@@ -463,4 +463,10 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="wallpaper_settings_pad_more_page_title">Viac tapiet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
   <string name="wallpaper_set_as_desktop">Nastaviť ako plochu</string>
+  <string name="exit_extreme_mode_dialog_agree">Súhlasím</string>
+  <string name="exit_extreme_mode_dialog_cancel">Zrušiť</string>
+  <string name="exit_extreme_mode_dialog_title">Deaktivovať Extrémny režim</string>
+  <string name="extreme_mode_dialog_message">Táto funkcia nie je dostupní v Extrémnom režime.</string>
+  <string name="extreme_mode_dialog_ok">Rozumiem</string>
+  <string name="extreme_mode_dialog_title">Upozornenie</string>  
 </resources>

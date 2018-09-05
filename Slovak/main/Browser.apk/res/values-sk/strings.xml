@@ -1011,4 +1011,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="data_traffic_stop">Ukončiť</string>  
   <string name="pref_privacy_policy">Ochrana súkromia</string>
   <string name="data_traffic_goto">Spotreba dát</string>
+  <string name="data_traffic_download_cancel">Zrušiť</string>
+  <string name="data_traffic_download_prompt">Video môže byť stiahnuté len cez Wi-Fi</string>
+  <string name="data_traffic_download_setting">Nastavenia</string>  
 </resources>

@@ -4425,7 +4425,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="unlock_set_unlock_password_title">Heslo</string>
   <string name="unlock_set_unlock_pattern_summary">Prepojenie aspoň 4 bodov</string>
   <string name="unlock_set_unlock_pattern_title">Gesto</string>
-  <string name="unlock_set_unlock_pin_summary">4 číselný PIN</string>
+  <string name="unlock_set_unlock_pin_summary">4-16 číselný PIN</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Prosím povoľte heslo displeja na nastavenie ochrany heslom</string>
   <string name="unlock_setup_wizard_fingerprint_details">Po nastavení zámky obrazovky si môžete nastaviť aj svoj odtlačok prsta v časti Nastavenia &gt; Zabezpečenie.</string>
@@ -5374,4 +5374,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="navigation_guide_appswitch_anim_summary">Potiahnite prstom od hrany pre prepnutie aplikácií</string>
   <string name="navigation_guide_appswitch_anim_title">Prepnúť na predchádzajúcu aplikáciu</string>
   <string name="navigation_guide_appswitch_click">Najskôr povoľte \"Prepnúť na predch. apl.\"</string>
+  <string name="status_bar_settings_function_description">O tejto funkcii</string>
+  <string name="status_bar_settings_user_fold_description1">Zložka upozornení filtruje menej dôležité upozornenia a zhromažďuje ich v spoločnej zložke.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI si zapamätá ktoré upozornenia otvárate a podľa toho rozpozná ich prioritu.</string>
+  <string name="status_bar_settings_user_fold_description3" />
+  <string name="status_bar_settings_user_fold_disable">Vyp.</string>
+  <string name="status_bar_settings_user_fold_enable">Zap.</string>
 </resources>

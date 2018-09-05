@@ -141,4 +141,16 @@
         <item quantity="other">Kategórií: %d</item>
         <item quantity="one">Kategórií: %d</item>
     </plurals>	 
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Ostáva: %dh</item>
+        <item quantity="one">Ostáva: %dh</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Ostáva: %dmin</item>
+        <item quantity="one">Ostáva: %dmin</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Ostáva: %1$dh %2$dmin</item>
+        <item quantity="one">Ostáva: %1$dh %2$dmin</item>
+    </plurals>	
 </resources>
