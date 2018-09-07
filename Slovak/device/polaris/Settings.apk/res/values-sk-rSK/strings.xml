@@ -1892,7 +1892,6 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
      <string name="force_allow_on_external_summary">Umožňuje zapísať akúkoľvek aplikáciu do externého úložiska bez ohľadu na hodnoty v manifeste</string>
      <string name="force_resizable_activities">Vynútiť možnosť zmeny veľkosti aktivít</string>
      <string name="force_resizable_activities_summary">Veľkosti všetkých aktivít bude možné zmeniť na niekoľko okien (bez ohľadu na hodnoty manifestu).</string>
-     <string name="gadget_state_template">%1$s %2$s</string>
      <string name="game_storage_settings">Hry</string>
      <string name="gesture_preference_summary">Rýchle gestá na ovládanie telefónu</string>
      <string name="gesture_preference_title">Gestá</string>
@@ -1972,7 +1971,6 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
      <string name="launch_mdp_app_text">Zobraziť tarifu</string>
      <string name="launch_wifi_text">Zobraziť podrobnosti</string>
      <string name="learn_more">Ďalšie informácie</string>
-     <string name="link_speed">%1$d Mbps</string>
      <string name="locale_not_translated">Nemusí byť k dispozícii v niektorých aplikáciách</string>
      <string name="locale_remove_menu">Odstrániť</string>
      <string name="location_app_level_permissions">Povolenia na úrovni aplikácie</string>
@@ -2074,7 +2072,6 @@ Nezruší sa tým vaša tarifa mobilných služieb."</string>
      <string name="media_output_title">Prehrať média v zariadení</string>
      <string name="meid_multi_sim">MEID (%1$d. slot na SIM kartu)</string>
      <string name="memory_summary">Využíva sa v priemere %1$s z celkovej pamäte %2$s</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
      <string name="model_info">Model</string>
      <string name="model_summary">Model: %1$s</string>
@@ -2093,7 +2090,6 @@ Nezruší sa tým vaša tarifa mobilných služieb."</string>
      <string name="new_device_suggestion_title">Ešte len začínate používať Pixel?</string>
      <string name="nfc_disclaimer_content">NFC posiela dáta medzi týmto zariadením a ďalšími zariadeniami alebo cieľmi v okolí, ako sú platobné terminály, čítačky prístupových médií a interaktívne reklamy alebo značky.</string>
      <string name="nfc_disclaimer_title">Zapnutie NFC</string>
-     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
      <string name="night_display_activation_off_custom">Vypnúť do %1$s</string>
      <string name="night_display_activation_off_manual">Vypnúť</string>
      <string name="night_display_activation_off_twilight">Vypnúť do západu slnka</string>
@@ -2219,7 +2215,6 @@ Nezruší sa tým vaša tarifa mobilných služieb."</string>
      <string name="ota_disable_automatic_update">Automatické aktualizácie systému</string>
      <string name="ota_disable_automatic_update_summary">Použiť aktualizácie po reštartovaní zariadenia</string>
      <string name="other_sound_category_preference_title">Ďalšie zvuky a vibrácie</string>
-     <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="page_tab_title_summary">Všetko</string>
      <string name="page_tab_title_support">Tipy a podpora</string>
      <string name="payment_summary">%1$s je predvolená aplikácia</string>
@@ -2231,7 +2226,6 @@ Nezruší sa tým vaša tarifa mobilných služieb."</string>
      <string name="picture_in_picture_empty_text">Žiadna z nainštalovaných aplikácií nepodporuje obraz v obraze</string>
      <string name="picture_in_picture_keywords">obraz v obraze</string>
      <string name="picture_in_picture_title">Obraz v obraze</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_discharge_by">Mal by vydržať približne %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Mal by vydržať približne do %1$s v závislosti od využitia (%2$s)</string>
      <string name="power_discharge_by_only">Mal by vydržať približne do %1$s</string>
@@ -2273,8 +2267,6 @@ Nezruší sa tým vaša tarifa mobilných služieb."</string>
      <string name="private_dns_mode_provider">Súkromný názov hostiteľa poskytovateľa DNS</string>
      <string name="private_dns_mode_provider_failure">Nepodarilo sa pripojiť</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadajte názov hostiteľa poskytovateľa DNS</string>
-     <string name="process_format">%1$s (%2$d)</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="profile_section_header">Pracovné upozornenia</string>
      <string name="proxy_url_title">"Webová adresa PAC: "</string>
      <string name="quick_settings_developer_tiles">Dlaždice rýchlych nastavení pre vývojárov</string>
@@ -2417,7 +2409,6 @@ Upozornenie: Pomocou odtlačku prsta nemôžete odomknúť toto zariadenie. Ďal
      <string name="sim_lock_settings_summary_off">Vypnuté</string>
      <string name="sim_lock_settings_summary_on">Zamknuté</string>
      <string name="sim_selection_channel_title">Výber SIM karty</string>
-     <string name="sim_settings_summary">%1$s – %2$s</string>
      <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
      <string name="sim_status_title_sim_slot">Stav SIM karty (%1$d. slot na SIM kartu)</string>
      <string name="skip_anyway_button_label">Preskočiť</string>
@@ -2445,7 +2436,6 @@ Upozornenia z týchto aplikácií môžu byť oneskorené."</string>
      <string name="spell_checker_master_switch_title">Používať kontrolu pravopisu</string>
      <string name="spell_checker_not_selected">Nie je vybraté</string>
      <string name="standby_bucket_summary">"Stav pohotovostného režimu aplikácie:  %s"</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_data_network_type">Typ mobilnej dátovej siete</string>
      <string name="status_esim_id">EID</string>
      <string name="status_number_sim_slot">Telefón (%1$d. slot na SIM)</string>
@@ -2522,7 +2512,6 @@ Zvážte použitie rýchlejšieho úložiska ^3 alebo využite namiesto toho jed
      <string name="suggestions_title">Návrhy</string>
      <string name="suggestions_title_v2">Navrhnuté pre vás</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-     <string name="summary_range_symbol_combination">%1$s – %2$s</string>
      <string name="support_country_format">%1$s – %2$s</string>
      <string name="support_summary">Články pomocníka, telefón a čet, začíname</string>
      <string name="swipe_up_to_switch_apps_suggestion_summary">Zapnite nové gesto na prepínanie aplikácií</string>

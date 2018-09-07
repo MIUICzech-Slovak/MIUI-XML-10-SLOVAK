@@ -191,7 +191,6 @@
      <string name="network_operator_category">Sieť</string>
      <string name="network_select_title">Sieť</string>
      <string name="okay">OK</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_discharge_by">Mal by vydržať približne %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Mal by vydržať približne do %1$s v závislosti od využitia (%2$s)</string>
      <string name="power_discharge_by_only">Mal by vydržať približne do %1$s</string>
@@ -220,7 +219,6 @@
      <string name="private_dns_mode_provider">Súkromný názov hostiteľa poskytovateľa DNS</string>
      <string name="private_dns_mode_provider_failure">Nepodarilo sa pripojiť</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadajte názov hostiteľa poskytovateľa DNS</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="roaming_check_price_warning">Informácie o cenách získate od svojho poskytovateľa siete.</string>
      <string name="rtt_mode_more_information">"Okamžitý text pomáha volajúcim, ktorí nepočujú, majú problémy so sluchom, rečovú poruchu alebo potrebujú viac ako samotný hlas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Ďalšie informácie&lt;/a>
        &lt;br>&lt;br> – Okamžitý text poslaný počas hovoru sa uloží ako prepis správ

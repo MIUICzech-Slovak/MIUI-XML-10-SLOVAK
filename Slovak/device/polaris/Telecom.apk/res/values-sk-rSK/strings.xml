@@ -81,7 +81,6 @@
      <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Blokovanie hovorov</string>
      <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Blokovanie hovorov bolo vypnuté, aby vás mohli kontaktovať pracovníci tiesňových služieb.</string>
      <string name="phone_strings_emergency_call_made_dialog_title_txt">Bolo uskutočnené tiesňové volanie</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_discharge_by">Mal by vydržať približne %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Mal by vydržať približne do %1$s v závislosti od využitia (%2$s)</string>
      <string name="power_discharge_by_only">Mal by vydržať približne do %1$s</string>
@@ -101,7 +100,6 @@
      <string name="private_dns_mode_provider">Súkromný názov hostiteľa poskytovateľa DNS</string>
      <string name="private_dns_mode_provider_failure">Nepodarilo sa pripojiť</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadajte názov hostiteľa poskytovateľa DNS</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="search_menu_title">Vyhľadávanie</string>
      <string name="select_private_dns_configuration_dialog_title">Výber súkromného režimu DNS</string>
      <string name="select_private_dns_configuration_title">Súkromné DNS</string>
