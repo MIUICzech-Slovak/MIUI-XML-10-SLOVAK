@@ -108,7 +108,6 @@ Chcete ich naďalej zobrazovať?"</string>
      <string name="keyguard_enter_your_password">Zadajte heslo</string>
      <string name="keyguard_enter_your_pattern">Zadajte vzor</string>
      <string name="keyguard_enter_your_pin">Zadajte PIN</string>
-     <string name="keyguard_more_overflow_text">+%d</string>
      <string name="keyguard_sim_error_message_short">Neplatná karta.</string>
      <string name="kg_sim_lock_esim_instructions">%1$s Zakážte eSIM kartu a používajte zariadenie bez mobilnej služby.</string>
      <string name="manage_notifications_text">Spravovať upozornenia</string>
@@ -116,9 +115,6 @@ Chcete ich naďalej zobrazovať?"</string>
      <string name="mobile_data_disable_message_default_carrier">váš operátor</string>
      <string name="mobile_data_disable_title">Vypnúť mobilné dáta?</string>
      <string name="mobile_data_text_format" formatted="false">%s – %s</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="no_auto_saver_action">Nie, vďaka</string>
      <string name="notification_appops_ok">OK</string>
      <string name="notification_appops_settings">Nastavenia</string>
@@ -136,7 +132,6 @@ Chcete ich naďalej zobrazovať?"</string>
      <string name="output_service_wifi">Wi-Fi</string>
      <string name="output_title">Výstup médií</string>
      <string name="pip_phone_settings">Nastavenia</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_discharge_by">Mal by vydržať približne %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Mal by vydržať približne do %1$s v závislosti od využitia (%2$s)</string>
      <string name="power_discharge_by_only">Mal by vydržať približne do %1$s</string>
@@ -153,7 +148,6 @@ Chcete ich naďalej zobrazovať?"</string>
      <string name="private_dns_mode_provider">Súkromný názov hostiteľa poskytovateľa DNS</string>
      <string name="private_dns_mode_provider_failure">Nepodarilo sa pripojiť</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadajte názov hostiteľa poskytovateľa DNS</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="qs_status_phone_muted">Telefón má vypnutý zvuk</string>
      <string name="qs_status_phone_vibrate">Telefón má zapnuté vibrovanie</string>
      <string name="quick_settings_bluetooth_secondary_label_audio">Zvuk</string>
