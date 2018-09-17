@@ -196,7 +196,6 @@
     <string name="gadget_clock_14_label">Hodiny 4x1</string>
     <string name="gadget_clock_24_label">Hodiny 4x2</string>
     <string name="gadget_clock_label">Hodiny</string>
-    <string name="gadget_common_clock_24_label">@string/gadget_clock_24_label</string>
     <string name="gadget_common_clock_date">EEEE, d. MMMM</string>
     <string name="gadget_error_text">Widget nie je možné načítať</string>
     <string name="gadget_google_search_label">Vyhľadávanie Google</string>
