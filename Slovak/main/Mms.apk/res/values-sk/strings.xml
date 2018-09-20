@@ -742,4 +742,6 @@ Pokus: %s."</string>
   <string name="notification_channel_msg_name">SMS</string>
   <string name="notification_group_name">Správy</string>
   <string name="unsubscribe">Odhlásiť</string>
+  <string name="dialog_title_networking">Podmienky používania</string>
+  <string name="dialog_message_networking">SMS aplikácia vyžaduje pripojenie na internet pre fungovanie Cloudových správ.</string>
 </resources>

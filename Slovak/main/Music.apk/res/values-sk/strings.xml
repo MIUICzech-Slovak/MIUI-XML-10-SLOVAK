@@ -222,7 +222,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="desktop_lyric_button_close">Zatvoriť</string>
   <string name="desktop_lyric_button_lock">Zámok</string>
   <string name="desktop_lyric_color">Farba</string>
-  <string name="desktop_lyric_dialog_msg">TZobrazenie textu piesne na domovskej obrazovke zapnete/vypnete v ponuke Hudba &gt; Nastavenia &gt; Rozšírené nastavenia</string>
+  <string name="desktop_lyric_dialog_msg">Zobrazenie textu piesne na domovskej obrazovke zapnete/vypnete v ponuke Hudba &gt; Nastavenia &gt; Rozšírené nastavenia</string>
   <string name="desktop_lyric_dialog_positive_button">Skúsiť teraz</string>
   <string name="desktop_lyric_dialog_title">Skúsiť teraz</string>
   <string name="desktop_lyric_lock_toast">Uzamknuté. Použite Mini Prehrávač v lište pre odblokovanie</string>
@@ -480,8 +480,8 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="hungama_subscribe_title">Sťiahnúť</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration_content">Pred použitím produktu si musíte prečítať a súhlasiť s dokumentami &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Zmluvné podmienky&lt;/a&gt; a &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Zásady ochrany osobních údajů&lt;/a&amp;gt.</string>
-  <string name="impunity_declaration_ignore">Viac sa nepýtať</string>
+  <string name="impunity_declaration_content">Používaním tejto aplikácie súhlasíte s &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Podmienkami používania&lt;/a&gt; a &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Ochranou súkromia&lt;/a&amp;gt.</string>
+  <string name="impunity_declaration_ignore">Viac nezobrazovať</string>
   <string name="impunity_declaration_negative_text">Ukončiť</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Zobraziť Podmienky používania</string>
@@ -522,7 +522,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="local_page_artist_more">Viac piesní od %s</string>
   <string name="local_page_custom_subtitle">Každý deň nové skladby</string>
   <string name="local_page_custom_title">Pre vás</string>
-  <string name="local_page_playlist">Moje playlisty</string>
+  <string name="local_page_playlist">Playlisty</string>
   <string name="local_page_song_all">Všetky skladby</string>
   <string name="local_page_song_download">Lokálne</string>
   <string name="local_page_song_download_history">Stiahnuté</string>
@@ -611,7 +611,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="name_online_personal_radio">Rádio</string>
   <string name="nav_local_all">Všetko</string>
   <string name="nav_local_artist">Obľúbení interpréti</string>
-  <string name="nav_local_favorite">Obľúbené skladby</string>
+  <string name="nav_local_favorite">Obľúbené</string>
   <string name="nav_local_song">Stiahnuté</string>
   <string name="nav_online_artist">Interpréti</string>
   <string name="nav_online_billboard">Rebríčky</string>
@@ -713,7 +713,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="permission_declaration_title">Povoliť</string>
   <string name="pick_favorite_song">Obľúbené</string>
   <string name="pick_local_song">Lokálne piesne</string>
-  <string name="pick_recent_song">Nedávno prehrané</string>
+  <string name="pick_recent_song">Nedávne</string>
   <string name="play_all_song">Prehrať všetko</string>
   <string name="play_mode_all_loop">Opakovať všetko</string>
   <string name="play_mode_one_loop">Slučka</string>

@@ -421,4 +421,7 @@
   <string name="app_setting_on_off_setting">Nastavenia</string>
   <string name="app_setting_privacy_policy">Ochrana súkromia</string>
   <string name="app_setting_search">Zobraziť vyhľadávanie</string>  
+  <string name="cta_dialog_text_all">Používaním Asistena súhlasíte s %1$s\"Podmienkami používania\" %2$s a %3$s \"Ochranou súkromia\" %4$s.</string>
+  <string name="login_dialog_title">Synchronizácia</string>
+  <string name="login_dialog_body">Povoľte synchronizáciu s MiCloud pre zálohovanie vašich nastavení Asistenta.</string>
 </resources>

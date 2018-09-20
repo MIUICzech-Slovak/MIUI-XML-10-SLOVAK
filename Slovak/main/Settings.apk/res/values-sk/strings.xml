@@ -5380,4 +5380,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_bar_settings_user_fold_description3" />
   <string name="status_bar_settings_user_fold_disable">Vyp.</string>
   <string name="status_bar_settings_user_fold_enable">Zap.</string>
+  <string name="miui_master_clear_summary">Vymažú sa všetky dáta v zariadení</string>
 </resources>

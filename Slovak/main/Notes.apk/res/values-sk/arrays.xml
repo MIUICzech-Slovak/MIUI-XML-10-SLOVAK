@@ -61,4 +61,8 @@ http://www.miuios.cz/
         <item>Hlasovné poznámky</item>
         <item>Nahrajte vašu poznámku hlasom.</item>
      </string-array>	
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Hlasové poznámky</item>
+        <item>Môžete nahrať aj hlasovú poznámku.</item>
+    </string-array>	 
 </resources>
