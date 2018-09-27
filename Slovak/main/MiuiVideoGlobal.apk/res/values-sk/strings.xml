@@ -33,7 +33,6 @@
     <string name="cast_forward">Pretočiť dopredu</string>
     <string name="cast_forward_10">Pretočiť dopredu desať sekúnd</string>
     <string name="cast_forward_30">Pretočiť dopredu tridsať sekúnd</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Vypnúť zvuk</string>
     <string name="cast_notification_connected_message">Pripojené k obrazovke %1$s</string>
     <string name="cast_notification_connecting_message">Prebieha pripájanie k obrazovke %1$s</string>
@@ -108,7 +107,6 @@
     <string name="s5">Vytvorenie udalosti v kalendári</string>
     <string name="s6">Povoliť reklame vytvoriť udalosť v kalendári?</string>
     <string name="search_menu_title">Vyhľadávanie</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="agree">Súhlasím</string>
     <string name="alert_dialog_download">Túto aplikáciu ste už stiahli.</string>
     <string name="alert_dialog_download_btn_hide">Skryť</string>
