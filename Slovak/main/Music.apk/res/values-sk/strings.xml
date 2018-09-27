@@ -403,7 +403,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="favorite_playlist">Moje obľúbené</string>
   <string name="favorite_singer">Obľúbení speváci</string>
   <string name="favorite_succeed">Už je medzi obľúbenými</string>
-  <string name="favorite_tracks">Obľúbené skladby</string>
+  <string name="favorite_tracks">Obľúbené</string>
   <string name="favorites">Obľúbené</string>
   <string name="favourite_music_left_half">Pre pridanie skladieb do tohto playlistu stlačte</string>
   <string name="favourite_music_right_half">vpravo od názvu skladby</string>
@@ -769,8 +769,8 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="radar_searching_state">Vyhľadávanie…</string>
   <string name="radar_support_by">Používa ACRCloud</string>
   <string name="really_pay">Zaplatiť teraz?</string>
-  <string name="recently_played">Nedávno prehrané</string>
-  <string name="recently_played_songs">Nedávno prehrané</string>
+  <string name="recently_played">Nedávne</string>
+  <string name="recently_played_songs">Nedávne</string>
   <string name="recognition_reverted_message">Obal albumu a text piesne boli úspešne odstránené. To isté pre ostatné piesne môžete urobiť v Nastaveniach.</string>
   <string name="recognition_reverted_title">Obaly albumov a texty piesní</string>
   <string name="recognize_call">Optimalizovať</string>
