@@ -192,4 +192,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="hourly_forecast_title_hourly_desc">hodinová predpoveď</string>
   <string name="privacy_policy">Ochrana súkromia</string>
   <string name="user_agreement">Podmienky používania</string>
+  <string name="content_desc_city_manage_del">Vymazať</string>
+  <string name="content_desc_city_manage_edit">Spravovať mestá</string>  
 </resources>

@@ -99,6 +99,7 @@
     <string-array name="emode_app_groups">
         <item>Systémové aplikácie</item>
         <item>Ostatné aplikácie</item>
+		<item>Vybrané aplikácie</item>
     </string-array>	
     <string-array name="hmode_app_classify2">
         <item>Aktívne aplikácie</item>

@@ -1955,4 +1955,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="keyguard_left_torch">Svietidlo</string>
   <string name="switch_system_user">Otvoriť Prvý profil</string>
   <string name="miui_screen_rotation_freeze_message">Rotácia deaktivovaná.</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Pre pridanie tlačidla ho podržte a presuňte do vrchnej časti.</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Režim lietadlo</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Len núdzový hovor</string>
+  <string name="lock_screen_no_sim_card_no_service">Žiaden signál</string>
+  <string name="torch_high_temperature_warning">Vaše zariadenie je prehriate. Nie je možné použiť svietidlo.</string>
 </resources>

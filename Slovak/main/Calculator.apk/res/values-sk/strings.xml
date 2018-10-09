@@ -205,4 +205,5 @@
   <string name="interest_rate_hint">Zadajte úrok</string>
   <string name="loan_repayment_detail">" Splátok"</string>
   <string name="loan_repayment_detail_loading">Výpočet…</string>
+  <string name="not_supported_due_to_language">Táto funkcia nie je podporovaná mimo Čínu</string>
 </resources>
