@@ -1035,12 +1035,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="nav_screen_tab_incognito_exit">Ukončiž inkognito kartu</string>
   <string name="page_hang_message">Stránka neodpovedá. Je potrebné reštartovať Prehliadač.</string>
   <string name="page_hang_title">Stránka neodpovedá</string>
-  <string name="permission_alert_window">Pre použitie tejto funkcie, povoľte v nastaveniach Zobrazenie pop-up okien.</string>
-  <string name="permission_unknown">Neznáme nastavenie</string>
   <string name="pref_download_setting">Nastavenie sťahovania</string>
-  <string name="pref_accessibility_url_shortcut_enter_title">Rýchle zadanie URL</string>
   <string name="exit_browser_confirmation">Stlačte znova pre ukončenie</string>
-  <string name="pref_accessibility_url_shortcut_enter_summary">Bežné domény môžu byť vložené dotykom do URL okna</string>
   <string name="dialog_recovery_tabs_disc">Detekcia nezatvorených stránok</string>
   <string name="dialog_recovery_tabs_title">Otvoriť stránku pred obnovením</string>
   <string name="pref_checkbox_tab_restore">Viac sa nepýtať</string>
