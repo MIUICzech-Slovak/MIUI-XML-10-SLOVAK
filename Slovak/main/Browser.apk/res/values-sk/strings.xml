@@ -1040,4 +1040,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="dialog_recovery_tabs_disc">Detekcia nezatvorených stránok</string>
   <string name="dialog_recovery_tabs_title">Otvoriť stránku pred obnovením</string>
   <string name="pref_checkbox_tab_restore">Viac sa nepýtať</string>
+  <string name="data_monitor">Upozornenie na spotrebu dát</string>
+  <string name="pref_tab_restore">Obnoviť naposledy otvorenú stránku</string>
+  <string name="pref_slide_back_forward">Navigácia posúvaním prsta</string>
 </resources>
