@@ -433,4 +433,8 @@
         <item quantity="other">Ostáva: %d</item>
         <item quantity="one">Ostáva: %d</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Vyberte do %d fotografií</item>
+        <item quantity="one">Vyberte do %d fotografií</item>
+    </plurals>	
 </resources>

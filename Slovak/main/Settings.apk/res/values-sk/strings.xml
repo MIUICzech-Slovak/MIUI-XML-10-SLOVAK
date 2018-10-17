@@ -5397,4 +5397,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="gxzw_dialog_title">Senzor odtlačku prsta</string>
   <string name="miui_optimization_disabled">Deaktivovať MIUI optimizáciu</string>
   <string name="switch_access_service_on">Prepnúť prístup</string>
+  <string name="camera_front">Predný %s</string>
+  <string name="camera_rear">Zadný %s</string>
+  <string name="device_camera">Fotoaparát</string>
+  <string name="status_bar_settings_peek_notification_icon">Zobraziť ikony upozornení</string>
 </resources>

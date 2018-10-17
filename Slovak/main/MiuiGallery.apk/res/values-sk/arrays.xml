@@ -51,4 +51,9 @@
         <item>Nov</item>
         <item>Dec</item>
     </string-array>	
+    <string-array name="menu_copy_or_move">
+        <item>Presunúť</item>
+        <item>Kopírovať</item>
+        <item>Zrušiť</item>
+    </string-array>	
 </resources>
