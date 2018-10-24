@@ -1960,4 +1960,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="lock_screen_no_sim_card_emergency_only">Len núdzový hovor</string>
   <string name="lock_screen_no_sim_card_no_service">Žiaden signál</string>
   <string name="torch_high_temperature_warning">Vaše zariadenie je prehriate. Nie je možné použiť svietidlo.</string>
+  <string name="structure_face_unlock_tof_covered">Nebolo možné naskenovať tvár. Oddiaľte zariadenie a skúste to znova.</string>
 </resources>

@@ -454,4 +454,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Pridať %dmin</item>
         <item quantity="one">Pridať %dmin</item>
     </plurals>	
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Vybité %2$d%% batérie počas posledných %1$d min.</item>
+        <item quantity="one">Vybité %2$d%% batérie počas poslednej %1$d min.</item>
+    </plurals>	
 </resources>

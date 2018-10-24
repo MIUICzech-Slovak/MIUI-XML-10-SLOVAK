@@ -469,4 +469,8 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="extreme_mode_dialog_message">Táto funkcia nie je dostupní v Extrémnom režime.</string>
   <string name="extreme_mode_dialog_ok">Rozumiem</string>
   <string name="extreme_mode_dialog_title">Upozornenie</string>  
+  <string name="component_title_settings_video_wallpaper">Tapety s efektami</string>
+  <string name="theme_detail_tab_comment">Komentáre</string>
+  <string name="theme_detail_tab_recommend">Odporúčané</string>
+  <string name="theme_detail_tab_theme">Témy</string>
 </resources>

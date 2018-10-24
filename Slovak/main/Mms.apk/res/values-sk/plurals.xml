@@ -69,4 +69,8 @@
         <item quantity="other">(%d SMS)</item>
         <item quantity="one">(%d SMS)</item>
     </plurals> 
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">SMS prijatá %1$s a %2$d ostatnými</item>
+        <item quantity="one">SMS prijatá %1$s a %2$d ďalším</item>
+    </plurals>	
 </resources>
