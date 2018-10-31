@@ -153,4 +153,12 @@
         <item quantity="other">Ostáva: %1$dh %2$dmin</item>
         <item quantity="one">Ostáva: %1$dh %2$dmin</item>
     </plurals>	
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Zadanie hesla sa vyžaduje po %d hodinách neaktivity</item>
+        <item quantity="one">Zadanie hesla sa vyžaduje po %d hodine neaktivity</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Zadanie gesta sa vyžaduje po %d hodinách neaktivity</item>
+        <item quantity="one">Zadanie gesta sa vyžaduje po %d hodine neaktivity</item>
+    </plurals>	
 </resources>

@@ -511,4 +511,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
   <string name="account_invalid_user_avatar">Fotografiu nie je možné použiť</string>
+  <string name="passport_input_phone_password">Zadajte PIN pre číslo %s</string>
+  <string name="passport_international_register_by_email">Vytvoriť účet pomocou emailovej adresy</string>
+  <string name="passport_sms_verification_code_login_or_register">Prihlásiť sa alebo registrovať pomocou SMS</string>
 </resources>

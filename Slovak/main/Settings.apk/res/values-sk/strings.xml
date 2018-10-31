@@ -5441,4 +5441,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="restore_dialog_content">Obnovenie identifikácie zariadenia obnoví aj vaše odporúčania.</string>
   <string name="restore_dialog_positive">Obnoviť</string>
   <string name="restore_dialog_title">Upozornenie</string>
+  <string name="keyguard_notification_status_title">Upozornenia</string>
 </resources>

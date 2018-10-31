@@ -1315,4 +1315,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="toast_call_no_SoundRecorder">Nahrávanie nie je dostupné</string>
   <string name="toast_call_no_notes">Poznámky nie sú dostupné</string>
   <string name="preference_privacy_policy_title">Ochrana súkromia</string>
+  <string name="description_image_button_sim1_named_dial">Vytočiť cez SIM1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Vytočiť cez SIM2 %s</string>
+  <string name="scan_business_card">Skenovať vizitku</string>
+  <string name="scan_bussiness_card_merge_tip">Dáta boli prepísané</string>
 </resources>

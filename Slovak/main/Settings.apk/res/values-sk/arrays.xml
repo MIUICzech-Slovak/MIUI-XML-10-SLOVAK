@@ -988,4 +988,9 @@ Postupujte podľa pokynov"</item>
         <item>Vyhľadávanie</item>
         <item>Nastavenia</item>
     </string-array>	
+    <string-array name="keyguard_notification_status_entries">
+        <item>Rozsvietiť displej</item>
+        <item>Zobraziť animáciu</item>
+        <item>Neprebudiť displej</item>
+    </string-array>	
 </resources>
