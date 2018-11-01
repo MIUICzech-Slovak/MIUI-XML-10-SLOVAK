@@ -877,7 +877,6 @@ Chcete opustiť túto web stránku?"</string>
   <string name="suggest_access_item_website_mark">WEBSITE</string>
   <string name="suggest_item_delete_text">Vymazať</string>
   <string name="suggest_open_app_failed">Nebolo možné otvoriť túto aplikáciu</string>
-  <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
   <string name="switchText">ÁNO</string>
   <string name="switch_proxy_dialog_msg">"Bolo zistené napadnutie vašej siete. Použite MIUI aplikáciu Optimalizácia alebo to nahláste vášmu operátorovi."</string>
   <string name="switch_proxy_dialog_title">Napadnutie siete</string>
