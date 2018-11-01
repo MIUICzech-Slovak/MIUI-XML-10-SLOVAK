@@ -1045,4 +1045,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pref_slide_back_forward">Navigácia posúvaním prsta</string>
   <string name="guide_slide_down">Potiahnite nadol</string>
   <string name="guide_slide_up">Potiahnite nahor</string>  
+  <string name="suggestion_input_history_title_text">HISTÓRIA</string>
+  <string name="suggestion_input_hitory_clear_text">VYMAZAŤ</string>
+  <string name="suggestion_clear_record_message">Chcete vymazať históriu zadávania?</string>
 </resources>
