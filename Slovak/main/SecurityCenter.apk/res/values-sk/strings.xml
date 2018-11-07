@@ -2992,4 +2992,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="card_main_hwtest_title">Test hardware</string>
   <string name="menu_item_about_privacy_title">Ochrana súkromia</string>
   <string name="ad_split_screen_title">Prepnite sa do režimu celej obrazovky pre odomknutie</string>
+  <string name="om_locked_apps_summary">Zamknuté aplikácie budú ignorované pri zrýchlení systému.</string>
+  <string name="om_not_finish_speedboost">Vyžaduje sa Zrýchlenie systému</string>
+  <string name="om_running_locked_apps">Zamknuté aplikácie</string>
+  <string name="om_running_system_apps">Systémové aplikácie</string>
+  <string name="om_running_third_apps">Nainštalované aplikácie</string>
 </resources>

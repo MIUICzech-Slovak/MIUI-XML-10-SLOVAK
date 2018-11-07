@@ -5442,4 +5442,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="restore_dialog_positive">Obnoviť</string>
   <string name="restore_dialog_title">Upozornenie</string>
   <string name="keyguard_notification_status_title">Upozornenia</string>
+  <string name="others">Ostatné</string>
+  <string name="slider_vocie_online_theme">Online zvuk</string>
+  <string name="sound_stereo_mode_summary">Dostupné len ak prehrávate zvuk cez reproduktor</string>
+  <string name="sound_stereo_mode_title">Stereo zvuk</string>
 </resources>

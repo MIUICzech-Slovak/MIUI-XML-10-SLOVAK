@@ -705,4 +705,5 @@ Získali ste ďalších %1$s"</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
   <string name="operation_show_privacy_policy">Zobraziť Ochranu súkromia</string>
+  <string name="rename_input_null">Zadajte nový názov súboru</string>
 </resources>
