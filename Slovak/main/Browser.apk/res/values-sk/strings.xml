@@ -1047,4 +1047,13 @@ Chcete opustiť túto web stránku?"</string>
   <string name="suggestion_input_history_title_text">HISTÓRIA</string>
   <string name="suggestion_input_hitory_clear_text">VYMAZAŤ</string>
   <string name="suggestion_clear_record_message">Chcete vymazať históriu zadávania?</string>
+  <string name="action_menu_toast_incognito_off">Deaktivovať inkognito režim</string>
+  <string name="action_menu_toast_incognito_on">Aktivovať inkognito režim</string>
+  <string name="contextmenu_incognito">Inkognito režim</string>
+  <string name="document_download_immediate">Hneď stiahnuť</string>
+  <string name="document_download_normal">Bežné sťahovanie</string>
+  <string name="document_download_recommending">Bezpečné sťahovanie</string>
+  <string name="download_dialog_file_length_default_txt">Načítavanie...</string>
+  <string name="pref_fling_gesture">Gestá potiahnutím</string>
+  <string name="suggestion_sliding_item_more_text">VIAC</string>
 </resources>

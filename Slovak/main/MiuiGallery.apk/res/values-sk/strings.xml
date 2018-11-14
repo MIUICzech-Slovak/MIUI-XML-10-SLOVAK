@@ -1339,4 +1339,16 @@
   <string name="picker_origin_request_progress_fail">Nebolo možné stiahnuť obrázok.</string>
   <string name="set_as_slide_wallpaper_description">Tento obrázok je len náhľad. Chcete stiahnuť originál?</string>
   <string name="set_as_slide_wallpaper_title">Nastaviť ako prezentáciu na pozadie</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Galéria bude ukladať súbory na interné úložisko. Môžete to zmeniť v Nastaveniach.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">Nebolo možné získať povolenia.</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Ďalej</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Povolenia</string>
+  <string name="ext_sdcard_guide_text">Galéria vyžaduje povolenie k prístupu na SD kartu:</string>
+  <string name="ext_sdcard_operation_failed_text">Galéria vyžaduje povolenie k prístupu na SD kartu.</string>
+  <string name="ext_sdcard_operation_failed_title">Nebolo možné dokončiť</string>
+  <string name="ext_sdcard_permission_request_button_text">Rozumiem</string>
+  <string name="ext_sdcard_permission_request_reason">Galéria vyžaduje povolenie k prístupu na SD kartu.</string>
+  <string name="ext_sdcard_permission_request_title">Povoliť Galérií prístup k SD karte</string>
+  <string name="ext_sdcard_request_failed_button_text">OK</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Hotovo!</string>  
 </resources>

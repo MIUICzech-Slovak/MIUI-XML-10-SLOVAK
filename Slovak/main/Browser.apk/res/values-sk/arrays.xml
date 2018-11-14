@@ -37,6 +37,11 @@
         <item>Zmeniť kartu</item>
         <item>Žiadna</item>
     </string-array>	
+    <string-array name="pref_fling_gesture_entries">
+        <item>Späť / Ďalej</item>
+        <item>Zmeniť kartu</item>
+        <item>Žiadna</item>
+    </string-array>		
      <string-array name="pref_navscreen_layoutstate_choices">
         <item>Na šírku</item>
         <item>Na výšku</item>

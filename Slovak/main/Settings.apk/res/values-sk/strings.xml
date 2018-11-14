@@ -5444,4 +5444,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="keyguard_notification_status_title">Upozornenia</string>
   <string name="others">Ostatné</string>
   <string name="slider_vocie_online_theme">Online zvuk</string>
+  <string name="input_pattern_hint_text">Zadajte vaše gesto</string>
 </resources>

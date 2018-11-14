@@ -29,4 +29,12 @@
         <item quantity="other">%dh</item>
         <item quantity="one">1h</item>
     </plurals>	
+    <plurals name="conference_call_number">
+        <item quantity="other">Pripojených: %s</item>
+        <item quantity="one">Pripojených: %s</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Znova vytočené %dx</item>
+        <item quantity="one">Znova vytočené %dx</item>
+    </plurals>
 </resources>
