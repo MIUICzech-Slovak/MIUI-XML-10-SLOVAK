@@ -58,4 +58,6 @@ Vaše dáta nebudú vymazané."</string>
   <string name="version">Nainštalovaná verzia</string>
   <string name="weekly">Týždenná</string>
   <string name="wifi_recommended">Pripojte sa na Wi-fi sieť pre stiahnutie aktualizácie!</string>
+  <string name="channel_downloading">Priebeh sťahovania</string>
+  <string name="channel_update">Dostupná nová verzia MIUI</string>
 </resources>

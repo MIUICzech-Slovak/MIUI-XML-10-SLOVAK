@@ -194,4 +194,5 @@ Zadajte vaše mesto manuálne"</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="content_desc_city_manage_del">Vymazať</string>
   <string name="content_desc_city_manage_edit">Spravovať mestá</string>  
+  <string name="activity_main_pub_time">Zverejnené %1$s</string>
 </resources>

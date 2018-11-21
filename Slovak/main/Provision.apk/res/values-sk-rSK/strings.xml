@@ -91,4 +91,7 @@ Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred p
   <string name="user_agreement">Podmienky používania</string>
   <string name="user_strayed_warning">Táto stránka je len pre testovanie, vráťte sa naspäť.</string>
   <string name="welcome">Vitajte</string>
+  <string name="other_settings_enhanced_lockscreen">Denná tapeta</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Získajte nové tapety na zamknutej obrazovke</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">T&amp;C</string>  
 </resources>

@@ -626,4 +626,5 @@ efekty osvetlenia"</string>
   <string name="accessibility_intent_done_retry">Znova</string>
   <string name="view_privacy_policy">Ochrana súkromia</string>
   <string name="ultra_wide_mode">Ultra-široký režim</string>
+  <string name="fps960_toast">Spomalená bude len posledná štvrtina nahrávky</string>
 </resources>

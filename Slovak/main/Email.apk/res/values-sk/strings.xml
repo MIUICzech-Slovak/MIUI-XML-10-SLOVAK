@@ -927,4 +927,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="dialog_agree">Súhlasím</string>
+  <string name="dialog_disagree">Nesúhlasím</string>
+  <string name="list_empty_to_fresh">Žiadna správa, potiahnite nadol pre obnovenie.</string>
 </resources>
