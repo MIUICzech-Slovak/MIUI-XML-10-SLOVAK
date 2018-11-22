@@ -1968,5 +1968,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="lock_screen_magazine_default_content">Denne nové tapety</string>
   <string name="lock_screen_magazine_default_entry_title">Podrobnosti o tapete</string>
   <string name="lock_screen_magazine_default_title">Hudba</string>
-  <string name="open_lock_screen_magazine_hint_text">Potiahnite napravo pre viac možností</string>
+  <string name="open_lock_screen_magazine_hint_text">Potiahnite doprava pre viac možností</string>
 </resources>
