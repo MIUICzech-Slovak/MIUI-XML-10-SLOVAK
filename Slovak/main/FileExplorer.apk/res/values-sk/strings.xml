@@ -706,4 +706,9 @@ Získali ste ďalších %1$s"</string>
   <string name="yesterday">Včera</string>
   <string name="operation_show_privacy_policy">Zobraziť Ochranu súkromia</string>
   <string name="rename_input_null">Zadajte nový názov súboru</string>
+  <string name="failed_not_access_sd_card">Povoľte prístup na SD kartu</string>
+  <string name="failed_obtain_permissions">Nebolo možné získať povolenia</string>
+  <string name="not_support_documentui">DocumentUI.apk nie je nainštalované na tomto zariadení</string>
+  <string name="request_document_permission">Pre prístup k súborom na SD karte sa vyžadujú povolenia.</string>
+  <string name="request_document_permission_title">Vyžadujú sa povolenia</string>
 </resources>

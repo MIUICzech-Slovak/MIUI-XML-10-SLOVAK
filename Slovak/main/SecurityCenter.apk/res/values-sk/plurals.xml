@@ -462,4 +462,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Zamknutých aplikácií: %d</item>
         <item quantity="one">Zamknutých aplikácií: %d</item>
     </plurals>		
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Spojte aspoň %d body</item>
+        <item quantity="one">Spojte aspoň %d bod</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Zadajte aspoň %d čísla</item>
+        <item quantity="one">Zadajte aspoň %d číslo</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Zadajte aspoň %d znaky</item>
+        <item quantity="one">Zadajte aspoň %d znak</item>
+    </plurals>	
 </resources>

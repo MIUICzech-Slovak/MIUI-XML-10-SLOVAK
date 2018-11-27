@@ -1969,4 +1969,10 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="lock_screen_magazine_default_entry_title">Podrobnosti o tapete</string>
   <string name="lock_screen_magazine_default_title">Hudba</string>
   <string name="open_lock_screen_magazine_hint_text">Potiahnite doprava pre viac možností</string>
+  <string name="recents_title_app_manager">Aplikácie</string>
+  <string name="recents_title_game">Hry</string>
+  <string name="recents_title_garbage_cleanup">Čistič</string>
+  <string name="recents_title_garbage_deepclean">Hĺbkové čistenie</string>
+  <string name="recents_title_market">Obchod</string>
+  <string name="recents_title_security_scan">Bezpečnosť</string>  
 </resources>
