@@ -222,5 +222,8 @@
   <string name="timer_alert_mute_off">Budík bude zvoniť po zastavení časovača</string>
   <string name="timer_alert_mute_on">Budík nebude zvoniť po zastavení časovača</string>
   <string name="timer_alert_mute_remind">Dotykom stíšite budík</string>
-  <string name="timer_alert_mute_switch">Prepnite pre stíšenie časovača</string>  
+  <string name="timer_alert_mute_switch">Prepnite pre stíšenie časovača</string>
+  <string name="repeat_count">Krát</string>
+  <string name="snooze_duration">Stíšiť</string>
+  <string name="snooze_duration_value">Interval (minút)</string>
 </resources>

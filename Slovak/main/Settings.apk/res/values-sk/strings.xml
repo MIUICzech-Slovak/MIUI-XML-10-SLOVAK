@@ -5445,7 +5445,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="others">Ostatné</string>
   <string name="slider_vocie_online_theme">Online zvuk</string>
   <string name="input_pattern_hint_text">Zadajte vaše gesto</string>
-  <string name="long_press_power_key_half_of_second">Stlačte a podržte tlačidlo zapínania 0.5s pre spustenie Google Asistenta</string>
+  <string name="long_press_power_key_half_of_second">Spustiť Google asistenta pri používaní gest</string>
   <string name="power_key_how_power_force_off">Ako reštartovať zariadenia</string>
   <string name="power_key_how_power_force_off_detail">Stlačte a podržte tlačidlo zapínania kým sa zariadenie nereštartuje</string>
   <string name="power_key_how_power_off">Ako vypnúť zariadenie</string>
@@ -5454,5 +5454,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="power_key_how_start_detail">Stlačte a podržte tlačidlo zapínania 0.5s</string>
   <string name="power_key_start_enjoy">Rozumiem</string>
   <string name="power_key_start_guide">Spustenie Google Asistenta pomocou tlačidla zapínania</string>
-  <string name="the_way_of_wakeup_voice_assistant_summary">Spustiť Google asistenta pri používaní gest</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Stlačte a podržte tlačidlo zapínania 0.5s pre spustenie Google Asistenta</string>
+  <string name="status_bar_settings_show_lte_for_4g">Zobraziť LTE ikonu pre 4G</string>
+  <string name="summary_font_size_v2">Upraviť veľkosť textu, obrázkov a ikon</string>
+  <string name="title_font_v2">Text a prostredie</string>
+  <string name="title_layout_v2">Veľkosť textu a mierky</string>
 </resources>

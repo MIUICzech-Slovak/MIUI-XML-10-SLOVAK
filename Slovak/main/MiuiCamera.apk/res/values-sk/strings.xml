@@ -627,4 +627,11 @@ efekty osvetlenia"</string>
   <string name="view_privacy_policy">Ochrana súkromia</string>
   <string name="ultra_wide_mode">Ultra-široký režim</string>
   <string name="fps960_toast">Spomalená bude len posledná štvrtina nahrávky</string>
+  <string name="custom_watermark_contains_senstive_words">Upravte text %1$s</string>
+  <string name="custom_watermark_tips">Tento text bude zobrazený v druhom riadku vodoznaku. Limit je max 15 znakov.</string>
+  <string name="custom_watermark_too_many_words">Prekročili ste max. limit znakov</string>
+  <string name="custom_watermark_words">Vlastný text vodoznaku</string>
+  <string name="custom_watermark_words_input_hint">Zadajte text</string>
+  <string name="custom_watermark_words_save_success">Uložené</string>
+  <string name="pref_userdefine_watermark_title">Vlastný text vodoznaku</string>
 </resources>

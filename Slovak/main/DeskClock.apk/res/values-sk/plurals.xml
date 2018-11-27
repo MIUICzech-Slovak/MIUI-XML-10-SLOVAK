@@ -52,4 +52,8 @@
         <item quantity="other">%ds</item>
         <item quantity="one">%ds</item>
      </plurals>	
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Budík sa vypne %2$s krát (%1$s min. každý)</item>
+        <item quantity="one">Budík sa vypne %2$s krát (%1$s min.)</item>
+    </plurals>	 
 </resources>

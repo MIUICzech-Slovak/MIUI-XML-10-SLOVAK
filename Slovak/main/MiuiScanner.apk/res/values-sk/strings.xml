@@ -185,4 +185,10 @@
   <string name="send_mail">Odoslať email</string>
   <string name="switch_open">Povoliť</string>
   <string name="wifi_exist_fail">Wi-Fi hotspot \"%1$s\" už existuje.</string>
+  <string name="module_title_plant">Rastlina</string>
+  <string name="plant_fail">Nebolo možné rozpoznať</string>
+  <string name="plant_loading">Identifikácia...</string>
+  <string name="plant_reg_fail_2">Nebolo možné rozpoznať objekt. Skenujte len rastliny.</string>
+  <string name="plant_support">" (Poskytuje)"</string>
+  <string name="plant_title">Zamerajte na rastlinu ktorú chcete identifikovať</string>  
 </resources>
