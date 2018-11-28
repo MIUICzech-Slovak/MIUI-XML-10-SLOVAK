@@ -196,4 +196,9 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="self_device">"Tohto zariadenia "</string>
   <string name="try_continue">Pokračovať</string>
   <string name="unsupported_home">Aktualizujte na najnovšiu verziu MIUI.</string>
+  <string name="backup_stopped_msg">Pokračovanie v zálohovaní prepíše už existujúce zálohy.</string>
+  <string name="backup_stopped_title">Cloudová záloha bola zastavená</string>
+  <string name="dialog_btn_cancel_backup">Zrušiť</string>
+  <string name="dialog_btn_overwrite_backup">Prepísať</string>
+  <string name="dialog_msg_overwrite_backup">Rozdiel medzi lokálnou a cloudovou zálohou je veľký, pokračovanie v zálohe prepíše už existujúcu zálohu.</string>
 </resources>
