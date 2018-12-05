@@ -7,4 +7,5 @@
   <string name="error_not_acceptable">Synchr. bola deaktivovaná.</string>
   <string name="error_title">Nebolo možné synchronizovať</string>
   <string name="error_unauthorized">Synchr. bola deaktivovaná z dôvodu príliš mnoho neúspešných pokusov o prihlásenie.</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Odosielanie SMS do schránky</string>
 </resources>

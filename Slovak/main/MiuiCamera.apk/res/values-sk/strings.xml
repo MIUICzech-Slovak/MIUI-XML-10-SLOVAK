@@ -634,4 +634,10 @@ efekty osvetlenia"</string>
   <string name="custom_watermark_words_input_hint">Zadajte text</string>
   <string name="custom_watermark_words_save_success">Uložené</string>
   <string name="pref_userdefine_watermark_title">Vlastný text vodoznaku</string>
+  <string name="live_speed_extreme_fast">Najrýchlejšie</string>
+  <string name="live_speed_extreme_slow">Najpomalšie</string>
+  <string name="live_speed_fast">Rýchlo</string>
+  <string name="live_speed_fragment_tab_name">Rýchlosť</string>
+  <string name="live_speed_normal">Normálne</string>
+  <string name="live_speed_slow">Pomaly</string>
 </resources>

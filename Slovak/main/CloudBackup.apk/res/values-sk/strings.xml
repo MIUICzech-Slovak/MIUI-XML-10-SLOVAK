@@ -201,4 +201,8 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="dialog_btn_cancel_backup">Zrušiť</string>
   <string name="dialog_btn_overwrite_backup">Prepísať</string>
   <string name="dialog_msg_overwrite_backup">Rozdiel medzi lokálnou a cloudovou zálohou je veľký, pokračovanie v zálohe prepíše už existujúcu zálohu.</string>
+  <string name="other_device_main_space">Prvý profil</string>
+  <string name="other_device_second_space">Druhý profil</string>
+  <string name="self_device_main_space">Prvý profil tohto zariadenia</string>
+  <string name="self_device_second_space">Druhý profil tohto zariadenia</string>
 </resources>

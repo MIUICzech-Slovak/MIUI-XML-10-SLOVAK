@@ -171,4 +171,5 @@
   <string name="resolver_app_recommend_flag">Odporúčané</string>
   <string name="security_permission_network_failed_text">Nebolo možné pripojiť sa k sieti. Skúste to znova neskôr.</string>
   <string name="xspace_head">Klonovaná aplikácia</string>
+  <string name="start_dump_log">Vytvoriť záznam o chybe</string>
 </resources>
