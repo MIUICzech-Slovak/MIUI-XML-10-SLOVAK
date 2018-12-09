@@ -1975,4 +1975,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="recents_title_garbage_deepclean">Hĺbkové čistenie</string>
   <string name="recents_title_market">Obchod</string>
   <string name="recents_title_security_scan">Bezpečnosť</string>  
+  <string name="slider_second_tip_text">Potiahnite displej nadol pre spustenie kamery</string>
+  <string name="slider_text">Potiahnite displej nadol pre spustenie kamery</string>
+  <string name="sliderpanel_description">Nástroje</string>
 </resources>

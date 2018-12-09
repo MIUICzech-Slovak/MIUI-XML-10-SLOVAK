@@ -245,5 +245,8 @@
   <string name="privacy">Ochrana súkromia</string>
   <string name="config_classify">Zoradiť podľa nastavenia</string>
   <string name="high_temp_state">Vysoká teplota</string>
-  <string name="high_temp_state_message">Ochrana proti prehriatiu zariadenia. Dáta, Wi-Fi, Fotoaparát, atď. budú zakázané.</string>  
+  <string name="high_temp_state_message">Ochrana proti prehriatiu zariadenia. Dáta, Wi-Fi, Fotoaparát, atď. budú zakázané.</string>
+  <string name="extreme_power_config_mode_summary">Extrémna úspora batérie obmedzí aktivity na pozadí</string>  
+  <string name="extreme_add_white_list_summary">Maximálne 4 aplikácie</string>
+  <string name="extreme_add_white_list_title">Výnimky</string>
 </resources>

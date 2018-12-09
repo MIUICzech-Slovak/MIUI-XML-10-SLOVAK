@@ -177,6 +177,7 @@ a vyberie sa tá kde sú všetci najkrajší."</string>
   <string name="module_name_portrait">Portrét</string>
   <string name="module_name_square">Štvorec</string>
   <string name="module_name_video">Video</string>
+  <string name="module_name_new_slow_motion">Spomalené video</string>
   <string name="no_storage">Pred použitím vložte SD kartu.</string>
   <string name="not_enough_space">Vaša SD karta je plná.</string>
   <string name="object_track_enable_toast">Súčasným dotykom na oba kraje objektu aktivujete jeho sledovanie.</string>
@@ -640,4 +641,5 @@ efekty osvetlenia"</string>
   <string name="live_speed_fragment_tab_name">Rýchlosť</string>
   <string name="live_speed_normal">Normálne</string>
   <string name="live_speed_slow">Pomaly</string>
+  <string name="pref_camera_volumekey_function_entry_timer">Časovač</string>
 </resources>
