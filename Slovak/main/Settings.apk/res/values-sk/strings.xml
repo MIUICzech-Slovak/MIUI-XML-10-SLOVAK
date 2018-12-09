@@ -5464,4 +5464,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="dump_log_summary">"This feature is designed for generating the 284 log in Alpha and Beta versions of MIUI. Use it with caution.
 You can view generated logs in File Manager."</string>
   <string name="dump_log_title">About this feature</string>  
+  <string name="device_description_battery">Batéria</string>
+  <string name="device_description_camera">Fotoaparát</string>
+  <string name="device_description_cpu">Procesor</string>
+  <string name="device_description_ram">RAM</string>
+  <string name="device_description_resolution">Rozlíšenie</string>
+  <string name="device_description_screen">Displej</string>	
 </resources>
