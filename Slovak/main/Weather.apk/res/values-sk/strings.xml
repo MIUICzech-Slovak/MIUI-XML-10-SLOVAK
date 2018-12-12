@@ -195,4 +195,11 @@ Zadajte vaše mesto manuálne"</string>
   <string name="content_desc_city_manage_del">Vymazať</string>
   <string name="content_desc_city_manage_edit">Spravovať mestá</string>  
   <string name="activity_main_pub_time">Zverejnené %1$s</string>
+  <string name="act_location_error_to_find_city">Nebolo možné zistiť vašu polohu. Môžete pridať vaše mesto manuálne.</string>
+  <string name="empty_view_net_loading">Aktualizácia...</string>
+  <string name="empty_view_net_unavailable">Nebolo možné pripojiť sa k sieti</string>
+  <string name="empty_view_refresh">Skúsiť znova</string>
+  <string name="index_item_downloading">Sťahovanie</string>
+  <string name="index_item_installing2">Inštalácia</string>
+  <string name="location_provider_btn_text">Povoľte službý zisťovania polohy</string>
 </resources>
