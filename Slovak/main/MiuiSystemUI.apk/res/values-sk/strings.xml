@@ -1186,7 +1186,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
   <string name="notification_header_title">Upozornenia</string>
   <string name="notification_hidden_by_policy_text">Obsah je skrytý</string>
   <string name="notification_hidden_text">Máte novú správu</string>
-  <string name="notification_info_channel_disabled_text">NEbudete dostávať %2$s upozornenia od %1$s.</string>
+  <string name="notification_info_channel_disabled_text">Nebudete dostávať %2$s upozornenia od %1$s.</string>
   <string name="notification_info_channel_enabled_text">Budete dostávať %2$s upozornenia od %1$s.</string>
   <string name="notification_low_battery_action_btn">Povoliť</string>
   <string name="notification_low_battery_need_charge">Batéria je takmer vybitá.</string>
