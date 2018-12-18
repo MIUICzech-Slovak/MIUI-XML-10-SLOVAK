@@ -5470,4 +5470,5 @@ You can view generated logs in File Manager."</string>
   <string name="device_description_ram">RAM</string>
   <string name="device_description_resolution">Rozlíšenie</string>
   <string name="device_description_screen">Displej</string>	
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Po deaktivácií zámku obrazovky budú vymazané aj dáta odomykania tvárou.</string>
 </resources>

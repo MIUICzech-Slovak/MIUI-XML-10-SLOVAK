@@ -378,4 +378,8 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
   <string name="xspace_remove">Vymazať účty klonovaných aplikácií</string>
+  <string name="button_input_password">Zadajte heslo</string>
+  <string name="button_touch">Priložte prst na senzor odtlačku prsta</string>
+  <string name="dialog_verify">Overte svoj odtlačok</string>
+  <string name="dialog_verify_fingerprint_retry">Nebolo možné overiť.</string>
 </resources>

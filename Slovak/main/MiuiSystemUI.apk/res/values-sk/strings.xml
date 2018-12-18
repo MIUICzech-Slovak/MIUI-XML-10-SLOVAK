@@ -862,9 +862,9 @@ Použite sieťovú nabíjačku."</string>
   <string name="keyguard_instructions_when_pattern_disabled">Odomknete stlačením tlačidla ponuky.</string>
   <string name="keyguard_left_bankcard">Kalkulačka</string>
   <string name="keyguard_left_buscard">Poznámky</string>
-  <string name="keyguard_left_remotecentral">Kalendár</string>
-  <string name="keyguard_left_smarthome">Kontakty</string>
-  <string name="keyguard_left_view_lock_wallpaper">Hudba</string>
+  <string name="keyguard_left_remotecentral">MiRemote</string>
+  <string name="keyguard_left_smarthome">MiHome</string>
+  <string name="keyguard_left_view_lock_wallpaper">Denná tapeta</string>
   <string name="keyguard_low_battery">Pripojte nabíjačku.</string>
   <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
   <string name="keyguard_missing_sim_instructions_long">SIM karta chýba alebo sa z nej nedá čítať. Vložte SIM kartu.</string>
@@ -1967,7 +1967,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="face_data_manage_unlock_slide_msg">Nahradiť skratky odomknutím tvárou</string>
   <string name="lock_screen_magazine_default_content">Denne nové tapety</string>
   <string name="lock_screen_magazine_default_entry_title">Podrobnosti o tapete</string>
-  <string name="lock_screen_magazine_default_title">Hudba</string>
+  <string name="lock_screen_magazine_default_title">Denná tapeta</string>
   <string name="open_lock_screen_magazine_hint_text">Potiahnite doprava pre viac možností</string>
   <string name="recents_title_app_manager">Aplikácie</string>
   <string name="recents_title_game">Hry</string>
@@ -1978,4 +1978,10 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="slider_second_tip_text">Potiahnite displej nadol pre spustenie kamery</string>
   <string name="slider_text">Potiahnite displej nadol pre spustenie kamery</string>
   <string name="sliderpanel_description">Nástroje</string>
+  <string name="lock_screen_magazine_global_button_text">Viac</string>
+  <string name="keyguard_left_calculator">Kalkulačka</string>
+  <string name="keyguard_left_calendar">Kalendár</string>
+  <string name="keyguard_left_contacts">Kontakty</string>
+  <string name="keyguard_left_music">Hudba</string>
+  <string name="keyguard_left_notes">Poznámky</string>
 </resources>
