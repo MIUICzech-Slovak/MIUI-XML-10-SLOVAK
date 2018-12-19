@@ -1984,4 +1984,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="keyguard_left_contacts">Kontakty</string>
   <string name="keyguard_left_music">Hudba</string>
   <string name="keyguard_left_notes">Poznámky</string>
+  <string name="aspect_cancel">Zrušiť</string>
+  <string name="aspect_message">Táto aplikácia bola spustená v režime celej obrazovky. Ak pozorujete nejake problémy s vzhľadom aplikácie, môžete deaktivovať režim celej obrazovky v nastaveniach.</string>
+  <string name="aspect_ok">OK</string>
+  <string name="aspect_title">Režim celej obrazovky</string>
+  <string name="accessibility_aspect_button">Režim celej obrazovky</string>
 </resources>
