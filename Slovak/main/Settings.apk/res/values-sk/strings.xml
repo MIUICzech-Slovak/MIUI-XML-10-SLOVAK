@@ -5492,7 +5492,7 @@ You can view generated logs in File Manager."</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">Nebolo možné odoslať SMS %1s (%2s)."</string>
   <string name="miui_sos_emergency_failed_sms_noname">Nebolo možné odoslať SMS %1s.</string>
   <string name="miui_sos_enable_switch_summary">Rýchlo stlačte tlačidlo zapínania 5x pre odoslanie núdzovej SOS SMS s vašou polohou núdzovým kontaktom</string>
-  <string name="miui_sos_enable_switch_title">Núdzová SOS</string>
+  <string name="miui_sos_enable_switch_title">Núdzové SOS</string>
   <string name="miui_sos_exit_dialog_cancel">Zrušiť</string>
   <string name="miui_sos_exit_dialog_message">Aktivovali ste Núdzové SOS. Vaša poloha bola odoslaná vašim núdzovým kontaktom. Aj tak vypnúť?</string>
   <string name="miui_sos_exit_dialog_ok">OK</string>
