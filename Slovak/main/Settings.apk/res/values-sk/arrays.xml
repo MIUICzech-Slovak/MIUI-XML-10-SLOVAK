@@ -997,4 +997,13 @@ Postupujte podľa pokynov"</item>
 	<item>Zvonenie</item>
 	<item>Média</item>
     </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+	<item>Predvolené</item>
+	<item>Kompaktné</item>
+	</string-array>	
+	<string-array name="aod_clock_style_entries">
+	<item>Horizontálne</item>
+	<item>Vertikálne</item>
+	<item>V riadku</item>
+	</string-array>
 </resources>

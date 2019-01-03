@@ -5525,4 +5525,6 @@ You can view generated logs in File Manager."</string>
   <string name="sos_privacy_dialog_message">"Používaním tejto funkcie súhlasíte s našimi %s. 
 Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mobilných dát, a prístup ku kontaktom. Súhlasíte?"</string>
   <string name="sos_privacy_dialog_title">Podmienky používania</string>  
+  <string name="aod_clock_style_title">Štýl hodín</string>
+  <string name="status_bar_settings_qs_layout">Rozloženie prepínačov</string>
 </resources>
