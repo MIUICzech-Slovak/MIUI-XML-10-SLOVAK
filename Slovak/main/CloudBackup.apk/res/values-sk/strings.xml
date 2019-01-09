@@ -205,4 +205,11 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="other_device_second_space">Druhý profil</string>
   <string name="self_device_main_space">Prvý profil tohto zariadenia</string>
   <string name="self_device_second_space">Druhý profil tohto zariadenia</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Navýšiť</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Získajte viac úložného priestoru v Mi cloud.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Navýšiť Mi účet</string>
+  <string name="restore_finish_description">Obnovené</string>
+  <string name="restore_init_description">spustiť obnovu</string>
+  <string name="restoring_file_title_no_progress">Obnovenie...</string>
+  <string name="restoring_settings">Obnovenie Nastavení...</string>
 </resources>

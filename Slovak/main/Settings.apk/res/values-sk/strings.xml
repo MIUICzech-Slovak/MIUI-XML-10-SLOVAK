@@ -5527,4 +5527,10 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="sos_privacy_dialog_title">Podmienky používania</string>  
   <string name="aod_clock_style_title">Štýl hodín</string>
   <string name="status_bar_settings_qs_layout">Rozloženie prepínačov</string>
+  <string name="eq_return">Späť</string>
+  <string name="page_layout_confirm_message_enlarge">Text, obrázky, a ikony budú zväčšené. Ikony môžu zmeniť svoje umiestnenie.</string>
+  <string name="page_layout_confirm_message_narrow">Text, obrázky, a ikony budú zmenšené. Ikony môžu zmeniť svoje umiestnenie.</string>
+  <string name="page_layout_confirm_title_enlarge">Väčšie položky</string>
+  <string name="page_layout_confirm_title_narrow">Menšie položky</string>
+  <string name="screen_optimize_disabled">Ak je povolený režim čítania, nie je možné zmeniť kontrast</string>
 </resources>

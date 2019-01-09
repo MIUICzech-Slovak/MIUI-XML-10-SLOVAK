@@ -1351,4 +1351,7 @@
   <string name="ext_sdcard_permission_request_title">Povoliť Galérií prístup k SD karte</string>
   <string name="ext_sdcard_request_failed_button_text">OK</string>
   <string name="ext_sdcard_request_succeed_toast_text">Hotovo!</string>  
+  <string name="channel_default_name">Nové funkcie</string>
+  <string name="channel_low_name">Nové správy</string>
+  <string name="channel_min_name">Upozornenia</string>  
 </resources>

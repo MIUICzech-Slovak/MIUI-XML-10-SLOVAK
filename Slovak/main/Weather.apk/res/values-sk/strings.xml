@@ -201,5 +201,9 @@ Zadajte vaše mesto manuálne"</string>
   <string name="empty_view_refresh">Skúsiť znova</string>
   <string name="index_item_downloading">Sťahovanie</string>
   <string name="index_item_installing2">Inštalácia</string>
-  <string name="location_provider_btn_text">Povoľte službý zisťovania polohy</string>
+  <string name="location_provider_btn_text">Povoľte služby zisťovania polohy</string>
+  <string name="update_notification_info">Aktualizácia dát...</string>
+  <string name="weather_alert_channel_name">Upozornenia</string>
+  <string name="weather_service_channel_name">Služby na pozadí</string>
+  <string name="settings">Nastavenia</string>
 </resources>

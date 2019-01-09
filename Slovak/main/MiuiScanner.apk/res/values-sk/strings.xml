@@ -191,4 +191,22 @@
   <string name="plant_reg_fail_2">Nebolo možné rozpoznať objekt. Skenujte len rastliny.</string>
   <string name="plant_support">" (Poskytuje)"</string>
   <string name="plant_title">Zamerajte na rastlinu ktorú chcete identifikovať</string>  
+  <string name="about_title">O aplikácií</string>
+  <string name="action_search">Vyhľadať</string>
+  <string name="business_card_result_title">Vizitka</string>
+  <string name="common_retry">Skúsiť znova</string>
+  <string name="crop_title_study">Orezať fotografiu</string>
+  <string name="error_empty_result">Nič sa nenašlo</string>
+  <string name="error_server_error">Chyba servera</string>
+  <string name="no_support_to_translate_type">Tento jazyk nie je podporovaný</string>
+  <string name="setting_choose_every_time">Vždy sa opýtať</string>
+  <string name="setting_default_function">Predvolená funkcia</string>
+  <string name="setting_title">Nastavenia</string>
+  <string name="setting_use_last_choose">Pamätať predchádzajúce nastavenie</string>
+  <string name="study_rotate_picture">Spracovávanie...</string>
+  <string name="study_scan_result">Výsledok</string>
+  <string name="study_searching">Vyhľadávanie</string>
+  <string name="study_title">Vyfoťte problém</string>
+  <string name="study_vendor_info">Poskytuje Xiaomi</string>
+  <string name="module_title_study">Štúdia</string>
 </resources>

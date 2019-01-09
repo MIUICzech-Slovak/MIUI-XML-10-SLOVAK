@@ -187,4 +187,7 @@
         <item quantity="other">Dokončite %1$d kroky k obnoveniu továrnych nastavení</item>
         <item quantity="one">Dokončite %1$d krok k obnoveniu továrnych nastavení</item>
     </plurals>	
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d pridané</item>
+    </plurals>	
 </resources>
