@@ -5533,4 +5533,5 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="page_layout_confirm_title_enlarge">Väčšie položky</string>
   <string name="page_layout_confirm_title_narrow">Menšie položky</string>
   <string name="screen_optimize_disabled">Ak je povolený režim čítania, nie je možné zmeniť kontrast</string>
+  <string name="keyguard_double_tap_to_sleep_title">Uspať dvojitým poklepaním</string>
 </resources>

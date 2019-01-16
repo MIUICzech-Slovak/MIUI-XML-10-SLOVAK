@@ -1989,5 +1989,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="aspect_ok">OK</string>
   <string name="aspect_title">Režim celej obrazovky</string>
   <string name="accessibility_aspect_button">Režim celej obrazovky</string>
-  <string name="gxzw_long_press_tip">Stlačte a podržte pre nové funkcie</string>
+  <string name="gxzw_long_press_tip"/>
 </resources>

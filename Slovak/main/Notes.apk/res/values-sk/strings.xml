@@ -274,4 +274,5 @@ http://www.miuios.cz/rom
   <string name="cta_confirm_ok">Povoliť</string>
   <string name="cta_dialog_message">Poznámky vyžadujú povolenia pre pripojenie k sieti, nahrávanie zvuku a prístup ku kontaktom. Chcete povoliť?</string>
   <string name="cta_dialog_title">Povolenia</string>  
+  <string name="unclassfied_folder_name">Nerozdelené</string>
 </resources>
