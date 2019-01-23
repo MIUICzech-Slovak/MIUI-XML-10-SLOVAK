@@ -5536,7 +5536,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="keyguard_double_tap_to_sleep_title">Uspať dvojitým poklepaním</string>
   <string name="date_time_24hour_auto">Automatický 24-hodinový formát</string>
   <string name="date_time_24hour_auto_summary">Použiť predvolené nastavenie</string>  
-  <string name="dump_log">Získať záznamy o chybách</string>
   <string name="handy_mode_tips_full_screen" />
   <string name="accessibility_summary_source">Poskytuje %s</string>
   <string name="accessibility_disable_animations">Vypnúť animácie</string>
