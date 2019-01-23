@@ -744,4 +744,8 @@ Pokus: %s."</string>
   <string name="unsubscribe">Odhlásiť</string>
   <string name="dialog_title_networking">Podmienky používania</string>
   <string name="dialog_message_networking">SMS aplikácia vyžaduje pripojenie na internet pre fungovanie Cloudových správ.</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Povoliť Inteligentné SMS</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Identifikovať odosielateľa</string>
+  <string name="auto_identify_btn_title">Táto SMS je odoslaná z neznámeho čísla.</string>
+  <string name="auto_identify_confirmation">Aktivácia môže trvať pár minút.</string>
 </resources>

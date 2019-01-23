@@ -5550,4 +5550,17 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="ambient_display_screen_title">Ambientný displej</string>
   <string name="ambient_display_summary">Skontrolovať čas, upozornenia a iné informácie, dvakrát poklepte po displeji.</string>
   <string name="ambient_display_title">Dvakrát poklepať pre kontrolu</string>  
+  <string name="aod_lock_screen_date">EEEE, MMMM d</string>
+  <string name="aod_lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="aod_mode_bg">Pozadie</string>
+  <string name="aod_mode_clock">Hodiny</string>
+  <string name="aod_mode_style">Štýl hodín a pozadia</string>
+  <string name="aod_mode_summary">Zobraziť čas, dátum a SMS keď je displej vypnutý.</string>
+  <string name="aod_sample_date">Máj 10 Utorok</string>
+  <string name="dark_color_mode">Tmavý režim</string>
+  <string name="dark_color_summary">Použiť tmavú farbu pozadia v kompatibilných aplikáciach</string>
+  <string name="open_dark_mode_dialog_summary">Vaše nastavenia displeja nie sú kompatibilné s Tmavým režimom. Nastavenia budú obnovené po deaktivácií Tmavého režimu. Chcete ho deaktivovať teraz?</string>
+  <string name="open_dark_mode_dialog_title">Kompatibilita Tmavého režimu</string>
+  <string name="screen_cancel">Zrušiť</string>
+  <string name="screen_confirm">Povoliť</string>
 </resources>
