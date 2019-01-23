@@ -1354,4 +1354,9 @@
   <string name="channel_default_name">Nové funkcie</string>
   <string name="channel_low_name">Nové správy</string>
   <string name="channel_min_name">Upozornenia</string>  
+  <string name="month_view_tip_button_text">Rozumiem</string>
+  <string name="month_view_tip_sub_title">Prstami k sebe prepnete na zobrazenie mesiaca</string>
+  <string name="month_view_tip_title">Zobrazenie mesiaca</string>
+  <string name="text_tab_bubble">Bubliny</string>
+  <string name="text_tab_watermark">Vodoznak</string>  
 </resources>

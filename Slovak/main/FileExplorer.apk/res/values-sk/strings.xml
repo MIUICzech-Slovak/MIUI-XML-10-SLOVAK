@@ -711,4 +711,5 @@ Získali ste ďalších %1$s"</string>
   <string name="not_support_documentui">DocumentUI.apk nie je nainštalované na tomto zariadení</string>
   <string name="request_document_permission">Pre prístup k súborom na SD karte sa vyžadujú povolenia.</string>
   <string name="request_document_permission_title">Vyžadujú sa povolenia</string>
+  <string name="menu_set_wallpaper">Nastaviť ako tapetu</string>
 </resources>

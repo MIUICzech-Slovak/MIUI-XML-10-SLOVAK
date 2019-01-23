@@ -161,4 +161,7 @@
         <item quantity="other">Zadanie gesta sa vyžaduje po %d hodinách neaktivity</item>
         <item quantity="one">Zadanie gesta sa vyžaduje po %d hodine neaktivity</item>
     </plurals>	
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hodina %2$s"</item>
+    </plurals>	
 </resources>

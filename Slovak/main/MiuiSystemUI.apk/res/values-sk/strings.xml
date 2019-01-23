@@ -1990,4 +1990,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="aspect_title">Režim celej obrazovky</string>
   <string name="accessibility_aspect_button">Režim celej obrazovky</string>
   <string name="gxzw_long_press_tip"/>
+   <string name="face_unlock_not_roi">Udržte vašu tvár v rámčeku</string>
 </resources>
