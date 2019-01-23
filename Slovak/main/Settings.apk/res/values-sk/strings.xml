@@ -5534,4 +5534,21 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="page_layout_confirm_title_narrow">Menšie položky</string>
   <string name="screen_optimize_disabled">Ak je povolený režim čítania, nie je možné zmeniť kontrast</string>
   <string name="keyguard_double_tap_to_sleep_title">Uspať dvojitým poklepaním</string>
+  <string name="date_time_24hour_auto">Automatický 24-hodinový formát</string>
+  <string name="date_time_24hour_auto_summary">Použiť predvolené nastavenie</string>  
+  <string name="dump_log">Získať záznamy o chybách</string>
+  <string name="handy_mode_tips_full_screen" />
+  <string name="accessibility_summary_source">Poskytuje %s</string>
+  <string name="accessibility_disable_animations">Vypnúť animácie</string>
+  <string name="accessibility_vibration_settings_title">Vibrácie</string>
+  <string name="enable_gnss_raw_meas_full_tracking">Vynútiť úplné meranie GNSS</string>
+  <string name="enable_gnss_raw_meas_full_tracking_summary">Sledovať všetky konštelácie a frekvencie GNSS bez cyklického vypínania a zapínania</string>
+  <string name="ambient_display_category_triggers">Kedy zobraziť</string>
+  <string name="ambient_display_pickup_summary">Skontrolovať čas, upozornenia a iné informácie.</string>
+  <string name="ambient_display_pickup_title">Zodvihnúť pre kontrolu</string>
+  <string name="ambient_display_screen_summary_always_on">Vždy</string>
+  <string name="ambient_display_screen_summary_notifications">Nové upozornenia</string>
+  <string name="ambient_display_screen_title">Ambientný displej</string>
+  <string name="ambient_display_summary">Skontrolovať čas, upozornenia a iné informácie, dvakrát poklepte po displeji.</string>
+  <string name="ambient_display_title">Dvakrát poklepať pre kontrolu</string>  
 </resources>

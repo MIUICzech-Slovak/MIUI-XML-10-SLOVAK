@@ -473,4 +473,10 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="theme_detail_tab_comment">Komentáre</string>
   <string name="theme_detail_tab_recommend">Odporúčané</string>
   <string name="theme_detail_tab_theme">Témy</string>
+  <string name="using_theme_show_ad">Odporúčania</string>
+  <string name="pref_privacy_policy">Ochrana súkromia</string>
+  <string name="using_theme_next_automatic_update">Automatické aktualizácie</string>
+  <string name="using_theme_next_automatic_update_summary">Aktualizovať stiahnuté témy automaticky cez Wi-Fi</string>
+  <string name="title_my_miwallpaper_resource">Moje živé pozadia</string>
+  <string name="title_my_miwallpaper_video_file_resource">Moje videopozadia</string>  
 </resources>
