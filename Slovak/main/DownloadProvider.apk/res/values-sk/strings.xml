@@ -32,7 +32,6 @@
   <string name="download_queued">V poradí</string>
   <string name="download_remaining">Ostáva: %s</string>
   <string name="download_running">Prebieha</string>
-  <string name="download_running_percent">Prebieha, %d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
   <string name="enter_garbage_clean">Vyčistiť interné úložisko.</string>
   <string name="insufficient_space">Nie je dostatok voľného miesta na internom úložisku</string>
