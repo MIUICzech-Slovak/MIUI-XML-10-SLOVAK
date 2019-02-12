@@ -1006,4 +1006,9 @@ Postupujte podľa pokynov"</item>
 	<item>Vertikálne</item>
 	<item>V riadku</item>
 	</string-array>
+    <string-array name="dark_ui_mode_entries">
+	<item>Automaticky (Podľa slnka)</item>
+	<item>Vždy zapnuté</item>
+	<item>Vždy vypnuté</item>
+	</string-array>	
 </resources>

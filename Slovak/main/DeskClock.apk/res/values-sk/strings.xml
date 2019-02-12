@@ -226,4 +226,7 @@
   <string name="repeat_count">Krát</string>
   <string name="snooze_duration">Stíšiť</string>
   <string name="snooze_duration_value">Interval (minút)</string>
+  <string name="module_download_data_msg_replace">Je dostupná aktualizácia zvukov pre budík (≈20MB). Chcete ich stiahnuť cez mobilné dáta?</string>
+  <string name="module_download_msg_replace">Je dostupná aktualizácia zvukov pre budík (≈20MB). Chcete ich stiahnuť?</string>
+  <string name="search_menu_title">Vyhľadať</string>
 </resources>

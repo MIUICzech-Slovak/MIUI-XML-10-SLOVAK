@@ -5562,4 +5562,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="open_dark_mode_dialog_title">Kompatibilita Tmavého režimu</string>
   <string name="screen_cancel">Zrušiť</string>
   <string name="screen_confirm">Povoliť</string>
+  <string name="dark_ui_mode">Tmavý režim</string>
+  <string name="dark_ui_mode_title">Nastaviť tmavé pozadie aplikácií</string>
 </resources>

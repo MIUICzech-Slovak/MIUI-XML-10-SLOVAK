@@ -514,4 +514,10 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_input_phone_password">Zadajte PIN pre číslo %s</string>
   <string name="passport_international_register_by_email">Vytvoriť účet pomocou emailovej adresy</string>
   <string name="passport_sms_verification_code_login_or_register">Prihlásiť sa alebo registrovať pomocou SMS</string>
+  <string name="confirm_new_pwd">Potvrďte nové heslo</string>
+  <string name="inconsistent_pwd">Heslá sa nezhodujú</string>
+  <string name="input_new_pwd">Zadajte nové heslo</string>
+  <string name="same_new_and_old_pwd">Nemôže byť rovnaké ako súčasné heslo</string>
+  <string name="sim_card">SIM karta</string>
+  <string name="used_cloud_storage_info">Využité úložisko %s</string>
 </resources>

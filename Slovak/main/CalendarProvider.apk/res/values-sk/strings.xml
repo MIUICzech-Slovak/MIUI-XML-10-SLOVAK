@@ -22,4 +22,5 @@
   <string name="provider_label">Kalendár</string>
   <string name="upgrade_msg">Aktualizácia databázy kalendára.</string>
   <string name="channel_name">Upozornenie kalendára</string>  
+  <string name="cta_notice">Otvorte Kalendár a povoľte prístup k sieti.</string>
 </resources>

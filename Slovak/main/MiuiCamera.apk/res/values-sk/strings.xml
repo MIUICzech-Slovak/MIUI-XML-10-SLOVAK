@@ -644,4 +644,9 @@ efekty osvetlenia"</string>
   <string name="pref_camera_volumekey_function_entry_timer">Časovač</string>
   <string name="live_edit_exit_confirm">Ukončiť</string>
   <string name="live_edit_exit_message">Zrušiť?</string>  
+  <string name="autozoom_click_hint">Dotknite sa objektu pre jeho sledovanie. Držte sa od neho aspoň 3 metre.</string>
+  <string name="autozoom_disabled_hint">Sledovanie objektu ukončené</string>
+  <string name="autozoom_hint">Sledovať objekt v pohybe</string>
+  <string name="pref_camera_quick_shot_anim_enable_title">Povoliť animáciu rýchlej fotografie</string>
+  <string name="pref_camera_quick_shot_enable_title">Povoliť rýchlu fotografiu</string>
 </resources>

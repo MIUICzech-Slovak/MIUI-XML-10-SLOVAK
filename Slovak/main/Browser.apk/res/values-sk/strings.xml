@@ -1056,4 +1056,6 @@ Chcete opustiť túto web stránku?"</string>
   <string name="download_dialog_file_length_default_txt">Načítavanie...</string>
   <string name="pref_fling_gesture">Gestá potiahnutím</string>
   <string name="suggestion_sliding_item_more_text">VIAC</string>
+  <string name="dialog_clipboard_tabs_action">" otvoríte tu"</string>
+  <string name="dialog_clipboard_tabs_tip">Skopírované URL</string>
 </resources>
