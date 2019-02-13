@@ -1361,4 +1361,19 @@
   <string name="text_tab_watermark">Vodoznak</string> 
   <string name="operation_favorites">Obľúbené</string>
   <string name="more">Viac</string>
+  <string name="agreement_agree">Prijať</string>
+  <string name="agreement_optional_tip">(Voliteľné)</string>
+  <string name="agreement_quit">Ukončiť</string>
+  <string name="agreement_required_tip">(Povinné)</string>
+  <string name="agreement_summary">Dokumenty</string>
+  <string name="permissin_contract_desc">Pre pomenovanie ľudí na fotografiách</string>
+  <string name="permission_contract_name">Kontakty</string>
+  <string name="permission_optional_category">Voliteľné povolenia</string>
+  <string name="permission_phone_desc">Pre požiadavky siete</string>
+  <string name="permission_phone_name">Telefón</string>
+  <string name="permission_require_category">Povinné povolenia</string>
+  <string name="permission_storage_desc">Pre zobrazenie, úpravu a ukladanie fotografií</string>
+  <string name="permission_storage_name">Úložisko</string>
+  <string name="permission_use_desc">Povolenia</string>
+  <string name="select_all">Všetko</string>
 </resources>

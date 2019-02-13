@@ -73,11 +73,11 @@
         <item quantity="one">Synchr. pozastavená. Obnovenie synchr. o %d min.</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
+        <item quantity="other">"pred %s min."</item>
+        <item quantity="one">"pred %s min."</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">" h."</item>
-        <item quantity="one">" h."</item>
+        <item quantity="other">"pred %s h."</item>
+        <item quantity="one">"pred %s h."</item>
     </plurals>	
 </resources>
