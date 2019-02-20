@@ -1023,15 +1023,15 @@ Chcete opustiť túto web stránku?"</string>
   <string name="action_text_edit_bookmark_exit">Ukončiť</string>
   <string name="action_text_nightmode_change">Nočný režim</string>
   <string name="action_text_readmode_bookmark_add">Pridať záložku</string>
-  <string name="action_text_readmode_exit">Ukočiť režim čítania</string>
+  <string name="action_text_readmode_exit">Ukončiť režim čítania</string>
   <string name="action_text_readmode_more">Viac</string>
   <string name="action_text_readmode_theme_head">Nastaviť pozadie</string>
   <string name="action_text_theme_and_textsize_change">Nastavenie písma a témy</string>
   <string name="bookmark_deleted">Vymazať záložku</string>
   <string name="bookmark_not_deleted">Nebolo možné vymazať záložku</string>
-  <string name="bookmark_url_not_exisit">Táto adresa už nola vymazaná</string>
+  <string name="bookmark_url_not_exisit">Táto adresa už bola vymazaná</string>
   <string name="nav_screen_tab_incognito_enter">Otvoriť inkognito kartu</string>
-  <string name="nav_screen_tab_incognito_exit">Ukončiž inkognito kartu</string>
+  <string name="nav_screen_tab_incognito_exit">Ukončiť inkognito kartu</string>
   <string name="page_hang_message">Stránka neodpovedá. Je potrebné reštartovať Prehliadač.</string>
   <string name="page_hang_title">Stránka neodpovedá</string>
   <string name="pref_download_setting">Nastavenie sťahovania</string>
@@ -1058,4 +1058,6 @@ Chcete opustiť túto web stránku?"</string>
   <string name="suggestion_sliding_item_more_text">VIAC</string>
   <string name="dialog_clipboard_tabs_action">" otvoríte tu"</string>
   <string name="dialog_clipboard_tabs_tip">Skopírované URL</string>
+  <string name="dialog_recovery_tabs_action">" Obnoviť"</string>
+  <string name="dialog_recovery_tabs_tip">Posledná nezatvorená webstránka</string>
 </resources>

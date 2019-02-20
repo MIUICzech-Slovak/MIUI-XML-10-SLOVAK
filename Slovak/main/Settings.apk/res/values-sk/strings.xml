@@ -5564,4 +5564,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="screen_confirm">Povoliť</string>
   <string name="dark_ui_mode">Tmavý režim</string>
   <string name="dark_ui_mode_title">Nastaviť tmavé pozadie aplikácií</string>
+  <string name="crypt_keeper_switch_to_pattern">Použiť vzor</string>
+  <string name="crypt_keeper_switch_to_pin">Použiť PIN</string>  
 </resources>

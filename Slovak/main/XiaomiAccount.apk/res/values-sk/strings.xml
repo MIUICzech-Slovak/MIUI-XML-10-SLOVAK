@@ -520,4 +520,15 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="same_new_and_old_pwd">Nemôže byť rovnaké ako súčasné heslo</string>
   <string name="sim_card">SIM karta</string>
   <string name="used_cloud_storage_info">Využité úložisko %s</string>
+  <string name="exit">Ukončiť</string>
+  <string name="i_agree">OK</string>
+  <string name="i_agree_continue">Pokračovať</string>
+  <string name="optional_permissions">Voliteľné povolenia</string>
+  <string name="passport_privacy_policy_required">Ochrana súkromia (povinné)</string>
+  <string name="passport_user_agreement_required">Podmienky používania (povinné)</string>
+  <string name="permission_group_contacts">Kontakty</string>
+  <string name="permission_group_phone">Telefón</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">Úložisko</string>
+  <string name="select_all">Všetko</string>
 </resources>

@@ -3029,4 +3029,25 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_usage_warning_body">Už ste spotrebovali %s mobilných dát tento mesiac.</string>
   <string name="traffic_usage_warning_limit">Upozornenie na limit mobilných dát</string>
   <string name="traffic_usage_warning_title">Upozornenie na spotrebu dát</string>  
+  <string name="app_permission_use_group_calendar">Kalendár</string>
+  <string name="app_permission_use_group_calendar_des">Prístup k udalostiam v kalendári</string>
+  <string name="app_permission_use_group_camera">Fotoaparát</string>
+  <string name="app_permission_use_group_camera_des">Použiť fotoaparát</string>
+  <string name="app_permission_use_group_contact">Kontakty</string>
+  <string name="app_permission_use_group_contact_des">Prístup ku kontaktom</string>
+  <string name="app_permission_use_group_location">Poloha</string>
+  <string name="app_permission_use_group_location_des">Získať vašu polohu</string>
+  <string name="app_permission_use_group_mic">Mikrofón</string>
+  <string name="app_permission_use_group_mic_des">Nahrávať zvuk</string>
+  <string name="app_permission_use_group_phone">Telefón</string>
+  <string name="app_permission_use_group_phone_des">Prístup k zoznamu hovorov</string>
+  <string name="app_permission_use_group_sensor">Telesné senzory</string>
+  <string name="app_permission_use_group_sensor_des">Čítať dáta z telesných senzorov</string>
+  <string name="app_permission_use_group_sms">SMS</string>
+  <string name="app_permission_use_group_sms_des">Odoslať, čítať a prijímať SMS</string>
+  <string name="app_permission_use_group_storage">Úložisko</string>
+  <string name="app_permission_use_group_storage_des">Ukladať súbory na úložisko</string>
+  <string name="app_permission_use_neccesary">Požadované povolenia</string>
+  <string name="app_permission_use_no_neccesary">Ostatné povolenia</string>
+  <string name="app_permission_use_title">Povolenia</string>  
 </resources>

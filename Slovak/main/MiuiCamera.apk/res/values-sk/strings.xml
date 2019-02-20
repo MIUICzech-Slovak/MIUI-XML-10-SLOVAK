@@ -649,4 +649,5 @@ efekty osvetlenia"</string>
   <string name="autozoom_hint">Sledovať objekt v pohybe</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Povoliť animáciu rýchlej fotografie</string>
   <string name="pref_camera_quick_shot_enable_title">Povoliť rýchlu fotografiu</string>
+  <string name="hint_ae_lock">Automatická expozícia bola uzamknutá</string>
 </resources>

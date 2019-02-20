@@ -474,4 +474,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Zadajte aspoň %d znaky</item>
         <item quantity="one">Zadajte aspoň %d znak</item>
     </plurals>	
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d rizík</item>
+        <item quantity="one">%d riziko</item>
+    </plurals>	
 </resources>
