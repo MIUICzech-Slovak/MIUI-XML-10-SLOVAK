@@ -3050,4 +3050,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_permission_use_neccesary">Požadované povolenia</string>
   <string name="app_permission_use_no_neccesary">Ostatné povolenia</string>
   <string name="app_permission_use_title">Povolenia</string>  
+  <string name="pref_traffic_daily_package">Denný dátový balíček</string>
+  <string name="pref_traffic_daily_package_brand">Poskytovateľ</string>
+  <string name="pref_traffic_manage_title">Spotreba dát</string>
+  <string name="pref_traffic_monthly_package">Mesačný dátový balíček</string>
+  <string name="pref_traffic_package_type_summary">Mesačne/Denne/Neobmedzený</string>
+  <string name="pref_traffic_unlimited_package">Neobmedzený dátový balíček</string>  
 </resources>
