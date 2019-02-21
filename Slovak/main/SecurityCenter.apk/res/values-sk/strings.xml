@@ -3055,4 +3055,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_permission_use_neccesary">Požadované povolenia</string>
   <string name="app_permission_use_no_neccesary">Ostatné povolenia</string>
   <string name="app_permission_use_title">Povolenia</string>  
+  <string name="dialog_change_package_type_summary">Zmena dátového balíčka vymaže vašu aktuálnu spotrebu dát. Chcete ho zmeniť?</string>
+  <string name="dialog_change_package_type_title">Zmena dátového balíčka</string>  
+  <string name="traffic_setting_fragment_packege_type">Nastavenie dátového balíčka</string>
+  <string name="pref_category_package_type_title">Dátový balíček</string>
+  <string name="pref_title_traffic_package_type">Dátový balíček</string>
 </resources>
