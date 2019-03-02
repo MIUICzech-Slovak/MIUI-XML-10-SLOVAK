@@ -68,4 +68,8 @@
          <item quantity="other">%dmin</item>
          <item quantity="one">%dmin</item>
      </plurals>	
+    <plurals name="day">
+        <item quantity="other">%ddni</item>
+        <item quantity="one">%ddeň</item>
+    </plurals>	
 </resources>
