@@ -190,4 +190,8 @@
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d pridané</item>
     </plurals>	
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hodín %2$s"</item>
+		<item quantity="other">" %1$s Hodina %2$s"</item>
+    </plurals>		
 </resources>

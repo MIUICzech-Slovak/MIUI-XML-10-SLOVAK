@@ -207,4 +207,14 @@ Zadajte vaše mesto manuálne"</string>
   <string name="weather_service_channel_name">Služby na pozadí</string>
   <string name="settings">Nastavenia</string>
   <string name="no_data">Žiadne dáta</string>
+  <string name="permission_device_info">Informácie o zariadení</string>
+  <string name="permission_device_introduce">Pre rozpoznanie ID zariadenia na základe IMEI a modelu zariadenia.</string>
+  <string name="permission_exit">Ukončiť</string>
+  <string name="permission_privacy">Ochrana súkromia (povinné)</string>
+  <string name="permission_select_all">Všetko</string>
+  <string name="permission_storage">Úložisko</string>
+  <string name="permission_storage_introduce">Pre prístup k súborom v zariadení</string>
+  <string name="permission_user_protocol">Podmienky používania (povinné)</string>
+  <string name="weather_introduce">Vždy s vami.</string>
+  <string name="weather_permission_agree">Prijať</string>  
 </resources>

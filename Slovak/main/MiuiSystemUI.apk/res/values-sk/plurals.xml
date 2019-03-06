@@ -162,6 +162,7 @@
         <item quantity="one">Zadanie gesta sa vyžaduje po %d hodine neaktivity</item>
     </plurals>	
     <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s Hodina %2$s"</item>
+        <item quantity="other">" %1$s Hodín %2$s"</item>
+		<item quantity="other">" %1$s Hodina %2$s"</item>
     </plurals>	
 </resources>

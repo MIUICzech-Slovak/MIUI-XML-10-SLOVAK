@@ -528,4 +528,8 @@
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
   <string name="select_today_tip">Dnes</string>
+  <string name="notification_open_setting_button_exit">Nie</string>
+  <string name="notification_open_setting_button_ok">Povoliť</string>
+  <string name="notification_open_setting_message">Nebudete dostávať upozornenia na udalosti ak nepovolíte prístup k upozorneniam.</string>
+  <string name="notification_open_setting_title">Povoliť upozornenia Kalendára?</string>  
 </resources>

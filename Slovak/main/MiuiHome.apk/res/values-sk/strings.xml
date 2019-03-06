@@ -340,4 +340,5 @@
   <string name="recommend_refresh">Obnoviť</string>
   <string name="recommend_xout">Viac nezobrazovať</string>
   <string name="double_tap_to_lock_title">Zamknúť dvojitých poklepaním</string>
+  <string name="dual_app">Klonované aplikácie</string>
 </resources>
