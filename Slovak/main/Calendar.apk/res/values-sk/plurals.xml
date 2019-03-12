@@ -124,4 +124,8 @@
         <item quantity="other">Môžete zadať do %1$d dní</item>
         <item quantity="one">Môžete zadať do %1$d dňa</item>
     </plurals>	
+	    <plurals name="repeat_custom_prompt">
+        <item quantity="other">každý %1$s o %2$s</item>
+        <item quantity="one">každý %1$s o %2$s</item>
+    </plurals>	
 </resources>
