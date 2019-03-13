@@ -5566,4 +5566,14 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="dark_ui_mode_title">Nastaviť tmavé pozadie aplikácií</string>
   <string name="crypt_keeper_switch_to_pattern">Použiť vzor</string>
   <string name="crypt_keeper_switch_to_pin">Použiť PIN</string>  
+  <string name="cutout_mode_always">Vždy zobraziť výrez</string>
+  <string name="cutout_mode_default">Autom.</string>
+  <string name="cutout_mode_settings_title">Niektoré aplikácie môžu byť zobrazené nesprávne ak zmeníte zobrazovanie výrezu.</string>
+  <string name="cutout_mode_title">Výrez v aplikáciach</string>
+  <string name="login_account_summary">Spravovať účty, cloud, atď.</string>
+  <string name="miui_more_special_feature">Preskúmať nové funkcie</string>
+  <string name="miui_special_feature">Špeciálne funkcie</string>
+  <string name="other_settings_sync_settings">Synchr.</string>
+  <string name="unlogin_account_summary">Všetky Mi služby. Jeden Mi účet</string>
+  <string name="unlogin_account_title">Prihlásiť sa do Mi účtu</string>
 </resources>

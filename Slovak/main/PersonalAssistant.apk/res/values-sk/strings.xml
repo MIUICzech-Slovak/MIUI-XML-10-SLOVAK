@@ -425,4 +425,13 @@
   <string name="login_dialog_title">Synchronizácia</string>
   <string name="login_dialog_body">Povoľte synchronizáciu s MiCloud pre zálohovanie vašich nastavení Asistenta.</string>
   <string name="notification_channel_default_description">Ostatné upozornenia</string>
+  <string name="clock_alarm">Budík</string>
+  <string name="clock_parent">Hodiny</string>
+  <string name="google_assistant">Asistent</string>
+  <string name="google_parent">Google</string>
+  <string name="midrop_parent">MiDrop</string>
+  <string name="midrop_send">Odoslať</string>
+  <string name="phone_check">Optimalizácia</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Fotografie</string>
 </resources>
