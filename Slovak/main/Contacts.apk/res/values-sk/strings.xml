@@ -1320,4 +1320,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="scan_business_card">Skenovať vizitku</string>
   <string name="scan_bussiness_card_merge_tip">Dáta boli prepísané</string>
   <string name="contacts_default_notification_channel">Upozornenia</string>
+  <string name="confirm_call_log_dial_summary">Opýtať sa pred vytáčaním hovoru zo zoznamu hovorov.</string>
+  <string name="confirm_call_log_dial_title">Potvrdiť vytáčanie zo zoznamu hovorov</string>  
 </resources>
