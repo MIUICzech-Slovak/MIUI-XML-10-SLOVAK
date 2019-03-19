@@ -5576,4 +5576,23 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="other_settings_sync_settings">Synchr.</string>
   <string name="unlogin_account_summary">Všetky Mi služby. Jeden Mi účet</string>
   <string name="unlogin_account_title">Prihlásiť sa do Mi účtu</string>
+  <string name="auto_dual_clock_summary">Zobraziť duálne hodiny ak sa medzi nimi líši čas</string>
+  <string name="auto_dual_clock_title">Duálne hodiny</string>
+  <string name="cutout_type_desc">Povoľte pre plynulý prechod výrezu</string>
+  <string name="cutout_type_title">Upraviť tvar výrezu</string>
+  <string name="dual_clock">Duálne hodiny</string>
+  <string name="dual_clock_aod_hint">"\"Duálne hodiny\" závisia na týchto funkciách: 1. Pre vypnutý displej, povoľte zobrazenie v Nastavenia &gt; Displej; 2. Pre zamknutú obrazovku, uistite sa, že používate predvolenú tému v Nastavenie &gt; Témy; 3. Pre domácu plochu, uistite sa, že používate predvolený widget hodín."</string>
+  <string name="dual_clock_hint">"\"Duálne hodiny\" závisia na týchto funkciách: 1. Pre zamknutú obrazovku, uistite sa, že používate predvolenú tému v Nastavenie &gt; Témy; 2. Pre domácu plochu, uistite sa, že používate predvolený widget hodín."</string>
+  <string name="dual_clock_ok">Rozumiem</string>
+  <string name="dual_clock_open_message">Duálne hodiny budú zobrazené na zamknutej obrazovke, domácej ploche a na vypnutom displeji.</string>
+  <string name="more_installed_services_title">Viac stiahnutých služieb</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Vyp</string>
+  <string name="otg_opened">Zap</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB OTG umožňuje pripojenie USB príslušenstva ako klávesnica, myš, atď...
+
+ OTG sa automaticky deaktivuje po 10 minútach neaktivity."</string>
+  <string name="resident_timezone_summary">Druhé hodiny</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">Nie je možné vysielať ak je aktívne Wi-Fi pripojenie.</string>
 </resources>

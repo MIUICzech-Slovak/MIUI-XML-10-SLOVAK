@@ -443,7 +443,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miuichromium_error_page_btn_close">Zatvoriť</string>
   <string name="miuichromium_error_page_btn_refresh">Obnoviť</string>
   <string name="miuichromium_error_page_btn_report_issue">Nahlásiť chybu</string>
-  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Nebolo možné sa pripojiť k sieti z dôvodu slabého signálu alebo nesprávneho nastavenia siete. Skontrolute %s1 nastavenie %s2 a skúste to znova."</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Nebolo možné sa pripojiť k sieti z dôvodu slabého signálu alebo nesprávneho nastavenia siete. Skontrolujte %s1 nastavenie %s2 a skúste to znova."</string>
   <string name="miuichromium_error_page_diagnose">Diagnostika siete</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnostika siete</string>
   <string name="miuichromium_error_page_diagnose_certificate">Nebolo možné overiť sieťový protokol</string>
@@ -1060,4 +1060,83 @@ Chcete opustiť túto web stránku?"</string>
   <string name="dialog_clipboard_tabs_tip">Skopírované URL</string>
   <string name="dialog_recovery_tabs_action">" Obnoviť"</string>
   <string name="dialog_recovery_tabs_tip">Posledná nezatvorená webstránka</string>
+  <string name="mw_miuichromium_error_page_airplane_mode">Režim Lietadlo</string>
+  <string name="mw_miuichromium_error_page_airplane_mode_on">Deaktivujte režim Lietadlo</string>
+  <string name="mw_miuichromium_error_page_btn_close">Zatvoriť</string>
+  <string name="mw_miuichromium_error_page_btn_refresh">Obnoviť</string>
+  <string name="mw_miuichromium_error_page_btn_report_issue">Nahlásiť chybu</string>
+  <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Nebolo možné sa pripojiť k sieti z dôvodu slabého signálu alebo nesprávneho nastavenia siete. Skontrolujte %s1 nastavenie %s2 a skúste to znova."</string>
+  <string name="mw_miuichromium_error_page_diagnose">Diagnostika siete</string>
+  <string name="mw_miuichromium_error_page_diagnose_banner">Diagnostika siete</string>
+  <string name="mw_miuichromium_error_page_diagnose_certificate">Nebolo možné overiť sieťový protokol</string>
+  <string name="mw_miuichromium_error_page_diagnose_connection">Nebolo možné sa pripojiť k sieti</string>
+  <string name="mw_miuichromium_error_page_diagnose_dns">Zadaná URL adresa nie je správna</string>
+  <string name="mw_miuichromium_error_page_diagnose_protocol">Chyba sieťového protokolu</string>
+  <string name="mw_miuichromium_error_page_diagnose_proxy_server">Chyba Proxy servera</string>
+  <string name="mw_miuichromium_error_page_diagnose_success">Slabý signál siete</string>
+  <string name="mw_miuichromium_error_page_diagnose_timeout">Platnosť pripojenia skončila</string>
+  <string name="mw_miuichromium_error_page_diagnose_website">Webstránka je nedostupná</string>
+  <string name="mw_miuichromium_error_page_diagnosing">Kontrola siete</string>
+  <string name="mw_miuichromium_error_page_homepage">Domov</string>
+  <string name="mw_miuichromium_error_page_mobile">Mobilné dáta</string>
+  <string name="mw_miuichromium_error_page_network_hijack">Súčasná sieť nie je bezpečná</string>
+  <string name="mw_miuichromium_error_page_network_off">Zapnite Wi-Fi alebo mobilné dáta</string>
+  <string name="mw_miuichromium_error_page_no_network">Nie je možné sa pripojiť k sieti</string>
+  <string name="mw_miuichromium_error_page_problem_access_denied">Prístup k %s0 bol zamietnutý</string>
+  <string name="mw_miuichromium_error_page_problem_cache_miss">Táto stránka nemôže byť načítaná z cache</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page">Stránka nemôže byť otvorená</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_reach_site">Stránka je nedostupná</string>
+  <string name="mw_miuichromium_error_page_problem_connection_interrupted">Spojenie bolo prerušené</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_found">Súbor sa nenašiel</string>
+  <string name="mw_miuichromium_error_page_problem_gateway_timed_out">Príliš dlhá odozva %s0</string>
+  <string name="mw_miuichromium_error_page_problem_network_access_denied">Prístup k sieti je zakázaný</string>
+  <string name="mw_miuichromium_error_page_problem_no_internet_connection">Nebolo možné pripojiť sa k sieti</string>
+  <string name="mw_miuichromium_error_page_problem_page_moved">Táto stránka %s0 je zrejme presunutá alebo zrušená</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_found">Nebolo možné nájsť stránku %s0</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_working">Táto stránka nefunguje</string>
+  <string name="mw_miuichromium_error_page_problem_security_error">Táto stránka nemôže poskytnúť zabezpečené pripojenie</string>
+  <string name="mw_miuichromium_error_page_problem_server_fault">%s0 momentálne nemôže spracovať vašu požiadavku</string>
+  <string name="mw_miuichromium_error_page_reason_bad_client_cert">" lebo %s0 neakceptovala váš certifikát"</string>
+  <string name="mw_miuichromium_error_page_reason_bad_server_cert">". %s0 nezodpovedá bezpečnostným štandardom"</string>
+  <string name="mw_miuichromium_error_page_reason_blocked_by_response">. Prístup je zablokovaný %s0</string>
+  <string name="mw_miuichromium_error_page_reason_connection_closed">. %s0 prerušená pripojenie</string>
+  <string name="mw_miuichromium_error_page_reason_connection_refused">. %s0 odmietnuté pripojenie</string>
+  <string name="mw_miuichromium_error_page_reason_connection_reset">. Pripojenie bolo obnovené</string>
+  <string name="mw_miuichromium_error_page_reason_device_slept">" keď sa vaše zariadenie uspalo"</string>
+  <string name="mw_miuichromium_error_page_reason_empty_response">" lebo %s0 neodoslala žiadne dáta"</string>
+  <string name="mw_miuichromium_error_page_reason_invalid_address">. IP adresa alebo port je nesprávny</string>
+  <string name="mw_miuichromium_error_page_reason_invalid_response">" lebo %s0 odoslala nesprávnu odpoveď"</string>
+  <string name="mw_miuichromium_error_page_reason_invalid_url">" lebo URL je nesprávna"</string>
+  <string name="mw_miuichromium_error_page_reason_moved_or_deleted">. Môže byť zrušená alebo presunutá</string>
+  <string name="mw_miuichromium_error_page_reason_name_collision">. Táto stránka na intranete má rovnakú URL ako na internete</string>
+  <string name="mw_miuichromium_error_page_reason_name_not_resolved">". Nenašiel sa DNS záznam pre %s0"</string>
+  <string name="mw_miuichromium_error_page_reason_network_changed">" kvôli zmene siete"</string>
+  <string name="mw_miuichromium_error_page_reason_proxy_error">. Niečo nie je v poriadku s proxy serverom, alebo adresa proxy nie je správna</string>
+  <string name="mw_miuichromium_error_page_reason_site_unreachable">. %s0 je momentálne nedostupná</string>
+  <string name="mw_miuichromium_error_page_reason_timed_out">". %s0 dlho neodpovedala"</string>
+  <string name="mw_miuichromium_error_page_reason_too_many_redirects">" lebo %s0 vás presmerovala mnoho krát"</string>
+  <string name="mw_miuichromium_error_page_reason_unsafe_port">. %s0 používa nezabezpečený port</string>
+  <string name="mw_miuichromium_error_page_reason_unsafe_redirect">. %s0 vás presmerovala nebezpečným spôsobom</string>
+  <string name="mw_miuichromium_error_page_reason_unsupported_protocol">. %s0 používa nepodporovaný protokol</string>
+  <string name="mw_miuichromium_error_page_reload">Obnoviť</string>
+  <string name="mw_miuichromium_error_page_safe_network">Bezpečný režim</string>
+  <string name="mw_miuichromium_error_page_server_error">Mnoho zariadení sa pokúša o pripojenie</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Skontrolujte nastavenie proxy vo vašom zariadení.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_connetion">Skontrolujte vaše internetové pripojenie.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilné dáta) Skontrolujte nastavenia %s1APN%s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_url">Skontrolujte zadanú URL.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Skontrolujte nastavenia %s1proxy%s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Vymažte cache (%s1Nastavenia%s2 - Vymazať cache).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Vymažte cache a cookies (%s1Nastavenia%s2 - Vymazať dáta).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Vymazať cache a cookies (vaše nastavenie účtov môže byť vymazané).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Vymazať cache.</string>
+  <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Po pripojení na internet, obnovte stránku</string>
+  <string name="mw_miuichromium_error_page_suggestion_contact_admin">Kontaktujte svojho administrátora.</string>
+  <string name="mw_miuichromium_error_page_suggestion_correct_url">Skontrolujte zadanú URL adresu a skúste to znova.</string>
+  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Obnovte stránku po povolení prehliadaču prístup na internet.</string>
+  <string name="mw_miuichromium_error_page_suggestion_title">. Skúste nasledovné:</string>
+  <string name="mw_miuichromium_error_page_title">Nastala chyba!</string>
+  <string name="mw_miuichromium_error_page_unknown_error">Ups... niečo sa pokazilo...</string>
+  <string name="mw_miuichromium_error_page_wlan">Povoliť Wi-Fi</string>
+  
 </resources>
