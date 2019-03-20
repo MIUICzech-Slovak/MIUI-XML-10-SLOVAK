@@ -341,4 +341,7 @@
   <string name="recommend_xout">Viac nezobrazovať</string>
   <string name="double_tap_to_lock_title">Zamknúť dvojitých poklepaním</string>
   <string name="dual_app">Klonované aplikácie</string>
+  <string name="edit_mode_top_menu_finish">Hotovo</string>
+  <string name="menu_finish">Hotovo</string>
+  <string name="widgets_preview_title">Pridať widget</string>
 </resources>

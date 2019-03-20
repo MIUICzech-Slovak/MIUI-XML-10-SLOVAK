@@ -930,4 +930,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="dialog_agree">Súhlasím</string>
   <string name="dialog_disagree">Nesúhlasím</string>
   <string name="list_empty_to_fresh">Žiadna správa, potiahnite nadol pre obnovenie.</string>
+  <string name="folder_empty_to_fresh">Pošta nie je synchronizovaná. Potiahnite nadol pre synchr.</string>
+  <string name="folder_no_mails">Žiadne správy</string>
 </resources>

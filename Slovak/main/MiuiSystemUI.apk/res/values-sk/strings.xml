@@ -1995,4 +1995,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="face_unlock_fail_retry">Nebolo možné overiť tvár. Dotknite sa ikony pre opakovanie.</string>  
   <string name="face_unlock_success_stay_screen_msg">Ostať na zamykacej obrazovke po overení tváre. Potiahnutím nahor zobrazíte plochu.</string>
   <string name="face_unlock_success_stay_screen_title">Ostať na zamykacej obrazovke po overení tváre</string>  
+  <string name="face_unlock_success">Tvár úspešne overená</string>
 </resources>

@@ -3132,4 +3132,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="third_desktop_dialog_content">Launcher tretej strany môže predstavovať riziko pre vaše súkromné dáta a spotrebu batérie. Môžete použiť len launcher schválený MIUI.</string>
   <string name="third_desktop_dialog_ok">Rozumiem</string>
   <string name="third_desktop_dialog_title">Chyba</string>
+  <string name="app_manager_full_screen_summary">Povoliť aplikácií celú výšku displeja</string>
+  <string name="app_manager_full_screen_title">Celý displej</string>  
 </resources>
