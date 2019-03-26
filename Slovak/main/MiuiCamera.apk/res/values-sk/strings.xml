@@ -652,6 +652,4 @@ efekty osvetlenia"</string>
   <string name="hint_ae_lock">Automatická expozícia bola uzamknutá</string>
   <string name="macro_mode">Makro</string>
   <string name="macro_mode_tip">Vzdialenosť medzi fotoaparátom a objektom by nemala byť väčšia ako 10cm</string>  
-  <string name="pref_camera_video_bokeh_off">Video bokeh je vypnutý</string>
-  <string name="pref_camera_video_bokeh_on">Video bokeh</string>  
 </resources>

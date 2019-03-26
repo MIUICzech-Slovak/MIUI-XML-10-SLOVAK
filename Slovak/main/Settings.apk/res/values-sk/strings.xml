@@ -5623,9 +5623,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="lights_title">LED</string>
   <string name="loading">Načítavanie...</string>
   <string name="manage_notification_title">Upozornenia aplikácie</string>
-  <string name="miui_more_special_feature">Objavte nové funkcie</string>
-  <string name="miui_special_feature">Špeciálne funkcie</string>
-  <string name="more_installed_services_title">Viac stiahnutých služieb</string>
   <string name="none">Žiadne</string>
   <string name="notifi_channels">Kategórie upozornení</string>
   <string name="notifi_channels_other">Ostatné</string>
@@ -5644,9 +5641,8 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="notification_shade_shortcut_title">Skratka roletky</string>
   <string name="off">Vyp</string>
   <string name="on">Zap</string>
-  <string name="other_settings_sync_settings">Synchr.</string>
   <string name="peek_notification_icon_title">Zobraziť ikony pre nové upozornenia</string>
-   <string name="priority_summary">Zobraziť upozornenia ako prvé</string>
+  <string name="priority_summary">Zobraziť upozornenia ako prvé</string>
   <string name="priority_title">Priorita</string>
   <string name="show_carrier_under_keyguard_title">Zobraziť názov operátora na zamknutej obrazovke</string>
   <string name="show_network_speed_title">Zobraziť rýchlosť pripojenia</string>
@@ -5654,7 +5650,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="show_wifi_name_title">Zobraziť Wi-Fi</string>
   <string name="sound_title">Zvuk</string>
   <string name="title_of_auto_launch_manage">Autoštart</string>
-  <string name="toast_sta_ap_works_wifi_display_disable">Nie je možné vysielať ak je Wi-Fi hot-spot aktívny.</string>
   <string name="toggle_collapse_after_clicked_title">Zbaliť po dotyku</string>
   <string name="vibrate_title">Vibrovať</string>
   <string name="visibility_override_title">Na zamknutej obrazovke</string>
