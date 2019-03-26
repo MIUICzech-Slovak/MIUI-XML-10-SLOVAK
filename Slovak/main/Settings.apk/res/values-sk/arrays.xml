@@ -425,7 +425,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafická</item>
-        <item>Percentá</item>
+        <item>Percentá v ikone</item>
+		<item>Percentá vedľa ikony</item>
         <item>Čiara nad oznamovacou lištou</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
@@ -1011,4 +1012,14 @@ Postupujte podľa pokynov"</item>
 	<item>Vždy zapnuté</item>
 	<item>Vždy vypnuté</item>
 	</string-array>	
+	    <string-array name="fold_entries">
+        <item>Odporúčané</item>
+        <item>Dôležité</item>
+        <item>Nedôležité</item>
+    </string-array>	
+    <string-array name="fold_summaries">
+        <item>MIUI bude rozhodovať ktoré upozornenia majú byť zobrazené</item>
+        <item>Upozornenia budú zobrazené v roletke</item>
+        <item>Upozornenia budú zobrazené v samostatnej zložke</item>
+    </string-array>	
 </resources>
