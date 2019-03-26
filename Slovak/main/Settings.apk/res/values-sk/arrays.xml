@@ -989,6 +989,10 @@ Postupujte podľa pokynov"</item>
         <item>Vyhľadávanie</item>
         <item>Nastavenia</item>
     </string-array>	
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Vyhľadávanie</item>
+        <item>Nastavenia</item>
+    </string-array>	
     <string-array name="keyguard_notification_status_entries">
         <item>Rozsvietiť displej</item>
         <item>Zobraziť animáciu</item>
