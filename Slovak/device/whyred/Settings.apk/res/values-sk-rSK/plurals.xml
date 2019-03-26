@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+     <plurals name="abc_slice_duration_days">
+        <item quantity="other">Pred %d dňami</item>
+        <item quantity="one">Pred %d dňom</item>
+        <item quantity="few">Pred %d dňami</item>
+        <item quantity="many">Pred %d dňami</item>
+     </plurals>
+     <plurals name="abc_slice_duration_min">
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred %d min</item>
+        <item quantity="few">Pred %d min</item>
+        <item quantity="many">Pred %d min</item>
+     </plurals>
+     <plurals name="abc_slice_duration_years">
+        <item quantity="other">Pred %d rokmi</item>
+        <item quantity="one">Pred %d rokom</item>
+        <item quantity="few">Pred %d rokmi</item>
+        <item quantity="many">Pred %d rokom</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Extrémne krátke oneskorenie (%1$d ms)</item>
         <item quantity="one">Extrémne krátke oneskorenie (%1$d ms)</item>
         <item quantity="few">Extrémne krátke oneskorenie (%1$d ms)</item>
@@ -34,7 +53,49 @@
         <item quantity="other">Vypnuté pre %d aplikácií</item>
         <item quantity="one">Vypnuté pre %d aplikáciu</item>
         <item quantity="few">Vypnuté pre %d aplikácie</item>
-        <item quantity="many">Vypnuté pre %d aplikácie</item>
+        <item quantity="many">Off for %d apps</item>
+     </plurals>
+     <plurals name="battery_manager_app_restricted">
+        <item quantity="other">%1$d obmedzených aplikácií</item>
+        <item quantity="one">%1$d obmedzená aplikácia</item>
+        <item quantity="few">%1$d obmedzené aplikácie</item>
+        <item quantity="many">%1$d obmedzenej aplikácie</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Obmedziť %1$d aplikácií?</item>
+        <item quantity="one">Obmedziť aplikáciu?</item>
+        <item quantity="few">Obmedziť %1$d aplikácie?</item>
+        <item quantity="many">Obmedziť %1$d aplikácie?</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">Tieto aplikácie sa nedajú spustiť na pozadí</item>
+        <item quantity="one">Táto aplikácia sa nedá spustiť na pozadí</item>
+        <item quantity="few">Tieto aplikácie sa nedajú spustiť na pozadí</item>
+        <item quantity="many">Tieto aplikácie sa nedajú spustiť na pozadí</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d aplikácií bolo nedávno obmedzených</item>
+        <item quantity="one">%1$s aplikácia bola nedávno obmedzená</item>
+        <item quantity="few">%2$d aplikácie boli nedávno obmedzené</item>
+        <item quantity="many">%2$d aplikácie bolo nedávno obmedzenej</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d aplikácií má vysokú spotrebu batérie na pozadí</item>
+        <item quantity="one">%1$s aplikácia má vysokú spotrebu batérie na pozadí</item>
+        <item quantity="few">%2$d aplikácie majú vysokú spotrebu batérie na pozadí</item>
+        <item quantity="many">%2$d aplikácie má vysokú spotrebu batérie na pozadí</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Obmedziť %1$d aplikácií</item>
+        <item quantity="one">Obmedziť %1$d aplikáciu</item>
+        <item quantity="few">Obmedziť %1$d aplikácie</item>
+        <item quantity="many">Obmedziť %1$d aplikácie</item>
+     </plurals>
+     <plurals name="billing_cycle_days_left">
+        <item quantity="other">Zostáva %d dní</item>
+        <item quantity="one">Zostáva %d deň</item>
+        <item quantity="few">Zostávajú %d dni</item>
+        <item quantity="many">Zostáva %d dňa</item>
      </plurals>
      <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d aplikácií má povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
@@ -126,11 +187,23 @@
         <item quantity="few">%1$d obmedzenia</item>
         <item quantity="many">%1$d obmedzenia</item>
      </plurals>
+     <plurals name="notification_group_summary">
+        <item quantity="other">%d kategórií</item>
+        <item quantity="one">%d kategória</item>
+        <item quantity="few">%d kategórie</item>
+        <item quantity="many">%d kategórie</item>
+     </plurals>
      <plurals name="notification_summary">
         <item quantity="other">Vypnuté pre %d aplikácií</item>
         <item quantity="one">Vypnuté pre 1 aplikáciu</item>
         <item quantity="few">Vypnuté pre %d aplikácie</item>
         <item quantity="many">Vypnuté pre %d aplikácie</item>
+     </plurals>
+     <plurals name="notifications_categories_off">
+        <item quantity="other">%d kategórií bolo vypnutých</item>
+        <item quantity="one">%d kategória bola vypnutá</item>
+        <item quantity="few">%d kategórie boli vypnuté</item>
+        <item quantity="many">%d categories turned off</item>
      </plurals>
      <plurals name="number_of_device_admins">
         <item quantity="other">%d aktívnych aplikácií</item>
@@ -156,6 +229,12 @@
         <item quantity="few">%1$d zapnuté tlačové služby</item>
         <item quantity="many">%1$d print services on</item>
      </plurals>
+     <plurals name="restricted_app_summary">
+        <item quantity="other">Obmedzuje sa využitie batérie %1$d aplikáciami</item>
+        <item quantity="one">Obmedzuje sa využitie batérie %1$d aplikáciou</item>
+        <item quantity="few">Obmedzuje sa využitie batérie %1$d aplikáciami</item>
+        <item quantity="many">Limiting battery usage for %1$d apps</item>
+     </plurals>
      <plurals name="seconds">
         <item quantity="other">%s sekúnd</item>
         <item quantity="one">1 sekunda</item>
@@ -167,6 +246,12 @@
         <item quantity="one">Zobraziť %d skrytú položku</item>
         <item quantity="few">Zobraziť %d skryté položky</item>
         <item quantity="many">Zobraziť %d skrytej položky</item>
+     </plurals>
+     <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d uložených načúvacích pomôcok</item>
+        <item quantity="one">%1$d uložená načúvacia pomôcka</item>
+        <item quantity="few">%1$d uložené načúvacie pomôcky</item>
+        <item quantity="many">%1$d saved hearing aids</item>
      </plurals>
      <plurals name="special_access_summary">
         <item quantity="other">Neobmedzené dáta môže používať %d aplikácií</item>
@@ -238,10 +323,34 @@
         <item quantity="few">%d siete</item>
         <item quantity="many">%d siete</item>
      </plurals>
+     <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pripojených zariadení</item>
+        <item quantity="one">%1$d pripojené zariadenie</item>
+        <item quantity="few">%1$d pripojené zariadenia</item>
+        <item quantity="many">%1$d pripojeného zariadenia</item>
+     </plurals>
+     <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d hodín (pokiaľ nebolo zapnuté automaticky)</item>
+        <item quantity="one">1 hodina (pokiaľ nebolo zapnuté automaticky)</item>
+        <item quantity="few">%d hodiny (pokiaľ nebolo zapnuté automaticky)</item>
+        <item quantity="many">%d hodiny (pokiaľ nebolo zapnuté automaticky)</item>
+     </plurals>
      <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">Je zapnutých %d automatických pravidiel</item>
-        <item quantity="one">Je zapnuté 1 automatické pravidlo</item>
-        <item quantity="few">Sú zapnuté %d automatické pravidlá</item>
-        <item quantity="many">Je zapnutého %d automatického pravidla</item>
+        <item quantity="other">%d pravidiel</item>
+        <item quantity="one">1 pravidlo</item>
+        <item quantity="few">%d pravidlá</item>
+        <item quantity="many">%d pravidla</item>
+     </plurals>
+     <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">%d pravidiel sa môže zapnúť automaticky</item>
+        <item quantity="one">1 pravidlo sa môže zapnúť automaticky</item>
+        <item quantity="few">%d pravidlá sa môžu zapnúť automaticky</item>
+        <item quantity="many">%d pravidla sa môže zapnúť automaticky</item>
+     </plurals>
+     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d ďalších</item>
+        <item quantity="one">1 ďalší</item>
+        <item quantity="few">%d ďalší</item>
+        <item quantity="many">%d others</item>
      </plurals>
 </resources>
