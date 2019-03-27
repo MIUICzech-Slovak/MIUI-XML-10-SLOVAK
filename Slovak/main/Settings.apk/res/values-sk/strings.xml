@@ -5654,5 +5654,4 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="vibrate_title">Vibrovať</string>
   <string name="visibility_override_title">Na zamknutej obrazovke</string>
   <string name="notification_style_title">Spôsob zobrazenia</string>
-  <string name="status_bar_settings_manage_notification">Upozornenia aplikácie</string>
 </resources>
