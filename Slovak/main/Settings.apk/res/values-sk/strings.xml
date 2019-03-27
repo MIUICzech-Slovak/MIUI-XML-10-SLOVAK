@@ -5653,4 +5653,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="toggle_collapse_after_clicked_title">Zbaliť po dotyku</string>
   <string name="vibrate_title">Vibrovať</string>
   <string name="visibility_override_title">Na zamknutej obrazovke</string>
+  <string name="notification_style_title">Spôsob zobrazenia</string>
+  <string name="status_bar_settings_manage_notification">Upozornenia aplikácie</string>
 </resources>

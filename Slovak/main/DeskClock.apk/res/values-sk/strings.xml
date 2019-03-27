@@ -229,4 +229,21 @@
   <string name="module_download_data_msg_replace">Je dostupná aktualizácia zvukov pre budík (≈20MB). Chcete ich stiahnuť cez mobilné dáta?</string>
   <string name="module_download_msg_replace">Je dostupná aktualizácia zvukov pre budík (≈20MB). Chcete ich stiahnuť?</string>
   <string name="search_menu_title">Vyhľadať</string>
+  <string name="clock_bg_button_setting_summary_common">Select background color for the Clock app</string>
+  <string name="clock_bg_button_setting_summary_follow_sys">Black will be used as the background color every time you switch to Dark mode</string>
+  <string name="clock_bg_button_setting_title">Background color</string>
+    <string name="dialog_privacy_content">In order to get and sync relevant info about local public holidays and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+  <string name="dialog_privacy_content_global">In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+  <string name="dialog_privacy_content_news">In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+  <string name="dialog_privacy_content_timer">In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+  <string name="dialog_privacy_content_timer_data">"In order to download audio files for ambient noise timers (≈20MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. You're using mobile data now. Agree?"</string>
+    <string name="holiday_update">An update for public holidays is available</string>
+  <string name="holiday_update_fail">"Couldn't update"</string>
+  <string name="holiday_update_loading">Updating…</string>
+  <string name="holiday_update_success">All items are up to date</string>
+    <string name="life_post_setting_open_desc">Turn off repeating alarms between 04:00 and 10:00 AM to listen to the current weather report</string>
+  <string name="module_download_data_msg_timer">Clock needs to download audio files for ambient noise timers. ≈20MB of your mobile data will be required for this download. Download now?</string>
+  <string name="module_download_msg_timer">Clock needs to download audio files for ambient noise timers. Download now?</string>  
+  <string name="personal_recommend">Personalized content recommendations</string>
+    <string name="user_agreement">User Agreement</string>
 </resources>
