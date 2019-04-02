@@ -5669,10 +5669,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="layout_exhuge_font_tips_reg">Uľahčenie prístupu a Displej</string>
   <string name="page_layout_34">Telefón</string>
   <string name="page_layout_35">Poznámky</string>
-  <string name="page_layout_confirm_message_enlarge">Text, obrázky a ikony budú zväčšené.</string>
-  <string name="page_layout_confirm_message_narrow">Text, obrázky a ikony budú zmenšené.</string>
-  <string name="page_layout_confirm_title_enlarge">Väčšie položky</string>
-  <string name="page_layout_confirm_title_narrow">Menšie položky</string>
   <string name="words_title">Text</string>
   <string name="notification_fold_footer_icon_summary">Všetky menej dôležité ikony upozornení budú zobrazené v pravej časti</string>
   <string name="notification_fold_footer_icon_title">Zobraziť ikony</string>  
