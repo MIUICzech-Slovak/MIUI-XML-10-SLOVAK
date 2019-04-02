@@ -712,4 +712,7 @@ Získali ste ďalších %1$s"</string>
   <string name="request_document_permission">Pre prístup k súborom na SD karte sa vyžadujú povolenia.</string>
   <string name="request_document_permission_title">Vyžadujú sa povolenia</string>
   <string name="menu_set_wallpaper">Nastaviť ako tapetu</string>
+  <string name="ftp_anonymous_warning_msg">Anonymizačné služby môžu predstavovať riziko pre vaše dáta. Aj tak použiť?</string>
+  <string name="ftp_anonymous_warning_title">Upozornenie</string>  
+  <string name="home_action_up">Späť</string>
 </resources>

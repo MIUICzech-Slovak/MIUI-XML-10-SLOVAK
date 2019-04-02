@@ -1997,4 +1997,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="face_unlock_success_stay_screen_title">Ostať na zamykacej obrazovke po overení tváre</string>  
   <string name="face_unlock_success">Tvár úspešne overená</string>
   <string name="rapid_charge_mode_tip">Rýchle nabíjanie</string>
+  <string name="gxzw_area">Skener odtlačku prsta</string>
 </resources>

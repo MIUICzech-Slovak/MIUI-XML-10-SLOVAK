@@ -344,4 +344,5 @@
   <string name="edit_mode_top_menu_finish">Hotovo</string>
   <string name="menu_finish">Hotovo</string>
   <string name="widgets_preview_title">Pridať widget</string>
+  <string name="launcher_sliding_up_gesture">Potiahnutím nahor otvoríte vyhľadávanie</string>
 </resources>
