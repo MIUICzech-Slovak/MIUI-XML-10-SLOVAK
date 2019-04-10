@@ -748,4 +748,10 @@ efekty osvetlenia"</string>
      <string name="ultra_wide_open_tip">Ultra široký režim</string>
      <string name="ultra_wide_recommend_tip_hint">Skúste Ultra široký režim</string>
      <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>  
+     <string name="portrait_bokeh_first_tips">"Použite režim Portrét
+pre rozmazanie pozadia objektu"</string>
+     <string name="portrait_bokeh_text">Portrét</string>
+     <string name="portrait_bokeh_tips">Umiestnite objekt max do 1.5m</string>	 
+  	 <string name="portrait_mode_use_hint_for_bokeh">"Vyskúšajte režim Portrét.
+Objekt bude ostrý na rozmazanom pozadí."</string>
 </resources>

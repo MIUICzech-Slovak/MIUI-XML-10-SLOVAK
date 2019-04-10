@@ -358,4 +358,10 @@
         <item>PIA</item>
         <item>SOB</item>
     </string-array>	
+	    <string-array name="default_reminder_later_time_labels">
+        <item>5 minúť</item>
+        <item>10 minúť</item>
+        <item>15 minúť</item>
+        <item>30 minúť</item>
+    </string-array>	
 </resources>

@@ -691,4 +691,6 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="warning_bar_title_sync_off">Synchr. s MiCloud je vypnutá</string>
   <string name="enable_sync_setting_title">Nastavovanie cloudových služieb...</string>
   <string name="provision_sync_items_loading">Príprava na synchronizáciu</string>
+	  <string name="user_detail_agreement">Podmienky používania</string>
+  <string name="user_detail_privacy_policy">Ochrana súkromia</string>  
 </resources>

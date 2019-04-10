@@ -128,4 +128,8 @@
         <item quantity="other">každý %1$s o %2$s</item>
         <item quantity="one">každý %1$s o %2$s</item>
     </plurals>	
+	    <plurals name="reminder_later_toast">
+        <item quantity="other">Ďalšie upozornenie o %1$d minút</item>
+        <item quantity="one">Ďalšie upozornenie o %1$d minútu</item>
+    </plurals>	
 </resources>
