@@ -1138,5 +1138,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="mw_miuichromium_error_page_title">Nastala chyba!</string>
   <string name="mw_miuichromium_error_page_unknown_error">Ups... niečo sa pokazilo...</string>
   <string name="mw_miuichromium_error_page_wlan">Povoliť Wi-Fi</string>
-  
+  <string name="data_traffic_download_confirm">Stiahnuť cez mobilné dáta</string>
 </resources>
