@@ -754,4 +754,6 @@ pre rozmazanie pozadia objektu"</string>
      <string name="portrait_bokeh_tips">Umiestnite objekt max do 1.5m</string>	 
   	 <string name="portrait_mode_use_hint_for_bokeh">"Vyskúšajte režim Portrét.
 Objekt bude ostrý na rozmazanom pozadí."</string>
+  <string name="beauty_body_whole">Postava</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">Vyskúšajte 0.6X Ultra široký uhol záberu pre čo najväčší záber zo scény.</string>
 </resources>

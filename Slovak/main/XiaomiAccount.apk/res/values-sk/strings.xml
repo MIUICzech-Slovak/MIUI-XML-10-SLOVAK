@@ -531,4 +531,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Úložisko</string>
   <string name="select_all">Všetko</string>
+  <string name="agreement_and_privacy">Podmienky používania a Ochrana súkromia</string>
+  <string name="passport_first_login_prompt">Mi účet bude automaticky vytvorený keď sa prvýkrát prihlásite.</string>
+  <string name="scan_barcode">Načítajte QR kód</string>
 </resources>

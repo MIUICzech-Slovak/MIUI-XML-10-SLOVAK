@@ -178,11 +178,11 @@
   <string name="resolver_offical_recommend">Oficiálne</string>
   <string name="resolver_other_method">Iné možnosti</string>
   <string name="resolver_recommend_options_tag">Odporúčané možnosti</string>  
-  <string name="popup_camera_calibrate_failed">Nebolo možné kalibrovať. Navštívte Xiaomi servis pre vyriešenie tohto problému.</string>
+  <string name="popup_camera_calibrate_failed">Nebolo možné kalibrovať.</string>
   <string name="popup_camera_calibrate_now">Kalibrovať</string>
   <string name="popup_camera_calibrate_success">Kalibrácia dokončená. Môžete otvoriť prednú kameru.</string>
   <string name="popup_camera_front_failed">Nebolo možné otvoriť prednú kameru.</string>
-  <string name="popup_camera_front_falied_times">Nebolo možné otvoriť prednú kameru. Navštívte Xiaomi servis pre vyriešenie tohto problému."</string>
+  <string name="popup_camera_front_falied_times">Nebolo možné otvoriť prednú kameru.</string>
   <string name="popup_camera_front_when_use">Predna kamera je zaneprázdnená. Aj tak otvoriť?</string>
   <string name="popup_camera_popup_falied_times_calibrate">Nebolo možné otvoriť prednú kameru. Skúste kalibrovať kameru.</string>
   <string name="popup_camera_sure">Rozumiem</string>
