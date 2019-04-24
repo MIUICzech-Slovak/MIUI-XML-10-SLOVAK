@@ -3141,4 +3141,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="securityadd_update_tips_message">Aktualizujte doplnok pre získanie najnovších funkcií. %1$dMB bude stiahnutých.</string>
   <string name="securityadd_update_tips_now">Aktualizovať</string>
   <string name="securityadd_update_tips_title">Aktualizácia</string>
+  <string name="power_save_ps_clean">Vymazať cache ak je zariadenie uzamknuté</string>
+  <string name="power_save_ps_close_setting">Deaktivovať služby na pozadí (synchr., GPS) pre úsporu batérie</string>
+  <string name="power_save_ps_freeze">Zmraziť aplikácie na pozadí</string>
+  <string name="power_save_ps_limit">Obmedziť aktivity na pozadí</string>  
 </resources>

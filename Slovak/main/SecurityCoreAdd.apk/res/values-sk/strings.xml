@@ -382,4 +382,6 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="button_touch">Priložte prst na senzor odtlačku prsta</string>
   <string name="dialog_verify">Overte svoj odtlačok</string>
   <string name="dialog_verify_fingerprint_retry">Nebolo možné overiť.</string>
+  <string name="dual_animation">Animácia otvárania</string>
+  <string name="dual_animation_description">Zobraziť animáciu pri otváraní klonovanej aplikácie</string>  
 </resources>

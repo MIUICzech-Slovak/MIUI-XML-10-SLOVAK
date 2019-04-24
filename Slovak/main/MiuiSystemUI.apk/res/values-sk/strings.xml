@@ -1999,4 +1999,18 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="rapid_charge_mode_tip">Rýchle nabíjanie</string>
   <string name="gxzw_area">Skener odtlačku prsta</string>
   <string name="gxzw_use_password_to_unlock">Zadajte heslo</string>
+  <string name="battery_low_button_not_open_power_save">Neskôr</string>
+  <string name="battery_low_button_open_power_save">Povoliť</string>
+  <string name="battery_low_percent_format_save_mode_closed">Ostáva menej ako %d%% batérie. Pripojte nabíjačku.</string>
+  <string name="battery_low_percent_format_save_mode_open">Ostáva menej ako %d%% batérie. Povoľte Úsporu batérie.</string>
+  <string name="battery_low_title_power_save">Úspora batérie</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Po rozsvietení displeja potiahnite nahor pre odomknutie tvárou.</string>
+  <string name="face_unlock_fail_retry">Nebolo možné rozpoznať vašu tvár. Dotknite sa displeja pre opakovanie.</string>
+  <string name="face_unlock_fail_retry_global">Dotknite sa displeja pre odomknutie tvárou</string>
+  <string name="power_save_ps_clean">Vymazať cache keď je zariadenie uzamknuté</string>
+  <string name="power_save_ps_close_setting">Deaktivovať služby na pozadí (synchr, GPS) pre úsporu batérie</string>
+  <string name="power_save_ps_freeze">Zmraziť aplikácie na pozadí</string>
+  <string name="power_save_ps_limit">Obmedziť aktivitu systémových aplikácií</string>  
+  <string name="dnd_notification_warnings_title">Hovory a upozornenia budú stíšené kým nevypnete režim Nerušiť</string>  
+  <string name="notification_channel_dnd">Nerušiť</string>
 </resources>
