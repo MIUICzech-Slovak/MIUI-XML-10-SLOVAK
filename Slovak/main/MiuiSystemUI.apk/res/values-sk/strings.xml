@@ -2005,7 +2005,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="battery_low_percent_format_save_mode_open">Ostáva menej ako %d%% batérie. Povoľte Úsporu batérie.</string>
   <string name="battery_low_title_power_save">Úspora batérie</string>
   <string name="face_data_manage_unlock_liftcamera_msg">Po rozsvietení displeja potiahnite nahor pre odomknutie tvárou.</string>
-  <string name="face_unlock_fail_retry">Nebolo možné rozpoznať vašu tvár. Dotknite sa displeja pre opakovanie.</string>
   <string name="face_unlock_fail_retry_global">Dotknite sa displeja pre odomknutie tvárou</string>
   <string name="power_save_ps_clean">Vymazať cache keď je zariadenie uzamknuté</string>
   <string name="power_save_ps_close_setting">Deaktivovať služby na pozadí (synchr, GPS) pre úsporu batérie</string>
