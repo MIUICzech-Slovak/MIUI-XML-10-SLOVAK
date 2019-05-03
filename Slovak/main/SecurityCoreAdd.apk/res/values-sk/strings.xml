@@ -384,4 +384,6 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="dialog_verify_fingerprint_retry">Nebolo možné overiť.</string>
   <string name="dual_animation">Animácia otvárania</string>
   <string name="dual_animation_description">Zobraziť animáciu pri otváraní klonovanej aplikácie</string>  
+  <string name="close_kid_space_success">Vymazaný Detský profil</string>
+  <string name="kid_mode_label">Detský profil</string>
 </resources>

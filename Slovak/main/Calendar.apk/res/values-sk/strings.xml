@@ -543,4 +543,7 @@
   <string name="reminder_later">Upozorniť neskôr</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Musíte pridať účet kalendára.</string>
   <string name="monthly_on_day_count">Mesačne (%1$s každý mesiac)</string>
+  <string name="edit_event_custom_reminder_time_dup">Vlastné upozornenie: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Nastaviť vlastné upozornenie</string>
+  <string name="event_reminder_custom">Vlastné</string>
 </resources>

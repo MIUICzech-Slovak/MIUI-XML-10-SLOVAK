@@ -5675,7 +5675,7 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="usage_state_app_timer">Čas displeja</string>
   <string name="usage_state_app_usage_detail_title">Používanie aplikácie</string>
   <string name="usage_state_app_usage_list_title">Využitie displeja aplikáciami</string>
-  <string name="usage_state_app_usage_list_week_title">Využitie displeja aplikáciami (posledných 7 dní)</string>
+  <string name="usage_state_app_usage_list_week_title">Využitie displeja aplikáciami</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Čas displeja medzi %d:00 - %d:00</string>
   <string name="usage_state_app_use_time">Čas displeja</string>
   <string name="usage_state_channel_mouth">Posledných 30 dní</string>
@@ -5687,8 +5687,8 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
   <string name="usage_state_less_one_minute">Menej ako 1 min</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Čas displeja' MMM d"</string>
-  <string name="usage_state_noti_mourth_day">"'Upozornení' MMM d"</string>
+  <string name="usage_state_mourth_day">Čas displeja %s</string>
+  <string name="usage_state_noti_mourth_day">Upozornení %s</string>
   <string name="usage_state_notification">Spravovať upozornenia</string>
   <string name="usage_state_notification_manager">Spravovať upozornenia aplikácie</string>
   <string name="usage_state_remind_summary">Povoľte ak chcete dostávať upozornenie na čas používania displeja.</string>
@@ -5701,7 +5701,7 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="usage_state_today">Dnes</string>
   <string name="usage_state_today_total_text">Čas displeja dnes</string>
   <string name="usage_state_tuesday">Uto</string>
-  <string name="usage_state_unlock_mourth_day">"'Odomknuté' MMM d"</string>
+  <string name="usage_state_unlock_mourth_day">Odomknuté %s</string>
   <string name="usage_state_usage_time">Čas displeja</string>
   <string name="usage_state_usage_time_remind">Upozornenie na čas používania</string>
   <string name="usage_state_use_time_remind_title">Upozornenie na čas používania</string>
@@ -5726,7 +5726,7 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="usagestats_app_category_miui_video_etc">Hudba a video</string>
   <string name="usagestats_device_notification_des">Dnešný limit používania displeja: %s</string>
   <string name="usagestats_device_notification_des_over">Už ste dosiahli svoj dnešný limit používania displeja.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Dnešný limit používania displeja: %s | %s ostáva</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Dnešný limit: %s | %s ostáva</string>
   <string name="usagestats_device_notification_title">Upozornenie na čas používania</string>
   <string name="usagestats_device_timeout_des" formatted="false">Dnes ste používali svoje zariadenie %dh %dm. Oddýchnite si!</string>
   <string name="usagestats_device_timeout_negative">Upozorniť o 1 hodinu</string>
@@ -5735,4 +5735,14 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="wifi_protection_on">Zap</string>
   <string name="wifi_protection_settings_title">Wi-Fi ochrana</string>
   <string name="wifi_protection_tip">MIUI automaticky povolí Wi-Fi ochranu. Počas vyhľadávania Wi-Fi sietí v okolí, náhodne zmení MAC adresu zariadenia pre ochranu vášho súkromia.</string>
+  <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+  <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
+  <string name="choose_unlock_face_msg">Set a screen lock before recording face data.</string>
+  <string name="choose_unlock_fingerprint_msg">Set screen lock before adding your fingerprint.</string>
+  <string name="miui_lab_gesture_desc">Disable physical buttons and enjoy fullScreen gesture</string>
+  <string name="miui_lab_gesture_title">FullScreen Gesture</string>
+  <string name="search_ambient_display_screen_title">Ambient display</string>
+  <string name="search_doze_always_on_title">Always on</string>
+
+  
 </resources>

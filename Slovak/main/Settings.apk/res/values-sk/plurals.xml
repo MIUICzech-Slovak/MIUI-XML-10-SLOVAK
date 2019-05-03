@@ -195,20 +195,20 @@
  	<item quantity="other">" %1$s Hodina %2$s"</item>
     </plurals>	
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Odomknuté %d krát dnes</item>
-        <item quantity="one">Odomknuté %d krát dnes</item>
+        <item quantity="other">Odomknuté %d krát</item>
+        <item quantity="one">Odomknuté %d krát</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Odomknuté %d krát za posledných 7 dní</item>
-        <item quantity="one">Odomknuté %d krát za posledných 7 dní</item>
+        <item quantity="other">Odomknuté %d krát</item>
+        <item quantity="one">Odomknuté %d krát</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Prijatých %d upozornení dnes</item>
-        <item quantity="one">Prijatých %d upozornenie dnes</item>
+        <item quantity="other">Prijatých %d upozornení</item>
+        <item quantity="one">Prijatých %d upozornenie</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Prijatých %d upozornení za posledných 7 dní</item>
-        <item quantity="one">Prijaté %d upozornenie za posledných 7 dní</item>
+        <item quantity="other">Prijatých %d upozornení</item>
+        <item quantity="one">Prijaté %d upozornenie</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%dh</item>

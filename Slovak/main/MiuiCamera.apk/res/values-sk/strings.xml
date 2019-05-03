@@ -756,4 +756,7 @@ pre rozmazanie pozadia objektu"</string>
 Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="beauty_body_whole">Postava</string>
   <string name="ultra_wide_mode_use_hint_text_sat">Vyskúšajte 0.6X Ultra široký uhol záberu pre čo najväčší záber zo scény.</string>
+  <string name="beauty_clear">Vymazať</string>
+  <string name="beauty_clear_toast">Efekty skrášlenia sú odstránené</string>
+  <string name="edit_hairline">Účes</string>
 </resources>

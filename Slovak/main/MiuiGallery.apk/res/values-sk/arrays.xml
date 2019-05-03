@@ -132,5 +132,9 @@
         <item>Pamätné dni</item>
         <item>Denné udalosti</item>
         <item>Bežné a výnimočné</item>
-     </string-array>	 
+     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Zálohovať fotografie</item>
+        <item>Zálohovať fotografie na MiCloud</item>
+    </string-array>	 
 </resources>

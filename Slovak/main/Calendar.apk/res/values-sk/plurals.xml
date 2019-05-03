@@ -132,4 +132,16 @@
         <item quantity="other">Ďalšie upozornenie o %1$d minút</item>
         <item quantity="one">Ďalšie upozornenie o %1$d minútu</item>
     </plurals>	
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dní"</item>
+        <item quantity="one">" deň"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>	
 </resources>

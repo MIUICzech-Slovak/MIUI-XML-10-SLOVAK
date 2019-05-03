@@ -298,4 +298,6 @@
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
   <string name="HIPS_Perm_UDevice_ID">Zdieľať časť informácií o vašom zariadení s vývojármi hier pre ich lepšiu optimalizáciu. Súhlasíte?</string>
   <string name="HIPS_Perm_UDevice_ID_DESC">Zdieľať časť informácií o vašom zariadení s vývojármi hier pre ich lepšiu optimalizáciu. Súhlasíte?</string>  
+  <string name="HIPS_Perm_deamon_notification">Permanentné upozornenie</string>
+  <string name="HIPS_Perm_deamon_notification_Desc">zobraziť permanentné upozornenie</string>  
 </resources>

@@ -345,4 +345,12 @@
   <string name="menu_finish">Hotovo</string>
   <string name="widgets_preview_title">Pridať widget</string>
   <string name="launcher_sliding_up_gesture">Potiahnutím nahor otvoríte vyhľadávanie</string>
+  <string name="home_gesture_content_center">Centrum obsahu</string>
+  <string name="home_gesture_global_search">Vyhľadať</string>
+  <string name="home_gesture_no_action">Žiadne</string>
+  <string name="home_gesture_notification_bar">Upozornenia</string>
+  <string name="home_pull_down_action">Potiahnutie nadol na ploche</string>
+  <string name="home_slide_up_action">Potiahnutie nahor na ploche</string>
+  <string name="launcher_pull_down_title">Potiahnutie nahor na ploche</string>
+  <string name="launcher_slide_up_title">Potiahnutie nadol na ploche</string>
 </resources>

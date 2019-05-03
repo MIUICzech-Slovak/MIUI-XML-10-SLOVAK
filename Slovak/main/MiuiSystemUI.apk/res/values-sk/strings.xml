@@ -2012,4 +2012,14 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="power_save_ps_limit">Obmedziť aktivitu systémových aplikácií</string>  
   <string name="dnd_notification_warnings_title">Hovory a upozornenia budú stíšené kým nevypnete režim Nerušiť</string>  
   <string name="notification_channel_dnd">Nerušiť</string>
+  <string name="choose_clock_title_left_top">Naľavo</string>
+  <string name="choose_clock_title_middle">V strede</string>
+  <string name="choose_clock_title_vertical">Na výšku</string>  
+  <string name="face_unlock_success_show_message_dialog_msg">Povoliť upozorneniam zobrazenie na zamknutej obrazovke.</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Nie</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Povoliť</string>
+  <string name="face_unlock_success_show_message_dialog_title">Upozornenia na zamknutej obrazovke</string>
+  <string name="face_unlock_success_show_message_msg">Zobraziť len zdroj upozornenia ak je zariadenie uzamknuté a obsah až po odomknutí tvárou</string>
+  <string name="face_unlock_success_show_message_title">Zobraziť obsah upozornenia až po odomknutí tvárou</string>
+  <string name="face_unlock_success_show_message_toast">Upozornenia budú zobrazené</string>  
 </resources>

@@ -1609,4 +1609,20 @@
      <string name="video_editor_watermark">Vodoznak</string>
      <string name="photo_editor_compare_tip">Stlačte a podržte pre zobrazenie originálu</string>
 	 <string name="photo_editor_remove_watermark">Odstrániť vodoznak</string>
+  <string name="ai_album_setting_key_word">Vyhľadať fotografie</string>
+  <string name="base_btn_cancel">Zrušiť</string>
+  <string name="base_btn_download">Stiahnuť</string>
+  <string name="filter_category_sky">Obloha</string>
+  <string name="filter_sky_cloudy">Zamračené</string>
+  <string name="filter_sky_detect_forbidden_tips">Nebolo možné nájsť</string>
+  <string name="filter_sky_download_failed">Nebolo možné stiahnuť doplnok.</string>
+  <string name="filter_sky_download_finish">Doplnok stiahnutý</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">Ak nie ste pripojený na Wi-Fi, môžete stiahnuť doplnok cez mobilné dáta (%1$dMB).</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Stiahnuť doplnok</string>
+  <string name="filter_sky_dusk">Súmrak</string>
+  <string name="filter_sky_glow">Žiarivá</string>
+  <string name="filter_sky_rainbow">Dúha</string>
+  <string name="filter_sky_sunny">Jasno</string>
+  <string name="filter_sky_sunset">Západ slnka</string>
+  <string name="trash_bin_key_word">Vymazané fotografie</string>
 </resources>
