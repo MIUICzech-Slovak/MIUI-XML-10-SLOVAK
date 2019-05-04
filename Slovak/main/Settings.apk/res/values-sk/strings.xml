@@ -5735,14 +5735,17 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="wifi_protection_on">Zap</string>
   <string name="wifi_protection_settings_title">Wi-Fi ochrana</string>
   <string name="wifi_protection_tip">MIUI automaticky povolí Wi-Fi ochranu. Počas vyhľadávania Wi-Fi sietí v okolí, náhodne zmení MAC adresu zariadenia pre ochranu vášho súkromia.</string>
-  <string name="choose_keyguard_clock_style">Lock screen clock format</string>
-  <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
-  <string name="choose_unlock_face_msg">Set a screen lock before recording face data.</string>
-  <string name="choose_unlock_fingerprint_msg">Set screen lock before adding your fingerprint.</string>
-  <string name="miui_lab_gesture_desc">Disable physical buttons and enjoy fullScreen gesture</string>
-  <string name="miui_lab_gesture_title">FullScreen Gesture</string>
-  <string name="search_ambient_display_screen_title">Ambient display</string>
-  <string name="search_doze_always_on_title">Always on</string>
-
-  
+  <string name="choose_keyguard_clock_style">Formát hodín na zamknutom displeji</string>
+  <string name="choose_keyguard_clock_summary">Toto nastavenie nepodporujú doinštalovaná témy</string>
+  <string name="choose_unlock_face_msg">Pred zadaním tváre nastavte zámok obrazovky.</string>
+  <string name="choose_unlock_fingerprint_msg">Pred zadaním odtlačku prsta nastavte zámok obrazovky.</string>
+  <string name="miui_lab_gesture_desc">Deaktivujte tlačidlá z užite si ovládanie gestami</string>
+  <string name="miui_lab_gesture_title">Gestá obrazovky</string>
+  <string name="search_ambient_display_screen_title">Ambientný displej</string>
+  <string name="search_doze_always_on_title">Vždy zapnutý</string>
+  <string name="dc_light_dialog_summary">Kvalita obrázkov môže byť ovplyvnená Anti-flicker režimom. Chcete ho povoliť?</string>
+  <string name="dc_light_summary">Použiť DC stmavenie pre šetrenie vaších očí</string>
+  <string name="dc_light_title">Anti-flicker režim</string>
+  <string name="power_menu_under_keyguard_summary">Povoliť prístup k vypnutiu zariadenia ak je uzamknuté</string>
+  <string name="power_menu_under_keyguard_title">Prístup k menu vypnutia</string>	
 </resources>
