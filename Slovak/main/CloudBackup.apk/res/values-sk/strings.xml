@@ -236,4 +236,6 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="restore_network_unconnect">%s (Čakanie na pripojenie)</string>
   <string name="title_restore_with_current_network">Sťahovanie položiek cez súčasné pripojenie</string>  
   <string name="hint_restore_cross_space">Ak presúvate položky medzi profilmi, rozloženie ikon môže byť zobrazené nesprávne.</string>  
+  <string name="selected">Vybrané</string>
+  <string name="unselected">Nevybrané</string>
 </resources>

@@ -351,6 +351,11 @@
   <string name="home_gesture_notification_bar">Upozornenia</string>
   <string name="home_pull_down_action">Potiahnutie nadol na ploche</string>
   <string name="home_slide_up_action">Potiahnutie nahor na ploche</string>
-  <string name="launcher_pull_down_title">Potiahnutie nahor na ploche</string>
-  <string name="launcher_slide_up_title">Potiahnutie nadol na ploche</string>
+  <string name="launcher_pull_down_title">Potiahnutie nadol na ploche</string>
+  <string name="launcher_slide_up_title">Potiahnutie nahor na ploche</string>
+  <string name="edit_mode_dual_app">Vytvoriť klonovanú aplikáciu</string>
+  <string name="edit_mode_group_error_cant_delete_system_apps">Nie je možné odinštalovať systémovú aplikáciu</string>
+  <string name="edit_mode_group_error_nothing_be_selected">Najskôr vyberte aplikáciu</string>
+  <string name="menu_auto_fill_of_uninstall">Zaplniť miesto po odinštalovanej aplikácií</string>
+  <string name="minus_one_screen">Asistent</string>
 </resources>

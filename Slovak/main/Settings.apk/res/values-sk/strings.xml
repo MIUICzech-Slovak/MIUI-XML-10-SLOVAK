@@ -5744,8 +5744,10 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="search_ambient_display_screen_title">Ambientný displej</string>
   <string name="search_doze_always_on_title">Vždy zapnutý</string>
   <string name="dc_light_dialog_summary">Kvalita obrázkov môže byť ovplyvnená Anti-flicker režimom. Chcete ho povoliť?</string>
-  <string name="dc_light_summary">Použiť DC stmavenie pre šetrenie vaších očí</string>
+  <string name="dc_light_summary">Použiť DC stmavenie pre šetrenie vašich očí</string>
   <string name="dc_light_title">Anti-flicker režim</string>
   <string name="power_menu_under_keyguard_summary">Povoliť prístup k vypnutiu zariadenia ak je uzamknuté</string>
   <string name="power_menu_under_keyguard_title">Prístup k menu vypnutia</string>	
+  <string name="fingerprint_wakeup_title">Prebudiť dotykom na senzor</string>
+  <string name="fingerprint_wakeup_summary">Prebudiť displej dotykom na senzor odtlačku prsta (len ak nie je nastavený odtlačok)</string>
 </resources>
