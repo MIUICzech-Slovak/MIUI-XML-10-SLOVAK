@@ -1026,4 +1026,9 @@ Postupujte podľa pokynov"</item>
         <item>Upozornenia budú zobrazené v roletke</item>
         <item>Upozornenia budú zobrazené v samostatnej zložke</item>
     </string-array>	
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Grafická</item>
+        <item>Percentá (v ikone)</item>
+        <item>Percentá (vedľa ikony)</item>
+    </string-array>
 </resources>

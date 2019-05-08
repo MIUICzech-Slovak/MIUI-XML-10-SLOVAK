@@ -5750,4 +5750,17 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="power_menu_under_keyguard_title">Prístup k menu vypnutia</string>	
   <string name="fingerprint_wakeup_title">Prebudiť dotykom na senzor</string>
   <string name="fingerprint_wakeup_summary">Prebudiť displej dotykom na senzor odtlačku prsta (len ak nie je nastavený odtlačok)</string>
+  <string name="backup_set_clear_success">Heslo zálohy bolo odstránené</string>
+  <string name="backup_set_clear_title">Odstrániť heslo zálohy</string>
+  <string name="backup_set_confirm">OK</string>
+  <string name="backup_set_confirm_clear">Odstrániť</string>
+  <string name="backup_set_enter_new_pw">Zadajte nové heslo zálohy</string>
+  <string name="backup_set_enter_new_pw_again">Potvrďte nové heslo zálohy</string>
+  <string name="backup_set_enter_old_pw">Zadajte staré heslo zálohy</string>
+  <string name="backup_set_enter_pw_title">Zadajte heslo zálohy</string>
+  <string name="backup_set_error_pw">Zadané heslo nie je správne</string>
+  <string name="backup_set_modify_title">Zmeniť heslo zálohy</string>
+  <string name="backup_set_new_pw_title">Zadajte nové heslo zálohy</string>
+  <string name="backup_set_null_pw">Najskôr zadajte heslo</string>
+  <string name="backup_set_pw_confirm_title">Potvrďte nové heslo zálohy</string>
 </resources>
