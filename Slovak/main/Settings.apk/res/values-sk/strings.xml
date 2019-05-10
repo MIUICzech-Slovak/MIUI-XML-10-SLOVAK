@@ -5678,8 +5678,8 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="usage_state_app_usage_list_week_title">Využitie displeja aplikáciami</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Čas displeja medzi %d:00 - %d:00</string>
   <string name="usage_state_app_use_time">Čas displeja</string>
-  <string name="usage_state_channel_mouth">Posledných 30 dní</string>
-  <string name="usage_state_channel_week">Posledných 7 dní</string>
+  <string name="usage_state_channel_mouth">30 dní</string>
+  <string name="usage_state_channel_week">7 dní</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Upozornenia medzi %d:00 - %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Odomknuté zariadenie medzi %d:00 - %d:00</string>
   <string name="usage_state_friday">Pia</string>
@@ -5763,4 +5763,11 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="backup_set_new_pw_title">Zadajte nové heslo zálohy</string>
   <string name="backup_set_null_pw">Najskôr zadajte heslo</string>
   <string name="backup_set_pw_confirm_title">Potvrďte nové heslo zálohy</string>
+  <string name="gxzw_quick_open_enable_summary">Použiť gestá pre otvorenie aplikácií alebo skratiek</string>
+  <string name="gxzw_quick_open_enable_title">Skratky odtlačku prsta</string>
+  <string name="gxzw_quick_open_fast_summary">Potiahnite pre použitie skratky po odomknutí.</string>
+  <string name="gxzw_quick_open_fast_title">Rýchle potiahnutie</string>
+  <string name="gxzw_quick_open_slow_summary">Stlačte a podržte ikonu odtlačku prsta pre otvorenie skratiek. Potiahnite pre použitie skratky.</string>
+  <string name="gxzw_quick_open_slow_title">Stlačiť a podržať</string>
+  <string name="gxzw_quick_open_title">Skratky</string>	
 </resources>
