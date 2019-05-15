@@ -3071,7 +3071,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="doze_optimization_title">Optimalizovať citlivosť displeja</string>
   <string name="forground_network_optimization_summary">Prideliť viac výkonu spustenej hre</string>
   <string name="forground_network_optimization_title">Priorita výkonu</string>
-  <string name="function_shield_summary">Obmedziť automatický jas, gestá a režim čítania</string>
+  <string name="function_shield_summary">Obmedziť vybrané nastavenia počas hrania hier</string>
   <string name="function_shield_summary_m">Zakázať automatický jas a gestá</string>
   <string name="function_shield_title">Rozšírený dojem</string>
   <string name="game_else_function">Ostatné</string>
@@ -3145,4 +3145,13 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_save_ps_close_setting">Deaktivovať služby na pozadí (synchr., GPS) pre úsporu batérie</string>
   <string name="power_save_ps_freeze">Zmraziť aplikácie na pozadí</string>
   <string name="power_save_ps_limit">Obmedziť aktivity na pozadí</string>  
+  <string name="choose_gs_show_way">Vyberte orientáciu domácej plochy</string>
+  <string name="function_shield_auto_bright">Vypnúť automatický jas</string>
+  <string name="function_shield_eye_shield">Vypnúť Čítací režim</string>
+  <string name="function_shield_pull_notification_bar">Neotvárať roletku</string>
+  <string name="function_shield_settings_title">Zakázať funkcie počas hrania hier</string>
+  <string name="function_shield_three_finger">Zakázať screenshot gestami</string>
+  <string name="gs_show_way">Orientácia domácej plochy</string>
+  <string name="gs_show_way_horizontal">Na šírku</string>
+  <string name="gs_show_way_vertical">Na výšku</string>
 </resources>

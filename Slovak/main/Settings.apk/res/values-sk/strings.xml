@@ -5770,4 +5770,5 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="gxzw_quick_open_slow_summary">Stlačte a podržte ikonu odtlačku prsta pre otvorenie skratiek. Potiahnite pre použitie skratky.</string>
   <string name="gxzw_quick_open_slow_title">Stlačiť a podržať</string>
   <string name="gxzw_quick_open_title">Skratky</string>	
+  <string name="dc_light_summary_new">Použiť DC stmavenie pre šetrenie vašich očí.</string>
 </resources>

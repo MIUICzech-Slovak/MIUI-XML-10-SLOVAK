@@ -627,8 +627,8 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="member_entrance_title_ultra_low_case_a">Obnoviť</string>
   <string name="member_entrance_title_ultra_low_case_b">Obnoviť</string>
   <string name="micloud_main_manual_sync">Manuálna synchr.</string>
-  <string name="micloud_main_sync_mode_summary">Niektoré položky sa synchronizujú keď je displej vypnutý a batéria sa nabíja.</string>
-  <string name="micloud_main_sync_mode_title">šetrenie batérie</string>
+  <string name="micloud_main_sync_mode_summary">Položky sa synchronizujú keď je displej vypnutý a batéria sa nabíja.</string>
+  <string name="micloud_main_sync_mode_title">Šetrenie batérie</string>
   <string name="micloud_manaul_sync_success_button_text">Zobraziť podrobnosti</string>
   <string name="micloud_manaul_sync_success_title">Synchronizované</string>
   <string name="micloud_manual_activating">Aktivácia...</string>

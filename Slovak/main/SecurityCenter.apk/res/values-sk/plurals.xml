@@ -478,4 +478,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d rizík</item>
         <item quantity="one">%d riziko</item>
     </plurals>	
+    <plurals name="function_shield_num">
+        <item quantity="other">Funkcií: %d</item>
+        <item quantity="one">Funkcií: %d</item>
+    </plurals>
 </resources>
