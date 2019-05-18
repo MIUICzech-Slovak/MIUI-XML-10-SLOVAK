@@ -2022,7 +2022,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="face_unlock_success_show_message_msg">Zobraziť len zdroj upozornenia ak je zariadenie uzamknuté a obsah až po odomknutí tvárou</string>
   <string name="face_unlock_success_show_message_title">Zobraziť obsah upozornenia až po odomknutí tvárou</string>
   <string name="face_unlock_success_show_message_toast">Upozornenia budú zobrazené</string>  
-  <string name="keyguard_charging_normal_and_level_tip">Mabíjanie %d%%</string>
+  <string name="keyguard_charging_normal_and_level_tip">Nabíjanie %d%%</string>
   <string name="keyguard_charging_quick_and_level_tip">Rýchle nabíjanie %d%%</string>
   <string name="keyguard_charging_super_quick_and_level_tip">Rýchle nabíjanie %d%%</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Viac</string>
