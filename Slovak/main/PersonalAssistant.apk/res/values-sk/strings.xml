@@ -29,9 +29,9 @@
   <string name="agenda_settings_loan">Zobraziť platenie hypotéky</string>
   <string name="alipay_init">Initializing Alipay services…</string>
   <string name="alipay_init_success">Initialized Alipay services successfully​</string>
-  <string name="app_label">Quick Card</string>
-  <string name="apps">App suggestions</string>
-  <string name="apps_label">Apps</string>
+  <string name="app_label">Asistent</string>
+  <string name="apps">Odporúčania</string>
+  <string name="apps_label">Aplikácia</string>
   <string name="assistant_place">Recognize frequent places</string>
   <string name="assistant_summary">Get useful suggestions right when you need them</string>
   <string name="ball_dialog_confirm">Install</string>
@@ -440,7 +440,7 @@
   <string name="app_suggest_setting_brief_detail">Doporučenie aplikácií bude založené na vašom používaní aplikácií</string>
   <string name="app_suggest_setting_title">Doporučenie aplikácií</string>
   <string name="cta_dialog_text_new_user">Pred používaním Asistenta, musíte súhlasiť s Xiaomi %1$s\"Podmienkami používania\"%2$s, %3$s\"Ochranou súkromia\"%4$s, a %5$s\"Podmienkami používania Asistenta\"%6$s. Stlačte \"Spustiť\" ak súhlasíte."</string>
-  <string name="cta_dialog_text_old_user">red používaním Asistenta, musíte súhlasiť s %1$s\"Podmienkami používania\"%2$s. Stlačte \"Spustiť\" ak súhlasíte.</string>
+  <string name="cta_dialog_text_old_user">Pred používaním Asistenta, musíte súhlasiť s %1$s\"Podmienkami používania\"%2$s. Stlačte \"Spustiť\" ak súhlasíte.</string>
   <string name="cta_not_now">Neskôr</string>
   <string name="cta_old_not_use">Neskôr</string>
   <string name="cta_old_start">Spustiť</string>
@@ -487,5 +487,5 @@
   <string name="setting_title_resident_function">Permamentné funkcie</string>
   <string name="toast_function_add_limit">Môžete pridať až %d skratiek</string>
     <string name="all_function_title">Všetky skratky</string>
-
+  <string name="authorize_button">Povoliť</string>
 </resources>
