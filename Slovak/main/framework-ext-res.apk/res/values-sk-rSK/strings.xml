@@ -192,6 +192,5 @@
   <string name="popup_camera_using_camera_background">%s používa prednú kameru</string>
   <string name="stop_operate_camera_frequently">Prepínate medzi kamera príliš rýchlo.</string>
   <string name="takeback_camera_front_failed">Nebolo možné zatvoriť prednú kameru.</string>
-  <string name="popup_camera_front_when_use">Aplikácia Fotoaparát vyžaduje otvoriť predný fotoaparát. Otvoriť teraz?</string>
   <string name="voice_assistant_tips">Aktualizované na dlhé podržanie zapínania pre spustenie Asistenta</string>
 </resources>
