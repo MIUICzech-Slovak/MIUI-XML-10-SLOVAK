@@ -453,4 +453,8 @@
         <item quantity="other">%d položiek je príliš veľkých na zálohovanie</item>
         <item quantity="one">%d položiek je príliš veľká na zálohovanie</item>
      </plurals>	
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Koláž môže obsahovať 1-%d fotografií</item>
+        <item quantity="one">Koláž môže obsahovať 1-%d fotografií</item>
+    </plurals>	 
 </resources>

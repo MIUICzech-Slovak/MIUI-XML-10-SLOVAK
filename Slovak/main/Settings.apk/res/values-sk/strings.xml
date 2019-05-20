@@ -5771,4 +5771,22 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="gxzw_quick_open_slow_title">Stlačiť a podržať</string>
   <string name="gxzw_quick_open_title">Skratky</string>	
   <string name="dc_light_summary_new">Použiť DC stmavenie pre šetrenie vašich očí.</string>
+  
+  <string name="color_led_applications_title">Vybrať aplikácie</string>
+  <string name="color_led_applications_title_summary">Môžete zakázať používanie LED pre jednotlivé aplikácie</string>
+  <string name="color_led_battery_title">Ponechať zapnuté počas nabíjania</string>
+  <string name="color_led_end_time">Koniec</string>
+  <string name="color_led_game_mode_title">Zrýchlenie hier</string>
+  <string name="color_led_hint">Vyberte scenáre kedy sa má použiť LED. LED bude svietiť ak je telefón položený na displej a režim Nerušiť nie je aktivovaný.</string>
+  <string name="color_led_incall_pulse_title">Blikať pre prichádzajúce hovory</string>
+  <string name="color_led_music_mode_summary">Blikať do rytmu počas prehrávania hudby</string>
+  <string name="color_led_music_mode_title">Hudba</string>
+  <string name="color_led_notification_pulse_title">Pulzovať pre upozornenia</string>
+  <string name="color_led_red_more_feature">Špeciálne efekty</string>
+  <string name="color_led_start_time">Začiatok</string>
+  <string name="color_led_title">LED svetlo</string>
+  <string name="long_press_power_key">Dlhé podržanie Zapínania</string>
+  <string name="long_press_power_key_tips">Dlhé podržanie Zapínania > Rýchlejšie a pohodlnejšie</string>
+  <string name="toggle_auto_speaker_preference_summary">Zariadenie sa prepne na reproduktor ak ho oddialite od ucha počas hovoru. Táto funkcia pracuje len s povoleným TalkBack.</string>
+  <string name="toggle_auto_speaker_preference_title">Automaticky prepnúť na reproduktor</string>  
 </resources>

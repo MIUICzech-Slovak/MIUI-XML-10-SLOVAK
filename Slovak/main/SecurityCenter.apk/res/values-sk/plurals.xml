@@ -482,4 +482,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Funkcií: %d</item>
         <item quantity="one">Funkcií: %d</item>
     </plurals>
+	    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apl., vrátane %1$s, vybíjajú batériu</item>
+        <item quantity="one">%2$d apl., vrátane %1$s, vybíja batériu</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apl. vybíjajú batériu</item>
+        <item quantity="one">%d apl. vybíja batériu</item>
+    </plurals>	
 </resources>

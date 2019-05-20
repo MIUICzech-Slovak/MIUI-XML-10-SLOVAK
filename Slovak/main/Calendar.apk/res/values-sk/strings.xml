@@ -333,7 +333,7 @@
   <string name="preferences_alerts_ringtone_title">Zvonenie</string>
   <string name="preferences_alerts_title">Upozornenie</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrácie</string>
-  <string name="preferences_alerts_vibrate_title">Vibrácie a zvonenie</string>
+  <string name="preferences_alerts_vibrate_title">Predvolené upozornenie</string>
   <string name="preferences_build_version">Verzia</string>
   <string name="preferences_category_account_title">Účet</string>
   <string name="preferences_category_general_title">Všeobecná</string>
@@ -546,4 +546,24 @@
   <string name="edit_event_custom_reminder_time_dup">Vlastné upozornenie: %1$s</string>
   <string name="edit_event_custom_reminder_title">Nastaviť vlastné upozornenie</string>
   <string name="event_reminder_custom">Vlastné</string>
+  <string name="accessibility_alarm_remind">Upozornenie na budík</string>
+  <string name="preferences_alarm_default_event_title">Nastaviť upozornenie</string>
+  <string name="preferences_alarms_category_title">Upozornenie na budík</string>
+  <string name="preferences_alarms_default_event">Vybrať udalosti</string>
+  <string name="preferences_alarms_sound">Zvuk</string>
+  <string name="preferences_alarms_vibrateWhen">Vibrácie</string>
+  <string name="preferences_allow_remind">Povoliť upozornenia</string>
+  <string name="repeat_alarm_changed_event">NAstaviť opakovanie upozornenia</string>
+  <string name="repeat_alarm_changed_ony_selected">Len tentokrát</string>
+  <string name="repeat_alarm_changed_title">Toto je opakujúca sa udalosť. Nastaviť upozornenie?</string>
+  <string name="repeat_alarm_close_title">Toto je opakujúca sa udalosť. Vypnúť upozornenie?</string>
+  <string name="repeat_alarm_open_title">Toto je opakujúca sa udalosť. Nastaviť upozornenie?</string>
+  <string name="setting">Nastavenia</string>
+  <string name="setting_daysoff_no_update">Informácie o voľných dňoch sú aktuálne.</string>
+  <string name="setting_daysoff_update">Aktualizovať informácie o voľných dňoch</string>
+  <string name="setting_daysoff_update_cta_cancel">Najskôr povoľte aplikácií Kalendár prístup k internetu</string>
+  <string name="setting_daysoff_update_net_err">Nebolo možné skontrolovať aktualizácie.</string>
+  <string name="setting_daysoff_update_schedule">Aktualizácia...</string>
+  <string name="setting_daysoff_update_success">Aktualizované</string>
+  <string name="talk_back_tab_switch">Prepnúť zobrazenie</string>
 </resources>

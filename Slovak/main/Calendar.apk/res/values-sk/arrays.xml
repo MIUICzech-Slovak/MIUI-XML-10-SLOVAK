@@ -363,6 +363,7 @@
         <item>10 minúť</item>
         <item>15 minúť</item>
         <item>30 minúť</item>
+        <item>1 hodinu</item>		
     </string-array>	
     <string-array name="repeat_monthly_on_day_count_values">
         <item>prvý Pondelok</item>
@@ -400,5 +401,13 @@
         <item>posledný Piatok</item>
         <item>posledná Sobota</item>
         <item>posledná Nedeľa</item>
+    </string-array>	
+    <string-array name="close_alarm_repeating_labels">
+        <item>Len tentokrát</item>
+        <item>Vypnúť opakovanie budíka</item>
+    </string-array>	
+    <string-array name="open_alarm_repeating_labels">
+        <item>Len tentokrát</item>
+        <item>Nastaviť opakovanie budíka</item>
     </string-array>	
 </resources>
