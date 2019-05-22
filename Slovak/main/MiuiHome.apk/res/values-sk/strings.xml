@@ -218,7 +218,7 @@
   <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovať</string>
   <string name="open_personal_assistant_dialog_desc">Nebude možné používať Asistenta. Chcete ho vypnúť?</string>
   <string name="open_personal_assistant_dialog_title">Deaktivovať Asistenta</string>
-  <string name="open_personal_assistant_title">Aktivovať Asistenta</string>
+  <string name="open_personal_assistant_title">Povoliť Asistenta</string>
   <string name="out_of_space">Na tejto ploche už nie je miesto.</string>
   <string name="permdesc_install_shortcut">Povoľuje aplikácií pridať zástupcu bez zásahu užívateľa.</string>
   <string name="permdesc_install_widget">Povoliť aplikáciám automaticky pridať widget na plochu.</string>

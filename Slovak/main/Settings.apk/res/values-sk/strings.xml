@@ -5736,7 +5736,7 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="wifi_protection_settings_title">Wi-Fi ochrana</string>
   <string name="wifi_protection_tip">MIUI automaticky povolí Wi-Fi ochranu. Počas vyhľadávania Wi-Fi sietí v okolí, náhodne zmení MAC adresu zariadenia pre ochranu vášho súkromia.</string>
   <string name="choose_keyguard_clock_style">Formát hodín na zamknutom displeji</string>
-  <string name="choose_keyguard_clock_summary">Toto nastavenie nepodporujú doinštalovaná témy</string>
+  <string name="choose_keyguard_clock_summary">Toto nastavenie nepodporujú doinštalované témy</string>
   <string name="choose_unlock_face_msg">Pred zadaním tváre nastavte zámok obrazovky.</string>
   <string name="choose_unlock_fingerprint_msg">Pred zadaním odtlačku prsta nastavte zámok obrazovky.</string>
   <string name="miui_lab_gesture_desc">Deaktivujte tlačidlá z užite si ovládanie gestami</string>

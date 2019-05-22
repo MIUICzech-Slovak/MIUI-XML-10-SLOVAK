@@ -6,9 +6,9 @@
   <string name="aod_close_color_inversion">Táto funkcia nemôže byť kombinovaná s funkciou invertovaním farieb.</string>
   <string name="aod_mode_style">Štýl hodín a pozadia</string>
   <string name="aod_mode_summary">Zobraziť čas, dátum a SMS keď je displej vypnutý.</string>
-  <string name="aod_mode_time_summary">Naplánujte čas kedy sa má vaše zariadenie prepnúť do Always on režimu</string>
+  <string name="aod_mode_time_summary">Naplánujte čas kedy sa má vaše zariadenie prepnúť do Ambientného režimu</string>
   <string name="aod_mode_time_title">Naplánovať čas</string>
-  <string name="aod_mode_title">Always-on displej</string>
+  <string name="aod_mode_title">Ambientný displej</string>
   <string name="aod_to_close">Vypnúť</string>
   <string name="cancel">Zrušiť</string>
   <string name="paper_mode_end_time_title">Vypnúť</string>
