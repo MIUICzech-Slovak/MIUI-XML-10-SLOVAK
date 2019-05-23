@@ -759,7 +759,6 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="beauty_clear">Vymazať</string>
   <string name="beauty_clear_toast">Efekty skrášlenia sú odstránené</string>
   <string name="edit_hairline">Účes</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Vyskúšajte 0.6X Ultra široký uhol záberu</string>
      <string name="autozoom_landscape_hint">Foťte v režime na šírku pre najlepší efekt</string>
      <string name="hint_ae_af_lock_extra">Zaostrenie a expozícia boli uzamknuté. Prepnite na Google Lens v nastaveniach</string>
      <string name="lighting_pattern_null">Žiaden</string>
