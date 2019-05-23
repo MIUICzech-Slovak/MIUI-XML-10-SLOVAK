@@ -18,4 +18,7 @@
   <string name="refocus_type_relighting_small_face">3D osvetlenie funguje len na fotografiách kde tvár zaberá jej väčšiu časť.</string>
   <string name="refocus_type_static">Úroveň rozmazania</string>
   <string name="refocus_type_video">Svetelné stopy</string>
+  <string name="motion_photo_re_pick_title">Vyberte najlepší záber</string>
+  <string name="motion_photo_toast_default">Predvolené</string>
+  <string name="motion_photo_toast_suggest">Odporúčané</string>
 </resources>

@@ -760,4 +760,20 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="beauty_clear_toast">Efekty skrášlenia sú odstránené</string>
   <string name="edit_hairline">Účes</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Vyskúšajte 0.6X Ultra široký uhol záberu</string>
+     <string name="autozoom_landscape_hint">Foťte v režime na šírku pre najlepší efekt</string>
+     <string name="hint_ae_af_lock_extra">Zaostrenie a expozícia boli uzamknuté. Prepnite na Google Lens v nastaveniach</string>
+     <string name="lighting_pattern_null">Žiaden</string>
+     <string name="pref_camera_front_bokeh_entry_off">Vyp</string>
+     <string name="pref_camera_front_bokeh_entry_on">Zap</string>
+     <string name="pref_camera_stereo_mode_title">Upravenie zaostrenia</string>
+     <string name="ultra_wide_open_tip_sat">Ultra široký režim</string>
+     <string name="ultra_wide_recommend_tip_hint_sat">Skúste Ultra široký režim</string>
+     <string name="video_beauty_tip">Skrášlenie pre videá</string>
+     <string name="wideselfie_press_shoot_key_to_start">Dotknite sa spúšte</string>
+     <string name="wideselfie_result_image_lossless">Nebolo možné vytvoriť panorámu</string>
+     <string name="wideselfie_rotate_slowly">Otočte telefón nabok</string>
+     <string name="wideselfie_rotate_to_back">Nakloňte telefón dozadu</string>
+     <string name="wideselfie_rotate_to_front">Nakloňte telefón dopredu</string>
+     <string name="wideselfie_rotate_to_left_slowly">Natočte telefón doľava</string>
+     <string name="wideselfie_rotate_to_right_slowly">Natočte telefón doprava</string>
 </resources>
