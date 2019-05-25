@@ -93,5 +93,12 @@ Musíte súhlasiť s našimi Podmienkami používania a Ochranu súkromia pred p
   <string name="welcome">Vitajte</string>
   <string name="other_settings_enhanced_lockscreen">Denná tapeta</string>
   <string name="other_settings_enhanced_lockscreen_summary">Získajte nové tapety na zamknutej obrazovke</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">T&amp;C</string>  
+  <string name="ai_button_desc">Získajte rýchly prístup k hlasovému asistentovi</string>
+  <string name="ai_button_double_press">Dvojité stlačenie</string>
+  <string name="ai_button_double_press_desc">Stlačte 2x AI tlačidlo pre vykonanie akcie</string>
+  <string name="ai_button_long_press">Stlačenie a podržanie</string>
+  <string name="ai_button_long_press_desc">Stlačte a podržte AI tlačidlo pre hovorenie</string>
+  <string name="ai_button_single_press">Stačenie</string>
+  <string name="ai_button_single_press_desc">Stlačte AI tlačidlo pre zobrazenie AI skratiek</string>
+  <string name="ai_button_title">AI tlačidlo</string>
 </resources>

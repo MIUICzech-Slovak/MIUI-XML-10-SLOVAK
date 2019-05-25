@@ -3163,4 +3163,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="pc_abnormal_scan_reason_scan_wifi">Často vyhľadáva Wi-Fi siete</string>
   <string name="pc_abnormal_scan_reason_use_GPS">Používa polohu príliš často</string>
   <string name="pc_abnormal_scan_reason_wake_system">Často prebúdza systém</string>
+  <string name="dialog_roaming_warning_checkbox">Viac nezobrazovať</string>
+  <string name="dialog_roaming_warning_message">Oprátor môže účtovať ďalšie poplatky po povolení medzinárodného data roamingu. Aj tak chcete povoliť?</string>
+  <string name="dialog_roaming_warning_ok">Povoliť</string>
 </resources>

@@ -534,4 +534,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="agreement_and_privacy">Podmienky používania a Ochrana súkromia</string>
   <string name="passport_first_login_prompt">Mi účet bude automaticky vytvorený keď sa prvýkrát prihlásite.</string>
   <string name="scan_barcode">Načítajte QR kód</string>
+  <string name="passport_user_reg_region">Krajina/Región</string>
+  <string name="passport_user_reg_region_warning">Po vytvorení účtu nebude možné zmeniť krajinu.</string>
+  <string name="push_notify_dialog_title">Overenie účtu</string>
 </resources>

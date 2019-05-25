@@ -1031,4 +1031,14 @@ Postupujte podľa pokynov"</item>
         <item>Percentá (v ikone)</item>
         <item>Percentá (vedľa ikony)</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Hovoriť s Google Asistentom</item>
+        <item>Otvoriť Google vyhľadávanie</item>
+        <item>Otvoriť zadný fotoaparát</item>
+        <item>Otvoriť predný fotoaparát</item>
+        <item>Otvoriť predchádzajúcu aplikáciu</item>
+        <item>Zapnúť svietidlo</item>
+        <item>Zapnúť čítací režim</item>
+        <item>Žiadna</item>
+    </string-array>
 </resources>

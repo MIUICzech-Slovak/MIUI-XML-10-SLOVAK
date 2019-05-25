@@ -5771,7 +5771,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="gxzw_quick_open_slow_title">Stlačiť a podržať</string>
   <string name="gxzw_quick_open_title">Skratky</string>	
   <string name="dc_light_summary_new">Použiť DC stmavenie pre šetrenie vašich očí.</string>
-  
   <string name="color_led_applications_title">Vybrať aplikácie</string>
   <string name="color_led_applications_title_summary">Môžete zakázať používanie LED pre jednotlivé aplikácie</string>
   <string name="color_led_battery_title">Ponechať zapnuté počas nabíjania</string>
@@ -5789,4 +5788,12 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="long_press_power_key_tips">Dlhé podržanie Zapínania > Rýchlejšie a pohodlnejšie</string>
   <string name="toggle_auto_speaker_preference_summary">Zariadenie sa prepne na reproduktor ak ho oddialite od ucha počas hovoru. Táto funkcia pracuje len s povoleným TalkBack.</string>
   <string name="toggle_auto_speaker_preference_title">Automaticky prepnúť na reproduktor</string>  
+  <string name="ai_button_title">Mi AI tlačidlo</string>
+  <string name="ai_button_title_global">AI tlačidlo</string>
+  <string name="ai_settings_click_title">Stlačenie</string>
+  <string name="ai_settings_double_click_category">Dvojité stlačenie AI tlačidla</string>
+  <string name="ai_settings_double_click_title">Dvojité stlačenie</string>
+  <string name="ai_settings_long_click_category">Stlačenie a držanie AI tlačidla</string>
+  <string name="ai_settings_long_click_title">Stlačenie a držanie</string>
+  <string name="ai_settings_single_press_des">Stlačte AI tlačidlo pre hovorenie Google asistentovi, potom pustite pre odpoveď.</string>
 </resources>
