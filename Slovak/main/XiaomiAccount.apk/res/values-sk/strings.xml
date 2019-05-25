@@ -536,6 +536,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="scan_barcode">Načítajte QR kód</string>
   <string name="passport_user_reg_region">Krajina/Región</string>
   <string name="passport_user_reg_region_warning">Po vytvorení účtu nebude možné zmeniť krajinu.</string>
-  <string name="push_notify_dialog_title">Overenie účtu</string>
   <string name="sim_changed_notification_msg">Aktualizujte vaše telefónné číslo pre obnovu Mi účtu.</string>
 </resources>
