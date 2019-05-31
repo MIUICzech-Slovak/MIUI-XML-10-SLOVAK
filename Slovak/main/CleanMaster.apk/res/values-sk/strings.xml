@@ -557,10 +557,4 @@
   <string name="notification_low_memory_cache_title">Vymazať cache</string>
   <string name="notification_low_memory_deepclean_summary">Hĺbkové čistenie môže uvoľniť úložisko vo vašom zariadení</string>
   <string name="notification_low_memory_deepclean_title">Dochádza voľné miesto na úložisku</string>
-  <string name="notification_garbage_cleanup_summary">Odpad dosiahol %s</string>
-  <string name="notification_garbage_cleanup_title">Vyčistiť odpad</string>
-  <string name="notification_low_memory_cache_summary">Je dostupných menej ako 1.5GB úložiska</string>
-  <string name="notification_low_memory_cache_title">Vymazať cache</string>
-  <string name="notification_low_memory_deepclean_summary">Hĺbkové čistenie môže uvoľniť úložisko vo vašom zariadení</string>
-  <string name="notification_low_memory_deepclean_title">Dochádza voľné miesto na úložisku</string>  
 </resources>

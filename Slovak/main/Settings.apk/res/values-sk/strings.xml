@@ -5800,12 +5800,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Potvrďte na náramku.</string>
   <string name="device_oaid">ID zariadenia</string>
   <string name="miui_touch_filtered_touchassistant_warning">Dialog povolení je prekrytý Dotykovým Asistentom. Premiestnite ikonu dotykového asistenta.</string>
-  <string name="mqs_privacy_automatically_upload">Odoslať automaticky na budúce</string>
-  <string name="mqs_privacy_dialog_cancel">Zrušiť</string>
-  <string name="mqs_privacy_dialog_confirm">Odoslať</string>
-  <string name="mqs_privacy_dialog_content">Odoslať záznamy o chybe pre vyriešenie tohto problému.</string>
-  <string name="mqs_privacy_dialog_title">Nastala chyba</string>
-  <string name="paper_mode_side_effect_hint">Vyššia intenzita môže ovplyvniť zobrazenie na displeji.</string>
   <string name="restore_oaid_content">Obnovenie vášho súčasného ID zariadenia vytvorí nové. Obnoviť teraz?</string>
   <string name="restore_oaid_positive">Obnoviť</string>
   <string name="restore_oaid_title">Obnovenie ID zariadenia</string>

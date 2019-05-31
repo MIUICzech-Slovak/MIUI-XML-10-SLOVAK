@@ -575,7 +575,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
     <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
     <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
-    <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
   <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
   <string name="common_open_on_phone">Otvoriť v telefóne</string>
   <string name="common_signin_button_text">Prihlásiť sa</string>
