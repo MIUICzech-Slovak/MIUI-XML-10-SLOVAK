@@ -629,4 +629,5 @@ Uvoľnite priestor alebo preneste menej súborov."</string>
   <string name="dialog_backup_password_cancel">Zrušiť</string>
   <string name="dialog_backup_password_change_machine_tips">Nebude možné presunúť zálohy chránené heslom. Pred použitím Prenosu deaktivujte heslo zálohy.</string>
   <string name="dialog_backup_password_to_settings">Nastavenia</string>  
+  <string name="gallery_summary">Nastavenia Galérie (neobsahuje fotografie)</string>
 </resources>

@@ -566,4 +566,7 @@
   <string name="setting_daysoff_update_schedule">Aktualizácia...</string>
   <string name="setting_daysoff_update_success">Aktualizované</string>
   <string name="talk_back_tab_switch">Prepnúť zobrazenie</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI bude automaticky rozpoznávať ktoré udalosti sú pre vás relevantné</string>
+  <string name="preferences_popup_alert_smart_tips">Nahradiť bežné upozornenia vyskakovacím oknom aby ste nezmeškali dôležité udalosti.</string>
+  <string name="preferences_popup_alert_title">Pop-up upozornenia</string>  
 </resources>

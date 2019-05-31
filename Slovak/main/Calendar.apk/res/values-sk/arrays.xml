@@ -410,4 +410,9 @@
         <item>Len tentokrát</item>
         <item>Nastaviť opakovanie budíka</item>
     </string-array>	
+    <string-array name="prefEntries_alerts_popup">
+        <item>Vyp</item>
+        <item>Pre všetky udalosti</item>
+        <item>Pre relevantné udalosti</item>
+    </string-array>	
 </resources>

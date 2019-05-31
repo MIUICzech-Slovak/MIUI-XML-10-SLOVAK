@@ -217,4 +217,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="permission_user_protocol">Podmienky používania (povinné)</string>
   <string name="weather_introduce">Vždy s vami.</string>
   <string name="weather_permission_agree">Prijať</string>  
+  <string name="shortcut_short_label_24_hour_forecast">24h predpoveď</string>
+  <string name="shortcut_short_label_recent_forecast">Skontrolovať počasie</string>  
 </resources>

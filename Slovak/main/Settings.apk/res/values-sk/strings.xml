@@ -5796,4 +5796,18 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="ai_settings_long_click_category">Stlačenie a držanie AI tlačidla</string>
   <string name="ai_settings_long_click_title">Stlačenie a držanie</string>
   <string name="ai_settings_single_press_des">Stlačte AI tlačidlo pre hovorenie Google asistentovi, potom pustite pre odpoveď.</string>
+  <string name="allow_oaid_used">Povoliť používanie ID zariadenia</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Potvrďte na náramku.</string>
+  <string name="device_oaid">ID zariadenia</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Dialog povolení je prekrytý Dotykovým Asistentom. Premiestnite ikonu dotykového asistenta.</string>
+  <string name="mqs_privacy_automatically_upload">Odoslať automaticky na budúce</string>
+  <string name="mqs_privacy_dialog_cancel">Zrušiť</string>
+  <string name="mqs_privacy_dialog_confirm">Odoslať</string>
+  <string name="mqs_privacy_dialog_content">Odoslať záznamy o chybe pre vyriešenie tohto problému.</string>
+  <string name="mqs_privacy_dialog_title">Nastala chyba</string>
+  <string name="paper_mode_side_effect_hint">Vyššia intenzita môže ovplyvniť zobrazenie na displeji.</string>
+  <string name="restore_oaid_content">Obnovenie vášho súčasného ID zariadenia vytvorí nové. Obnoviť teraz?</string>
+  <string name="restore_oaid_positive">Obnoviť</string>
+  <string name="restore_oaid_title">Obnovenie ID zariadenia</string>
+  <string name="screen_paper_mode_hdr_toast_new">Čítací režim bude automaticky deaktivovaný počas prehrávania HDR videa a počas načítavania odtlačku prsta.</string>
 </resources>
