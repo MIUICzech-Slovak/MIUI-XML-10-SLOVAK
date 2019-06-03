@@ -358,4 +358,7 @@
   <string name="edit_mode_group_error_nothing_be_selected">Najskôr vyberte aplikáciu</string>
   <string name="menu_auto_fill_of_uninstall">Zaplniť miesto po odinštalovanej aplikácií</string>
   <string name="minus_one_screen">Asistent</string>
+  <string name="announce_for_search_bar">Vyhľadávanie</string>
+  <string name="privacy_thumbnail_blur_summary">Rozmazať náhľady v nedávnych apl.</string>
+  <string name="privacy_thumbnail_blur_title">Rozmazať náhľady</string>  
 </resources>

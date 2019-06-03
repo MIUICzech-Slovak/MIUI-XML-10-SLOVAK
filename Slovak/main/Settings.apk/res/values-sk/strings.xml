@@ -5810,4 +5810,9 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="restore_oaid_positive">Obnoviť</string>
   <string name="restore_oaid_title">Obnovenie ID zariadenia</string>
   <string name="screen_paper_mode_hdr_toast_new">Čítací režim bude automaticky deaktivovaný počas prehrávania HDR videa a počas načítavania odtlačku prsta.</string>
+  <string name="backup_set_new_continue">Pokračovať</string>
+  <string name="backup_set_new_exit">Ukončiť</string>
+  <string name="backup_set_new_pw_confirm_hint">Upozornenie</string>
+  <string name="backup_set_new_pw_confirm_summary">Vaše položky sú automaticky zálohované. Vytvorenie hesla zálohy znemožní automatické zálohovanie. Pokračovať?</string> 
+  <string name="device_miui_version_parameters">MIUI verzia</string>
 </resources>
