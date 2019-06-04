@@ -164,7 +164,6 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="restore_home_screen_apps">Obnoviť zo zálohy v MiCloud</string>
   <string name="restore_task_cancelling">Rušenie...</string>
   <string name="restore_task_in_process">Obnovenie...</string>
-  <string name="restore_task_unfinished">Obnovenie aplikácií, skúste to neskôr</string>
   <string name="restore_unfinished">Obnovenie, skúste to neskôr</string>
   <string name="restoreing_file_tile">Obnovovanie %d súborov</string>
   <string name="restoring_file_tile">Obnovenie %d súborov</string>
