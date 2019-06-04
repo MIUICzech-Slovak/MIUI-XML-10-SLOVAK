@@ -5809,4 +5809,5 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="backup_set_new_pw_confirm_hint">Upozornenie</string>
   <string name="backup_set_new_pw_confirm_summary">Vaše položky sú automaticky zálohované. Vytvorenie hesla zálohy znemožní automatické zálohovanie. Pokračovať?</string> 
   <string name="device_miui_version_parameters">MIUI verzia</string>
+  <string name="quick_reply_title">Rýchle odpovede</string>
 </resources>

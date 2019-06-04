@@ -238,4 +238,10 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="hint_restore_cross_space">Ak presúvate položky medzi profilmi, rozloženie ikon môže byť zobrazené nesprávne.</string>  
   <string name="selected">Vybrané</string>
   <string name="unselected">Nevybrané</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Nie je dostatok voľného miesta v MiCloud. Zakúpte si viac miesta na úložisku alebo vymažte staré súbory.</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Nie je dostatok miesta na úložisku.</string>
+  <string name="backup_failed_reason_network_error">Chyba siete. Skúste to znova neskôr.</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Nie je dostatok miesta na úložisku.</string>
+  <string name="restore_failed_reason_network_error">Chyba siete. Skúste to znova neskôr.</string>
+  <string name="restore_task_unfinished">Nebolo možné obnoviť</string>
 </resources>
