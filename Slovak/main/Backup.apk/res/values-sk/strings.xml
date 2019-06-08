@@ -631,7 +631,6 @@ Uvoľnite priestor alebo preneste menej súborov."</string>
   <string name="dialog_backup_password_to_settings">Nastavenia</string>  
   <string name="gallery_summary">Nastavenia Galérie (neobsahuje fotografie)</string>
   <string name="feature_title_mms_setting">MMS nastavenia</string>
-
   <string name="dialog_backup_password_auto_backup_tips">Ak je nastavené heslo zálohy, nie je možné vykonať automatické zálohovanie.</string>
   <string name="dialog_backup_password_change_device_restore_tips">Ak je nastavené heslo zálohy, nie je možné použiť Prenos.</string>
   <string name="dialog_backup_password_restore_tips">Ak je nastavené heslo zálohy, nie je možné obnoviť zálohu.</string>

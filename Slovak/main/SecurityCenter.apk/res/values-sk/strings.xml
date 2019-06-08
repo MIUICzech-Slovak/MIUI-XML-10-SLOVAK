@@ -3171,4 +3171,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="qucick_replay_instrument">Použiť rýchle odpovede v roletke pre vybrané aplikácie</string>
   <string name="quick_replay_list_title">Dostupné aplikácie</string>
   <string name="quick_reply_title">Rýchle odpovede</string>
+  <string name="gamebox_display_1">Žiadne</string>
+  <string name="gamebox_display_2">Saturované</string>
+  <string name="gamebox_display_3">Jasné</string>
+  <string name="gamebox_display_4">Jasné a saturované</string>
+  <string name="gamebox_display_set">"Vylepšenie zobrazenia: "</string>
 </resources>

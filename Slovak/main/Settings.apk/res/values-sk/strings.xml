@@ -5810,4 +5810,17 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="backup_set_new_pw_confirm_summary">Vaše položky sú automaticky zálohované. Vytvorenie hesla zálohy znemožní automatické zálohovanie. Pokračovať?</string> 
   <string name="device_miui_version_parameters">MIUI verzia</string>
   <string name="quick_reply_title">Rýchle odpovede</string>
+  <string name="a11y_settings_label">Nastavenie uľahčenia prístupu</string>
+  <string name="accessibility_menu_description">"Ponuka dostupnosti spustí na obrazovke telefónu veľkú ponuku, pomocou ktorej bude telefón možné ovládať. Môžete ovládať gestá, hardvérové tlačidlá, navigáciu a ďalšie.
+
+Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na tlačidlo Dostupnosť v dolnej časti obrazovky."</string>
+  <string name="accessibility_menu_service_name">Ponuka dostupnosti</string>
+  <string name="accessibility_menu_summary">Ovládanie telefónu prostredníctvom veľkej ponuky</string>
+  <string name="google_assistant_label">Google Asistent</string>
+  <string name="lockscreen_label">Zámok obrazovky</string>
+  <string name="power_label">Napájanie</string>
+  <string name="quick_settings_label">Prepínače</string>
+  <string name="recent_apps_label">Nedávne</string>
+  <string name="screenshot_label">Screenshot</string>
+  <string name="volume_label">Hlasitosť</string>
 </resources>

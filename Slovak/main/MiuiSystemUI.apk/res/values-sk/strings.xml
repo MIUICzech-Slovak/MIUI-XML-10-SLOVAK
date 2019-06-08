@@ -2027,4 +2027,5 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="keyguard_charging_super_quick_and_level_tip">Rýchle nabíjanie %d%%</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Viac</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Vstúpiť</string>
+  <string name="lock_screen_magazine_label">Otvoriť Dennú tapetu</string>
 </resources>
