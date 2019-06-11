@@ -2028,4 +2028,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Viac</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Vstúpiť</string>
   <string name="lock_screen_magazine_label">Otvoriť Dennú tapetu</string>
+  <string name="long_screenshot_guide_text">"Dotknite sa
+pre dlhý screenshot"</string>
 </resources>

@@ -5823,4 +5823,11 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="recent_apps_label">Nedávne</string>
   <string name="screenshot_label">Screenshot</string>
   <string name="volume_label">Hlasitosť</string>
+  <string name="close_privacy_thumbnail_blur_title">Náhľady nie sú rozmazané</string>
+  <string name="confirm_fingerprint">Overte váš odtlačok prsta</string>
+  <string name="confirm_password_with_fingerprint">Použiť odtlačok prsta</string>
+  <string name="confirm_password_with_password">Zadajte heslo</string>
+  <string name="open_privacy_thumbnail_blur_title">Náhľady sú rozmazané</string>
+  <string name="privacy_thumbnail_blur_progress_message">Načítavanie...</string>
+  <string name="privacy_thumbnail_blur_title">Rozmazať náhľady aplikácií</string>
 </resources>
