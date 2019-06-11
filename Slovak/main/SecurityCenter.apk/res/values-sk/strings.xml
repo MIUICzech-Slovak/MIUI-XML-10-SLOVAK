@@ -3178,4 +3178,24 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gamebox_display_set">"Vylepšenie zobrazenia: "</string>
   <string name="app_manager_thumbnail_blur_summary">Rozmazať náhľady v nedávnych aplikáciach</string>
   <string name="app_manager_thumbnail_blur_title">Rozmazať náhľady</string>
+  <string name="power_center_battery_last">%s ostáva</string>
+  <string name="power_center_dialog_msg_bottom">Môžete predĺžiť životnosť batérie o %1$dh %2$dm. Povoliť Šetrenie batérie?</string>
+  <string name="power_center_dialog_msg_top">Keď je povolené Šetrenie batérie, MIUI vykoná nasledovné akcie:</string>
+  <string name="power_center_one_key_save">Optimalizovať</string>
+  <string name="power_center_power_save_summary_text">Predĺžiť ostávajúci čas o %1$dh %2$dm</string>
+  <string name="power_center_power_save_title_text">Šetrenie batérie</string>
+  <string name="power_center_super_save_summary_text">Predĺžiť ostávajúci čas o %1$dh %2$dm</string>
+  <string name="power_center_super_save_title_text">Super Šetrenie batérie</string>
+  <string name="power_dialog_super_save_msg">"Super Šetrenie batérie obmedzí funkcie ktoré najviac vplývajú na spotrebu a zníži výkon zariadenia pri zachovaní základných funkcií (napr. hovory, SMS a pripojenie k sieti). Chcete povoliť Super Šetrenie batérie?"</string>
+  <string name="power_dialog_super_save_title">Super Šetrenie batérie</string>
+  <string name="power_setting_background_app_save_summary">Obmedziť aktivitu aplikácií na pozadí bez obmedzenia funkcie</string>
+  <string name="power_setting_background_app_save_title">Šetrenie batérie na pozadí</string>
+  <string name="power_setting_category_other">Ďalšie nastavenia</string>
+  <string name="power_setting_power_save_summary_text">Optimalizovať nastavenia pre úsporu batérie</string>
+  <string name="power_setting_super_save_summary_text">Obmedziť čo najviac funkcie pre úsporu batérie</string>
+  <string name="power_settings_lock_screen_saver_title">Nastavenie zámku obrazovky</string>
+  <string name="quick_optimize_sub_battery_text">Ostáva %s</string>
+  <string name="quick_optimize_sub_summary_with_battery_text">Pridaných %1$s, ostáva %2$s</string>
+  <string name="user_guide">Potiahnite nahor pre viac hier</string>
+  <string name="user_guide_title">Joystick Picks</string>  
 </resources>

@@ -490,4 +490,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d apl. vybíjajú batériu</item>
         <item quantity="one">%d apl. vybíja batériu</item>
     </plurals>	
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ddní</item>
+        <item quantity="one">%s deň</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%smin</item>
+        <item quantity="one">%smin</item>
+    </plurals>	
 </resources>
