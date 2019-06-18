@@ -364,6 +364,6 @@
   <string name="activity_not_unlocked">Počkajte kým sa načítajú všetky procesy pred spustením aplikácie</string>
   <string name="shake_to_align_icons">Potrasením usporiadať ikony</string>
   <string name="shake_to_align_icons_summary">Potraste zariadením počas úpravy plochy pre vyplnenie prázdnych budniek</string>
-  <string name="shake_to_align_icons_title">Potrasením zaplňte prázdne bunky</string>
+  <string name="shake_to_align_icons_title">Potrasením zaplniť prázdne bunky</string>
   <string name="system_shortcuts_more_operation">Info o aplikácií</string>
 </resources>
