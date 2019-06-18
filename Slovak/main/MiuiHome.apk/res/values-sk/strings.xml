@@ -361,4 +361,9 @@
   <string name="announce_for_search_bar">Vyhľadávanie</string>
   <string name="privacy_thumbnail_blur_summary">Rozmazať náhľady v nedávnych apl.</string>
   <string name="privacy_thumbnail_blur_title">Rozmazať náhľady</string>  
+  <string name="activity_not_unlocked">Počkajte kým sa načítajú všetky procesy pred spustením aplikácie</string>
+  <string name="shake_to_align_icons">Potrasením usporiadať ikony</string>
+  <string name="shake_to_align_icons_summary">Potraste zariadením počas úpravy plochy pre vyplnenie prázdnych budniek</string>
+  <string name="shake_to_align_icons_title">Potrasením zaplňte prázdne bunky</string>
+  <string name="system_shortcuts_more_operation">Info o aplikácií</string>
 </resources>

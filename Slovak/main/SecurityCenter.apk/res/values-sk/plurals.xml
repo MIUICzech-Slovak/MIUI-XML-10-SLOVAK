@@ -502,4 +502,40 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%smin</item>
         <item quantity="one">%smin</item>
     </plurals>	
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">Ostáva %s dní</item>
+        <item quantity="one">Ostáva %s deň</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Ostáva %sh</item>
+        <item quantity="one">Ostáva %sh</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Ostáva %smin</item>
+        <item quantity="one">Ostáva %smin</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Ostáva %s dní</item>
+        <item quantity="one">Ostáva %s dní</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">Ostáva %sh</item>
+        <item quantity="one">Ostáva %sh</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">Ostáva %smin</item>
+        <item quantity="one">Ostáva %smin</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">Do plného nabitia ostáva %s dní</item>
+        <item quantity="one">Do plného nabitia ostáva %s deň</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">Do plného nabitia ostáva %sh</item>
+        <item quantity="one">Do plného nabitia ostáva %sh</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">Do plného nabitia ostáva %smin</item>
+        <item quantity="one">Do plného nabitia ostáva %smin</item>
+    </plurals>	
 </resources>

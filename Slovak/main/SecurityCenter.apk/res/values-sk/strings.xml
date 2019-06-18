@@ -3198,4 +3198,19 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="quick_optimize_sub_summary_with_battery_text">Pridaných %1$s, ostáva %2$s</string>
   <string name="user_guide">Potiahnite nahor pre viac hier</string>
   <string name="user_guide_title">Joystick Picks</string>  
+  <string name="button_dark_mode">Opraviť</string>
+  <string name="pc_main_battery_text_day">Pridaných %1$smin, ostáva %2$sd</string>
+  <string name="pc_main_battery_text_day_hour">Pridaných %1$smin, ostáva %2$sd %3$sh</string>
+  <string name="pc_main_battery_text_hour">Pridaných %1$smin, ostáva %2$sh</string>
+  <string name="pc_main_battery_text_hour_minute">Pridaných %1$smin, ostáva %2$sh %3$smin</string>
+  <string name="pc_main_battery_text_minute">Pridaných %1$smin, ostáva %2$smin</string>
+  <string name="pc_main_power_manager_day_hour">%1$sd %2$sh do plného nabitia</string>
+  <string name="pc_main_power_manager_hour_minute">%1$sh %2$smin do plného nabitia</string>
+  <string name="pc_main_sub_battery_text_day_hour">Ostáva %1$sd %2$sh</string>
+  <string name="pc_main_sub_battery_text_hour_minute">Ostáva %1$sh %2$smin</string>
+  <string name="power_main_battery_last_day_hour">Ostáva %1$sd %2$sh</string>
+  <string name="power_main_battery_last_hour_minute">Ostáva %1$sh %2$smin</string>
+  <string name="summary_dark_mode">Niektoré stránky sú zobrazené s tmavým pozadím</string>
+  <string name="title_dark_mode">Niektoré položky nie sú zobrazené správne"</string>
+  <string name="toast_dark_mode_fixed">Opravené.</string>
 </resources>

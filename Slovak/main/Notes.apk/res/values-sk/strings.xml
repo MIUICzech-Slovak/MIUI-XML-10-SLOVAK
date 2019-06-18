@@ -141,7 +141,7 @@
   <string name="permdesc_accessNote">Škodlivé aplikácie to môžu využiť na prístup k vašim súkromným dátam.</string>
   <string name="permlab_accessNote">Prístup k poznámkam</string>
   <string name="pref_desc_alarm_when_silent">Budík a upozornenia budú zvoniť aj v tichom režime</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">Nezobrazovať potvrdenie o vymazaní pri použití gesta</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Potiahnite nahor dvoma prstami pre vymazanie poznámky</string>
   <string name="pref_title_alarm_when_silent">Budík v tichom režime</string>
   <string name="pref_title_cloud_trash_bin">Vymazať poznámky z MiCloud</string>
   <string name="pref_title_common">Časté nastavenia</string>
@@ -149,7 +149,7 @@
   <string name="pref_title_note_style">Typ poznámky</string>
   <string name="pref_title_recover_help">Obnoviť poznámky</string>
   <string name="pref_title_show_root_folder_in_homepage">Zobraziť iba rýchle poznámky na prvej strane</string>
-  <string name="pref_title_skip_confirm_for_quick_delete">Rýchle vymazanie</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Vymazať gestom</string>
   <string name="privacy_hint">Súkromie</string>
   <string name="privacy_notes_fragment_title">Ukryté poznámky</string>
   <string name="recover_notes_hint">Boli zistené chyby poznámok， skúste ich obnoviť na i.mi.com</string>
@@ -287,4 +287,5 @@ Povoľte aplikácií Poznámky prístup k úložisku."</string>
 Povoľte aplikácií Poznámky prístup k zoznamu hovorov."</string>
   <string name="toast_refuse_to_use_record_audio">"Povolenie prístupu k mikrofónu je zakázané.
 Povoľte aplikácií Poznámky prístup k mikrofónu."</string>  
+  <string name="toast_pic_is_not_really">Ukladanie obrázka...</string>
 </resources>
