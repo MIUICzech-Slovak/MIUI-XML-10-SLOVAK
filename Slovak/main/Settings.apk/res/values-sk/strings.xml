@@ -5858,4 +5858,6 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="usage_app_system_app_summary">Nie je možné obmedziť zobrazenie pre systémové aplikácie</string>
   <string name="usage_app_weekday_limit">Pracovné dni</string>
   <string name="usage_app_weekend_limit">Víkendy</string>  
+  <string name="popup_gesture_summary">Zdvihnite telefón a pozrite sa na obrazovku pre otvorenie prednej kamery automaticky</string>
+  <string name="popup_gesture_title">Zdvihnutím otvoriť prednú kameru</string>  
 </resources>
