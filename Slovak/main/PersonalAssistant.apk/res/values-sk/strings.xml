@@ -125,12 +125,9 @@
   <string name="detail_action_report_format_problem">The format is invalid</string>
   <string name="detail_action_settings">Open Settings</string>
   <string name="detail_action_share">Share</string>
-  <string name="detail_title">Favorites</string>
   <string name="dialog_cancel_like">Deleted mark successfully</string>
   <string name="dialog_delete_cancel">Cancel</string>
   <string name="dialog_delete_delete">Delete</string>
-  <string name="dialog_delete_desc">Remove from favorites?</string>
-  <string name="dialog_delete_title">Remove from favorites</string>
   <string name="dialog_font_background">Background</string>
   <string name="dialog_font_light">Brightness</string>
   <string name="dialog_mark_like">Marked as important</string>
@@ -153,7 +150,6 @@
   <string name="empty_health_card_tip">Nainštalujte MiFit a spárujte MiBand</string>
   <string name="empty_health_card_tip_vip">Nainštalujte MiFit</string>
   <string name="entrance">Card shortcuts</string>
-  <string name="error_share_not_support">Such items arent supported in favorites.</string>
   <string name="exercise_setting_brief">Merajte prejdenú vzdialenosť a počet krokov</string>
   <string name="exercise_setting_misport_detail">Merajte prejdenú vzdialenosť a počet krokov (Povoľte MiFit autoštart v Optimalizácia - Povolenia).</string>
   <string name="focus">Follow status</string>
@@ -228,7 +224,6 @@
   <string name="not_installed">Nenainštalované</string>
   <string name="note_name">Vytvoriť poznámku</string>
   <string name="note_parent">Poznámky</string>
-  <string name="notification_title">Added to favorites</string>
   <string name="notification_title_fail">"Couldn't add payment"</string>
   <string name="notification_title_success">Added payment successfully</string>
   <string name="opened">Zap</string>
@@ -265,12 +260,9 @@
   <string name="search_category_article">Articles</string>
   <string name="search_category_shopping">Shopping</string>
   <string name="search_category_video">Videos</string>
-  <string name="search_hint">Search in favorites</string>
   <string name="search_label">Searching…</string>
-  <string name="search_setting_description">Titles in favorites</string>
   <string name="search_tip">Searching…</string>
   <string name="security">Optimalizácia</string>
-  <string name="send_action_title">Add to favorites</string>
   <string name="service_unavailiable">Checknetwork connection and try again</string>
   <string name="setting_address">Add frequent places</string>
   <string name="setting_btn_add">Pridať</string>
@@ -286,14 +278,6 @@
   <string name="setting_didi_always_sdk">Always use DiDi client</string>
   <string name="setting_didi_default_way">Default taxi route</string>
   <string name="setting_disable">Off</string>
-  <string name="setting_fav_authorize">Allow access to all favorites on your device</string>
-  <string name="setting_fav_notification">Notify every time something is added to favorites</string>
-  <string name="setting_fav_remove_content">The card will be deleted after you restrict access to favorites. Restrict anyway?</string>
-  <string name="setting_fav_remove_neg">Cancel</string>
-  <string name="setting_fav_remove_posi">Restrict</string>
-  <string name="setting_fav_remove_title">Restrict</string>
-  <string name="setting_fav_remove_toast_disable">Access to favorites is on</string>
-  <string name="setting_fav_remove_toast_enable">Access to favorites is off</string>
   <string name="setting_football_brief">All the info about your favorite teams</string>
   <string name="setting_football_brief_detail">View info, learn results, and follow up to 4 football teams.</string>
   <string name="setting_football_data">Data is provided by</string>
@@ -325,8 +309,6 @@
   <string name="setting_switch_toast_close">"Payments aren't recorded"</string>
   <string name="setting_switch_toast_open">Payments are recorded</string>
   <string name="settings">Nastavenia</string>
-  <string name="settings_subtitle">Receive notifications after you add something to favorites</string>
-  <string name="settings_title">Notify about adding to favorites</string>
   <string name="share_title">Share URL using</string>
   <string name="shortcut">Shortcuts</string>
   <string name="sport_open">Show Mi Fit card</string>
@@ -346,7 +328,6 @@
   <string name="steps_vip">Krokomer</string>
   <string name="steps_vip_des">Počítať kroky pomocou senzoru v telefóne</string>
   <string name="study_parent">Rozpoznať</string>
-  <string name="time_just_now">Just now</string>
   <string name="time_month">dd.MM</string>
   <string name="time_year">dd.MM.yyyy</string>
   <string name="toast_function_add_not_allowed">You can add up to 10 shortcuts</string>
@@ -396,7 +377,6 @@
   <string name="cta_dialog_text_all">Používaním Asistena súhlasíte s %1$s\"Podmienkami používania\" %2$s a %3$s \"Ochranou súkromia\" %4$s.</string>
   <string name="login_dialog_title">Synchronizácia</string>
   <string name="login_dialog_body">Povoľte synchronizáciu s MiCloud pre zálohovanie vašich nastavení Asistenta.</string>
-  <string name="notification_channel_default_description">Ostatné upozornenia</string>
   <string name="clock_alarm">Budík</string>
   <string name="clock_parent">Hodiny</string>
   <string name="google_assistant">Asistent</string>
