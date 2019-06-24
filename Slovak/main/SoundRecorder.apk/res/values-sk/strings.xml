@@ -164,4 +164,10 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="shortcut_records">Nahrávky</string>
   <string name="shortcut_start_record">Nahrávať</string>
   <string name="shortcut_stop_record">Ukončiť</string>
+  <string name="text_btn_backward_3_seconds">3s späť</string>
+  <string name="text_btn_forward_3_seconds">3s späť</string>
+  <string name="text_play_speed_0_5">0.5X rýchlosť prehrávania</string>
+  <string name="text_play_speed_1_0">Normálna rýchlosť prehrávania</string>
+  <string name="text_play_speed_1_5">1.5X rýchlosť prehrávania</string>
+  <string name="text_play_speed_2_0">2X rýchlosť prehrávania</string>  
 </resources>

@@ -3213,4 +3213,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="summary_dark_mode">Niektoré stránky sú zobrazené s tmavým pozadím</string>
   <string name="title_dark_mode">Niektoré položky nie sú zobrazené správne"</string>
   <string name="toast_dark_mode_fixed">Opravené.</string>
+  <string name="delete_all_sms">Vymazať všetko</string>
+  <string name="sms_delete_all_hint">Vymazať všetky správy?</string>
 </resources>

@@ -191,8 +191,8 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="radio_button_icon_switch_title">Použiť skratky</string>
   <string name="radio_button_password_switch_title">Použiť heslo</string>
   <string name="removeSuccess">Vymazané</string>
-  <string name="remove_button">Vymazať a reštartovať</string>
-  <string name="remove_button_time">Vymazať a reštartovať (%ds)</string>
+  <string name="remove_button">Vymazať</string>
+  <string name="remove_button_time">Vymazať (%ds)</string>
   <string name="remove_second_space_msg">Všetky dáta profilu budú vymazané bez možnosti ich obnovenia. Chcete pokračovať?</string>
   <string name="remove_user_click_message">"*Ak nemáte nič dôležité v Druhom profile, %s"</string>
   <string name="remove_user_click_message_action">môžete vymazať Druhý profil a reštartovať vaše zariadenie.</string>
@@ -386,4 +386,12 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="dual_animation_description">Zobraziť animáciu pri otváraní klonovanej aplikácie</string>  
   <string name="close_kid_space_success">Vymazaný Detský profil</string>
   <string name="kid_mode_label">Detský profil</string>
+  <string name="facebook_login">Prihlásiť cez Facebook</string>
+  <string name="facebook_send">Zdieľať na Facebook</string>
+  <string name="instagram_send">Zdieľať na Instagram</string>
+  <string name="use_google_open">Prebudiť použitím Google Asistenta</string>
+  <string name="whatsapp_send">Zdieľať na WhatsApp</string>
+  <string name="xspace_facebook_title">Facebook</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

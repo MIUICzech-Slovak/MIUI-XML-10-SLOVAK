@@ -581,4 +581,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="common_signin_button_text_long">Prihlásiť sa s Google</string>  
   <string name="passport_wx_bind_account_limit">Nebolo možné vytvoriť účet. Skúste sa prihlásiť iným spôsobom.</string>
   <string name="search_menu_title">Vyhľadať</string>
+  <string name="bind_google">Pripojte svoj Google účet</string>
 </resources>

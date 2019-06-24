@@ -61,4 +61,6 @@ Vaše dáta nebudú vymazané."</string>
   <string name="channel_downloading">Priebeh sťahovania</string>
   <string name="channel_update">Dostupná nová verzia MIUI</string>
   <string name="dialog_twrp">Vaše interné úložisko je zašifrované. Po reštarte do TWRP, zadajte vaše heslo na odomknutie zariadenia pre dešifrovanie úložiska.</string>
+  <string name="default_filedownloader_notification_content">Prebieha sťahovanie aktualizácie...</string>
+  <string name="default_filedownloader_notification_title">Nová verzia MIUI</string>  
 </resources>
