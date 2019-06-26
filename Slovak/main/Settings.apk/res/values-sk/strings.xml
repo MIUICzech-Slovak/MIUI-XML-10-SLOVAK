@@ -5878,4 +5878,5 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="dangerous_option_hint">\"%1$s\" je povolené. Dotykom zmeníte nastavenia.</string>
   <string name="dangerous_option_hint_title">Nebezpečná funkcia povolená</string>
   <string name="dangerous_option_switch_title">Upozorniť na nebezpečné funkcie</string>  
+  <string name="gesture_c">Gesto C</string>
 </resources>
