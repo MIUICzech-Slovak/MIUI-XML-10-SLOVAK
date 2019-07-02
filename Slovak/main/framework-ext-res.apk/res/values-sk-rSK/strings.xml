@@ -193,4 +193,8 @@
   <string name="stop_operate_camera_frequently">Prepínate medzi kamera príliš rýchlo.</string>
   <string name="takeback_camera_front_failed">Nebolo možné zatvoriť prednú kameru.</string>
   <string name="voice_assistant_tips">Aktualizované na dlhé podržanie zapínania pre spustenie Asistenta</string>
+  <string name="autofill_save_message">Chcete povoliť MIUI ukladať vaše heslá?</string>
+  <string name="autofill_save_ok">Povoliť</string>
+  <string name="autofill_save_sub_message">Budete môcť spravovať uložené heslá v Nastavenia - Ďalšie nastavenia - Súkromie - Spravovať heslá.</string>
+  <string name="autofill_save_title">Ukladať heslá automaticky</string>
 </resources>

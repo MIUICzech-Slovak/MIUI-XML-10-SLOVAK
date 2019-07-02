@@ -8,12 +8,12 @@
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
         <item>Zobraziť obsah upozornení</item>
-        <item>Nezobrazovať upozornenia na Zamknutej obrazovke</item>
+        <item>Nezobrazovať upozornenia na zamknutej obrazovke</item>
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
         <item>Zobraziť obsah upozornení</item>
         <item>Zobraziť upozornenia, ale skryť obsah</item>
-        <item>Nezobrazovať upozornenia na Zamknutej obrazovke</item>
+        <item>Nezobrazovať upozornenia na zamknutej obrazovke</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>
