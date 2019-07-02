@@ -5910,4 +5910,5 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="unlock_mode_title">Zámok obrazovky</string>
   <string name="volume_launch_camera_summary">Dvojitým stlačením tlačidla hlasitosti spustiť Fotoaparát ak je uzamknutá obrazovka</string>
   <string name="wakeup_and_sleep_settings_category_name">Nastavenie zámku obrazovky</string>
+  <string name="disallow_lock_screen_summary">Povoľte upozornenia v \"Upozornenia aplikácie\"</string>
 </resources>

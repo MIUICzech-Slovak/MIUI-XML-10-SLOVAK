@@ -197,4 +197,8 @@
   <string name="autofill_save_ok">Povoliť</string>
   <string name="autofill_save_sub_message">Budete môcť spravovať uložené heslá v Nastavenia - Ďalšie nastavenia - Súkromie - Spravovať heslá.</string>
   <string name="autofill_save_title">Ukladať heslá automaticky</string>
+  <string name="popup_camera_cancel_popup">Zrušiť</string>
+  <string name="popup_camera_continue_popup">Otvoriť Fotoaparát</string>
+  <string name="popup_camera_hid_device_name">Black shark</string>
+  <string name="popup_camera_remove_hid_device">Zdá sa, že vaše zariadenie je pripojené k hernému ovládaču. Nie je možné vysunúť fotoaparát.</string>
 </resources>
