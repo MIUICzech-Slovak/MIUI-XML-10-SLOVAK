@@ -5913,4 +5913,6 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="disallow_lock_screen_summary">Povoľte upozornenia v \"Upozornenia aplikácie\"</string>
   <string name="manage_password">Spravovať heslá</string>
   <string name="manage_password_summary">Uložené heslá pre automatické dopĺňanie</string>
+  <string name="quick_settings_under_keyguard_summary">Povoliť prístup k roletke na zamknutej obrazovke</string>
+  <string name="quick_settings_under_keyguard_title">Prístup k prepínačom</string>
 </resources>
