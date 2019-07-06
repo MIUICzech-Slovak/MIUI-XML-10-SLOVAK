@@ -29,7 +29,6 @@
     <string name="off">Vypnuto</string>
     <string name="on">Zapnuto</string>
     <string name="show_badge_notifications">Značky oznámení</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_disable_float_notification">Plovoucí oznámení jsou zakázána</string>
     <string name="summary_disable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou zakázána</string>
     <string name="summary_disable_show_badge_notification">Značky oznámení jsou zakázány</string>
