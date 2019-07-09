@@ -3220,4 +3220,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gb_first_guide_handsfree_des">Prijať hovory na pozadí</string>
   <string name="gb_first_guide_shortcut_des">Odkaz na ploche pre Game Turbo bol vytvorený</string>
   <string name="gb_first_guide_title">Zvýšiť rýchlosť a výkon na systémovej úrovni</string>
+  <string name="battery_desc_ambient_display">Energia spotrebovaná Ambientným displejom</string>
+  <string name="power_ambient_display">Ambientný displej</string>
 </resources>

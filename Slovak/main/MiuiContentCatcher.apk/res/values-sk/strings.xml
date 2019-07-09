@@ -23,7 +23,7 @@
     <string name="autofill_hint_phone">Telefónne číslo</string>
     <string name="auth_fingerprint_title">Overte svoj odtlačok prsta</string>
     <string name="auth_fingerprint_content">Overte svoj odtlačok prsta pre prístup k uloženým heslám</string>
-    <string name="auth_fingerprint_content_message">Nebolo možné overiť odlačok prsta, skúste to znova.</string>
+    <string name="auth_fingerprint_content_message">Nebolo možné overiť odtlačok prsta, skúste to znova.</string>
     <string name="save_content_tip">"Tieto položky budú uložené: "</string>
     <string name="autofill_list_title">Spravovať heslá</string>
     <string name="autofill_password">Zadať heslá automaticky</string>

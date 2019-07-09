@@ -5622,12 +5622,12 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="none">Žiadne</string>
   <string name="notifi_channels">Kategórie upozornení</string>
   <string name="notifi_channels_other">Ostatné</string>
-  <string name="notifi_importance_default">Prehrať zvuk a zobraziť na zamykacej obrazovke.</string>
-  <string name="notifi_importance_high">Prehrať zvuk a zobraziť na zamykacej obrazovke, povoliť na celej obrazovke.</string>
+  <string name="notifi_importance_default">Prehrať zvuk</string>
+  <string name="notifi_importance_high">Prehrať zvuk a zobraziť.</string>
   <string name="notifi_importance_low">Neprehrať zvuk.</string>
-  <string name="notifi_importance_min">Nezobrazovať na zamknutej obrazovke a neprehrať zvuk</string>
-  <string name="notifi_importance_none">Vypnuté</string>
-  <string name="notifi_importance_unspecified">Ponechať na aplikácií</string>
+  <string name="notifi_importance_min">Neprehrať zvuk a minimalizovať</string>
+  <string name="notifi_importance_none">Žiadne upozornenia</string>
+  <string name="notifi_importance_unspecified">Prehrať zvuk</string>
   <string name="notifi_no_channels">Táto aplikácia nemá žiadne upozornenia</string>
   <string name="notification_fold_description1">Táto funkcia filtruje nedôležité upozornenia a zobrazuje ich v samostatnej zložke.</string>
   <string name="notification_fold_description2">MIUI si bude pamätať ktoré upozornenia ste otvorili a podľa toho určí či sú pre vás dôležité.</string>
@@ -5870,7 +5870,7 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="miui_lab_3d_gesture_slogan">Urobte gesto s telefónom pre otvorenie aplikácie</string>
   <string name="miui_lab_3d_gesture_summary">Urobte gesto s telefónom pre otvorenie aplikácie</string>
   <string name="miui_lab_3d_gesture_title">3D gestá</string>
-  <string name="miui_lab_home_feed_desc">Pribehy</string>
+  <string name="miui_lab_home_feed_desc">Príbehy</string>
   <string name="miui_lab_home_feed_title">Mediálne Centrum</string>
   <string name="support_gesture_title">3D vzory</string>
   <string name="dangerous_option">Nebezpečné vývojárske nastavenia</string>
@@ -5914,4 +5914,11 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="manage_password_summary">Uložené heslá pre automatické dopĺňanie</string>
   <string name="quick_settings_under_keyguard_summary">Povoliť prístup k roletke na zamknutej obrazovke</string>
   <string name="quick_settings_under_keyguard_title">Prístup k prepínačom</string>
+  <string name="gesture_wakeup_summary">Táto funkcia funguje len s Predvolenou témou</string>
+  <string name="gesture_wakeup_title">Prebudiť alebo uspať displej dvojitým poklepaním</string>
+  <string name="notch_style_mod_description">Nastavenie výrezu</string>
+  <string name="notch_style_mod_title">Skryť výrez</string>
+  <string name="notch_style_show">Neskrývať</string>
+  <string name="notch_style_status_bar_inside">Skryť bez posunutia lišty</string>
+  <string name="notch_style_status_bar_outside">Skryť a posunúť lištu</string>  
 </resources>

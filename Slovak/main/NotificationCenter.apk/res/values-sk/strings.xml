@@ -29,7 +29,7 @@
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Vyp.</string>
     <string name="on">Zap.</string>
-    <string name="settings_guide_title">Hĺadáte ďalšie nastavenia?</string>
+    <string name="settings_guide_title">Hľadáte ďalšie nastavenia?</string>
     <string name="status_bar_setting">Lišta upozornení</string>
     <string name="show_badge_notifications">Bubliny</string>
     <string name="summary_disable_float_notification">Plávajúce upozornenia nie sú povolené</string>
@@ -41,4 +41,5 @@
     <string name="summary_float_enable_notification_first">Pre zobrazovanie plávajúcich upozornení najskôr povoľte upozornenia</string>
     <string name="summary_lock_screen_enable_notification_first">Pre zobrazovanie upozornení na Zamknutej obrazovke najskôr povoľte upozornenia</string>
     <string name="summary_show_badge_enable_notification_first">Pre zapnutie bublín upozornení najskôr povoľte upozornenia</string>
+	<string name="expand_top_notification">Rozbaliť prvé upozornenie</string>
 </resources>

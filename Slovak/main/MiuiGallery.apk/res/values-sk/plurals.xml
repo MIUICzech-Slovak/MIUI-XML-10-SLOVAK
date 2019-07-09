@@ -485,4 +485,8 @@
         <item quantity="other">Vymazať dávkové snímanie (%d) z tohto zariadenia?</item>
         <item quantity="one">Vymazať dávkové snímanie (%d) z tohto zariadenia?</item>
     </plurals>		
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+    </plurals>	
 </resources>

@@ -300,4 +300,26 @@
   <string name="HIPS_Perm_UDevice_ID_DESC">Zdieľať časť informácií o vašom zariadení s vývojármi hier pre ich lepšiu optimalizáciu. Súhlasíte?</string>  
   <string name="HIPS_Perm_deamon_notification">Permanentné upozornenie</string>
   <string name="HIPS_Perm_deamon_notification_Desc">zobraziť permanentné upozornenie</string>  
+  <string name="background_location_access_reminder_notification_content">Táto aplikácia má vždy prístup k vašej polohe. Zmeníte dotykom.</string>
+  <string name="background_location_access_reminder_notification_title">%s používala vašu polohu</string>
+  <string name="grant_dialog_button_allow_always">Vždy povoliť</string>
+  <string name="grant_dialog_button_allow_background">Vždy povoliť</string>
+  <string name="grant_dialog_button_allow_foreground">Povoliť len ak sa apl. používa</string>
+  <string name="grant_dialog_button_deny_and_dont_ask_again">Zakázať a nepýtať sa</string>
+  <string name="grant_dialog_button_deny_background">Ponechať prístup počas používania</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Ponechať a nepýtať sa</string>
+  <string name="permgrouprequest_storage_isolated">Povoliť %1$s prístup k fotografiám a médiám v zariadení?</string>
+  <string name="permission_description_summary_activity_recognition">Aplikácia s týmto povolením môže pristupovať k vašej fyzickej aktivite ako chôdza, beh, počet krokov, atď.</string>
+  <string name="permission_description_summary_calendar">Aplikácia s týmto povolením môže pristupovať k vášmu kalendáru</string>
+  <string name="permission_description_summary_call_log">Aplikácia s týmto povolením môže upravovať históriu hovorov</string>
+  <string name="permission_description_summary_camera">Aplikácia s týmto povolením môže zhotoviť fotografiu alebo video</string>
+  <string name="permission_description_summary_contacts">Aplikácia s týmto povolením môže čítať vaše kontakty</string>
+  <string name="permission_description_summary_generic">Aplikácia s týmto povolením môže %1$s</string>
+  <string name="permission_description_summary_location">Aplikácia s týmto povolením môže pristupovať k vašej polohe</string>
+  <string name="permission_description_summary_microphone">Aplikácia s týmto povolením môže nahrávať zvuk</string>
+  <string name="permission_description_summary_phone">Aplikácia s týmto povolením môže uskutočniť hovor</string>
+  <string name="permission_description_summary_sensors">Aplikácia s týmto povolením môže pristupovať k údajom o vašej aktivite</string>
+  <string name="permission_description_summary_sms">Aplikácia s týmto povolením môže odoslať SMS</string>
+  <string name="permission_description_summary_storage">Aplikácia s týmto povolením môže pristupovať k vašim fotografiám a médiám v zariadení</string>
+  <string name="permission_reminders">Upozornenie na povolenia</string>
 </resources>

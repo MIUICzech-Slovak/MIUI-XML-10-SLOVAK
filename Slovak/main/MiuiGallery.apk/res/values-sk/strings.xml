@@ -1648,4 +1648,7 @@
   <string name="special_type_night_mode">AI nočný režim</string>
   <string name="special_type_portrait">AI kreslenie na portrét svetlom</string>
   <string name="special_type_wide_angle">AI ultra-široký uhol</string>
+  <string name="assistant_page_discovery">Objavujte</string>
+  <string name="assistant_page_server_error">Skontrolujte nastavenie siete</string>
+  <string name="movie_customer_unsupport_audio_file">Nepodporovaný audio súbor</string>
 </resources>
