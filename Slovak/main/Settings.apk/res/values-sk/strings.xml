@@ -5921,4 +5921,7 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="notch_style_show">Neskrývať</string>
   <string name="notch_style_status_bar_inside">Skryť bez posunutia lišty</string>
   <string name="notch_style_status_bar_outside">Skryť a posunúť lištu</string>  
+  <string name="lock_screen_settings_title">Zámok obrazovky</string>
+  <string name="xiaomi_cloud_service_description_contact">kontakty a</string>
+  <string name="xiaomi_cloud_service_description_format">MiCloud synchronizuje vaše %s fotografie a zálohuje vaše aplikácie a nastavenia.</string>  
 </resources>
