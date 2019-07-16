@@ -5924,4 +5924,6 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="lock_screen_settings_title">Zámok obrazovky</string>
   <string name="xiaomi_cloud_service_description_contact">kontakty a</string>
   <string name="xiaomi_cloud_service_description_format">MiCloud synchronizuje vaše %s fotografie a zálohuje vaše aplikácie a nastavenia.</string>  
+  <string name="privacy_password_settings_summary">Heslo ochrany súkromia slúži na zabezpečenie aplikácií ktoré obsahujú citlivé dáta</string>  
+  <string name="credentials_title_verification">Certifikácia</string>
 </resources>

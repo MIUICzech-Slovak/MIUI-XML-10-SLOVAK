@@ -72,4 +72,8 @@
         <item quantity="other">%ddni</item>
         <item quantity="one">%ddeň</item>
     </plurals>	
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Zmenený interval na %d min.</item>
+        <item quantity="one">Zmenený interval na %d min.</item>
+    </plurals>	
 </resources>

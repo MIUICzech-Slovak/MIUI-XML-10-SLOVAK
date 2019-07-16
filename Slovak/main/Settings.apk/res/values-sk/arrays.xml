@@ -983,7 +983,13 @@ Postupujte podľa pokynov"</item>
     </string-array>	
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafická</item>
-        <item>Percentá</item>
+        <item>Percentá (v ikone)</item>
+        <item>Percentá (vedľa ikony)</item>
+    </string-array>	
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Grafická</item>
+        <item>Percentá (v ikone)</item>
+        <item>Percentá (vedľa ikony v roletke)</item>
     </string-array>	
     <string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Vyhľadávanie</item>

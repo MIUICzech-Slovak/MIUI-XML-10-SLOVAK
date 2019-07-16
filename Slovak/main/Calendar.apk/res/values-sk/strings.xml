@@ -569,4 +569,8 @@
   <string name="preferences_popup_alert_smart_summary">MIUI bude automaticky rozpoznávať ktoré udalosti sú pre vás relevantné</string>
   <string name="preferences_popup_alert_smart_tips">Nahradiť bežné upozornenia vyskakovacím oknom aby ste nezmeškali dôležité udalosti.</string>
   <string name="preferences_popup_alert_title">Pop-up upozornenia</string>  
+  <string name="preferences_popup_alert_smart_summary_new">Časové udalosti sú udalosti s konkrétnym časom</string>
+  <string name="setting_desc_import_todo">Importovať naplánované úlohy z Poznámok</string>
+  <string name="setting_title_import_todo">Importovať úlohy</string>
+  <string name="todo_event">Nadchádzajúce úlohy</string>
 </resources>

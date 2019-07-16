@@ -201,4 +201,12 @@
   <string name="popup_camera_continue_popup">Otvoriť Fotoaparát</string>
   <string name="popup_camera_hid_device_name">Black shark</string>
   <string name="popup_camera_remove_hid_device">Zdá sa, že vaše zariadenie je pripojené k hernému ovládaču. Nie je možné vysunúť fotoaparát.</string>
+  <string name="content_description_dial">Hovor</string>
+  <string name="content_description_search">Vyhľadať</string>
+  <string name="content_description_share">Zdieľať</string>
+  <string name="content_description_translate">Preložiť</string>
+  <string name="content_description_web_url">Prehliadať</string>  
+  <string name="frequent_email">Email</string>
+  <string name="user_switching_dialog_switch_into_kid_space">Prepínanie do Detského profilu...</string>
+  <string name="user_switching_dialog_switch_out_kid_space">Ukončenie Detského profilu...</string>  
 </resources>

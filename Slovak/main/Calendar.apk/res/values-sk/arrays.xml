@@ -415,4 +415,9 @@
         <item>Pre všetky udalosti</item>
         <item>Pre relevantné udalosti</item>
     </string-array>	
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Vyp</item>
+        <item>Pre všetky udalosti</item>
+        <item>Pre časové udalosti</item>
+    </string-array>	
 </resources>

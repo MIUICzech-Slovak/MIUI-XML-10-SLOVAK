@@ -3222,4 +3222,44 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gb_first_guide_title">Zvýšiť rýchlosť a výkon na systémovej úrovni</string>
   <string name="battery_desc_ambient_display">Energia spotrebovaná Ambientným displejom</string>
   <string name="power_ambient_display">Ambientný displej</string>
+  <string name="system_permission_declare_agree">Súhlasím</string>
+  <string name="system_permission_declare_double_link">Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia pre používaním tejto funkcie.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Vitajte v %1s! Táto aplikácia vám umožní využívať tieto funkcie: %2s.</string>
+  <string name="system_permission_declare_no_say_no">Bez potvrdenia vášho súhlasu táto aplikácia nebude fungovať správne.</string>
+  <string name="system_permission_declare_privacy_declare">"Rešpektujeme a chránime vaše súkromie.
+Vedzte, še %1s vyžaduje nasledujúce povolenia:"</string>
+  <string name="system_permission_declare_revoke_path">Môžete odinštalovať túto aplikáciu, odhlásiť sa a spravovať povolenia v Optimalizácia - Spravovať aplikácie - Povolenia.</string>
+  <string name="system_permission_declare_use_network">Pripojenie k sieti</string>
+  <string name="system_permission_perm_answer_call">Uskutočniť hovory</string>
+  <string name="system_permission_perm_read_mms">Čítať MMS</string>
+  <string name="system_permission_perm_read_numbers">Čítať telefónne čísla</string>
+  <string name="system_permission_perm_send_mms">Odoslať MMS</string>  
+
+  <string name="superpower_dialog_button_disable_dialog">Viac nezobrazovať</string>
+  <string name="superpower_dialog_button_ok">OK</string>
+  <string name="superpower_dialog_massage">Ultra šetriaci režim obmedzí funkcie ktoré majú najväčšiu spotrebu batérie a zníži výkon zariadenia na základné funkcie (hovory, SMS, a pripojenie k sieti). Povoliť Ultra šetriaci režim?</string>
+  <string name="superpower_dialog_title">Ultra šetriaci režim</string>
+  <string name="superpower_notification_hint_enter">Povoliť</string>
+  <string name="superpower_notification_summary">Povoliť Ultra šetriaci režim</string>
+  <string name="superpower_notification_time_12">dd. MMMM, EEEE</string>
+  <string name="superpower_notification_time_24">dd. MMMM, EEEE</string>
+  <string name="superpower_notification_title">Ostáva menej ako 10% batérie</string>
+  <string name="superpower_progress_content">Povolenie Ultra šetriaceho režimu...</string>
+  <string name="superpower_progress_left_time">%1$dh %2$dm</string>
+  <string name="superpower_progress_switch_home">Prepínanie na Tmavú tému</string>
+  <string name="superpower_progress_title">Ostávajúci čas</string>
+  <string name="superpower_progress_turndown_brightness">Zníženie jasu displeja</string>
+  <string name="superpower_progress_turnoff_items">Obmedzenie náročných aktivít</string>
+  <string name="superpower_progress_turnoff_process">Obmedziť aktivity na pozadí</string>
+  <string name="superpower_savemode_limit1">tmavá téma</string>
+  <string name="superpower_savemode_limit2">Obmedziť aktivity na pozadí</string>
+  <string name="superpower_savemode_limit3">Obmedzenie náročných aktivít (synchr., GPS, vibrácie, Ambientný displej, atď.)</string>
+  <string name="superpower_savemode_limit4">Povoliť vybrané aplikácie aby fungovali normálne</string>
+  <string name="superpower_settings">Ultra šetriaci režim</string>
+  <string name="superpower_settins_autoenter_summary">Povoliť Ultra šetriaci režim automaticky ak je batéria pod 10%</string>
+  <string name="superpower_settins_autoenter_title">Povoliť automaticky</string>
+  <string name="superpower_settins_autoleave_summary">Povoliť Ultra šetriaci režim automaticky ak je batéria pod 50%</string>
+  <string name="superpower_settins_autoleave_title">Povoliť automaticky</string>
+  <string name="superpower_settins_other">Ďalšie nastavenia</string>
+  <string name="superpower_settins_switch_summary">Obmedziť funkcie ktoré majú najväčšiu spotrebu batérie a zníži výkon zariadenia na základné funkcie (e.g. hovory, SMS, a vybrané aplikácie)</string>  
 </resources>

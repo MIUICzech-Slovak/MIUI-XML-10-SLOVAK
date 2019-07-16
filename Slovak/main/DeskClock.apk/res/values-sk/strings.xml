@@ -254,4 +254,8 @@
   <string name="worldclock_resident_city_text">Druhé hodiny: %s</string>
   <string name="worldclock_resident_city_text_detail">Duálne hodiny sä povolené</string>
   <string name="worldcolock_date_display_prefix">"Súčasné: "</string>
+  <string name="module_update_success">Aktualizované zvuky pre inteligentný budík boli stiahnuté.</string>
+  <string name="module_update_success_control">Rozumiem</string>
+  <string name="no_alarm_setting">Žiadne budíky</string>
+  <string name="no_worldclock">Žiadne hodiny</string>  
 </resources>

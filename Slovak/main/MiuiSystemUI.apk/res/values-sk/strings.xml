@@ -2030,4 +2030,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="lock_screen_magazine_label">Otvoriť Dennú tapetu</string>
   <string name="long_screenshot_guide_text">"Dotknite sa
 pre dlhý screenshot"</string>
+  <string name="recents_dimiss_task">Vyčistiť</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">Počas vysielania nie je možné používať rozdelenú obrazovku</string>
+  <string name="recents_task_screening">Vysielanie</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Nie je možné prepínať medzi profilmi ak je aktivované Ultra šetrenie batérie</string>  
 </resources>
