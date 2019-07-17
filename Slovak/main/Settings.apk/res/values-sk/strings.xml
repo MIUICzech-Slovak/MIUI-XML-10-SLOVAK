@@ -5926,4 +5926,5 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="xiaomi_cloud_service_description_format">MiCloud synchronizuje vaše %s fotografie a zálohuje vaše aplikácie a nastavenia.</string>  
   <string name="privacy_password_settings_summary">Heslo ochrany súkromia slúži na zabezpečenie aplikácií ktoré obsahujú citlivé dáta</string>  
   <string name="credentials_title_verification">Certifikácia</string>
+  <string name="kid_space_settings">Detský profil</string>
 </resources>

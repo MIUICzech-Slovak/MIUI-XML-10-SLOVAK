@@ -3262,4 +3262,5 @@ Vedzte, še %1s vyžaduje nasledujúce povolenia:"</string>
   <string name="superpower_settins_autoleave_title">Povoliť automaticky</string>
   <string name="superpower_settins_other">Ďalšie nastavenia</string>
   <string name="superpower_settins_switch_summary">Obmedziť funkcie ktoré majú najväčšiu spotrebu batérie a zníži výkon zariadenia na základné funkcie (e.g. hovory, SMS, a vybrané aplikácie)</string>  
+  <string name="call_delete_all_hint">Vymazať všetky blokované hovory?</string>
 </resources>

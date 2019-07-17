@@ -263,4 +263,12 @@
         <item quantity="other">"min"</item>
         <item quantity="one">"min"</item>
     </plurals>	
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Môžete zadať maximálne %d znakov</item>
+        <item quantity="one">Môžete zadať maximálne %d znak</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Zadajte aspoň %d znakov</item>
+        <item quantity="one">Zadajte aspoň %d znak</item>
+    </plurals>	
 </resources>
