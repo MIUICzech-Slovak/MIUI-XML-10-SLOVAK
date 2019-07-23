@@ -3263,4 +3263,16 @@ Vedzte, še %1s vyžaduje nasledujúce povolenia:"</string>
   <string name="superpower_settins_other">Ďalšie nastavenia</string>
   <string name="superpower_settins_switch_summary">Obmedziť funkcie ktoré majú najväčšiu spotrebu batérie a zníži výkon zariadenia na základné funkcie (e.g. hovory, SMS, a vybrané aplikácie)</string>  
   <string name="call_delete_all_hint">Vymazať všetky blokované hovory?</string>
+  <string name="alert_back_milink_hangup_tips_content">Vysielanie nebude prerušené počas ukončenia hovoru.</string>
+  <string name="gamebox_milink">Vysielať</string>
+  <string name="other_milink_connect">Nie je možné vysielať. Niektorá aplikácia práve vysiela.</string>
+  <string name="stop_milink_connect">Vysielanie ukončené</string>
+  <string name="system_permission_declare_disagree">Nesúhlasím</string>
+  <string name="system_permission_declare_privacy_no_permission">"%1s potrebuje zhromažďovať vaše dáta pre jej správne fungovanie.
+Rešpektujeme a chránime vaše súkromie."</string>
+  <string name="system_permission_declare_privacy_policy">Pred používaním tejto funkcie musíte súhlasiť s našou Ochranou súkromia.</string>
+  <string name="system_permission_declare_revoke_system">Môžete ukončiť túto aplikáciu.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Môžete odinštalovať túto aplikáciu alebo spravovať oprávnenia v Optimalizácia &gt; Povolenia &gt; Ostatné povolenia.</string>
+  <string name="system_permission_declare_use_network_no_permission">Pripojiť k sieti</string>
+  <string name="system_permission_declare_user_agreement">Prečítajte si a odsúhlaste naše Podmienky používania.</string>  
 </resources>

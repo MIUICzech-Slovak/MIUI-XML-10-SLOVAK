@@ -5927,4 +5927,7 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="privacy_password_settings_summary">Heslo ochrany súkromia slúži na zabezpečenie aplikácií ktoré obsahujú citlivé dáta</string>  
   <string name="credentials_title_verification">Certifikácia</string>
   <string name="kid_space_settings">Detský profil</string>
+  <string name="bluetooth_disable_mi_fast_connect">Deaktivovať Mi Fast Connect</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Deaktivovať MiFast Connect funkciu</string>
+  <string name="gxzw_add_fingerprint_area">Senzor odtlačkov prstov</string>
 </resources>

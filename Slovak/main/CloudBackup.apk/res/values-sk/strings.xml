@@ -243,4 +243,5 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="restore_failed_reason_disk_space_not_enough">Nie je dostatok miesta na úložisku.</string>
   <string name="restore_failed_reason_network_error">Chyba siete. Skúste to znova neskôr.</string>
   <string name="restore_task_unfinished">Nebolo možné obnoviť</string>
+  <string name="restoring_data">Obnovenie dát...</string>
 </resources>
