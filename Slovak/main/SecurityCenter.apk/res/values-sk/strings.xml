@@ -3275,4 +3275,10 @@ Rešpektujeme a chránime vaše súkromie."</string>
   <string name="system_permission_declare_revoke_uninstallable">Môžete odinštalovať túto aplikáciu alebo spravovať oprávnenia v Optimalizácia &gt; Povolenia &gt; Ostatné povolenia.</string>
   <string name="system_permission_declare_use_network_no_permission">Pripojiť k sieti</string>
   <string name="system_permission_declare_user_agreement">Prečítajte si a odsúhlaste naše Podmienky používania.</string>  
+  <string name="privacy_apps_begin_use">Spustiť</string>
+  <string name="privacy_apps_button_know">Rozumiem</string>
+  <string name="privacy_apps_next_stup">Ďalej</string>
+  <string name="privacy_apps_shield_message_summary">Nezobrazovať upozornenia pre zabezpečené aplikácie</string>
+  <string name="privacy_apps_shield_message_title">Nezobrazovať upozornenia</string>
+  <string name="privacy_apps_tutorial_dlg_title">Ako nájsť skryté aplikácie</string>
 </resources>
