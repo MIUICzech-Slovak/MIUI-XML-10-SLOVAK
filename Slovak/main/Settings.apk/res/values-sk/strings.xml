@@ -5930,5 +5930,4 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="bluetooth_disable_mi_fast_connect">Deaktivovať Mi Fast Connect</string>
   <string name="bluetooth_disable_mi_fast_connect_summary">Deaktivovať MiFast Connect funkciu</string>
   <string name="gxzw_add_fingerprint_area">Senzor odtlačkov prstov</string>
-  <string name="kid_space_settings">Detský profil</string>
 </resources>
