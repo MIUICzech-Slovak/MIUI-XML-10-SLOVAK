@@ -513,4 +513,13 @@
   <string name="system_favorite_dialog_title_confirm">Vyžaduje povolenie</string>  
   <string name="just_now">Práve teraz</string>
   <string name="time_just_now">Práve teraz</string>
+  <string name="card_menu_remove">Odobrať</string>
+  <string name="preference_privacy_settings">Nastavenie súkromia</string>
+  <string name="setting_cancel_sticky">Odobrať</string>
+  <string name="setting_sticky">Pripúť</string>
+  <string name="setting_sticky_canceled">Odobrané</string>
+  <string name="setting_sticky_done">Pripnuté</string>
+  <string name="steps">krokov</string>
+  <string name="sport_headline">Dnešná aktivita</string>
+  <string name="timeline_headline">Nadchádzajúce</string>
 </resources>
