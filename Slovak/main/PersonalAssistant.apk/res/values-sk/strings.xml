@@ -516,7 +516,7 @@
   <string name="card_menu_remove">Odobrať</string>
   <string name="preference_privacy_settings">Nastavenie súkromia</string>
   <string name="setting_cancel_sticky">Odobrať</string>
-  <string name="setting_sticky">Pripúť</string>
+  <string name="setting_sticky">Pripnúť</string>
   <string name="setting_sticky_canceled">Odobrané</string>
   <string name="setting_sticky_done">Pripnuté</string>
   <string name="steps">krokov</string>
