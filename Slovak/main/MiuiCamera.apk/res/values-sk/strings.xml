@@ -789,4 +789,5 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="pref_camera_lying_title">Upozorniť na orientáciu</string>
   <string name="user_define_watermark_cancel">Zrušiť</string>
   <string name="user_define_watermark_save">Uložiť</string>
+  <string name="lying_direct_hint">Súčasná orientácia</string>
 </resources>
