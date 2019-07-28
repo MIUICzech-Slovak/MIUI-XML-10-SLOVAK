@@ -211,7 +211,7 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži t
   <string name="locale_not_translated">Nemusí byť k dispozícii v niektorých aplikáciách</string>
   <string name="locale_remove_menu">Odstrániť</string>
   <string name="location_off_summary">VYP.</string>
-  <string name="location_on_summary">ZAP. / %1$s</string>
+  <string name="location_on_summary">ZAP.</string>
   <string name="lock_profile_wipe_attempts">Skúste to znova. Pokus %1$d z %2$d.</string>
   <string name="lock_profile_wipe_content">Príliš veľa chybných pokusov. Váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
   <string name="lock_profile_wipe_dismiss">Odmietnuť</string>
