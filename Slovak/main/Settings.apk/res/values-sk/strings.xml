@@ -5531,7 +5531,6 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="keyguard_double_tap_to_sleep_title">Uspať dvojitým poklepaním</string>
   <string name="date_time_24hour_auto">Automatický 24-hodinový formát</string>
   <string name="date_time_24hour_auto_summary">Použiť predvolené nastavenie</string>  
-  <string name="handy_mode_tips_full_screen" />
   <string name="accessibility_summary_source">Poskytuje %s</string>
   <string name="accessibility_disable_animations">Vypnúť animácie</string>
   <string name="accessibility_vibration_settings_title">Vibrácie</string>
@@ -5932,4 +5931,5 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="gxzw_add_fingerprint_area">Senzor odtlačkov prstov</string>
   <string name="select_time_format_category_title">Formát času</string>
   <string name="select_time_format_title">Formát času</string>
+  <string name="handy_mode_tips_full_screen">Keď používate gestá na celú obrazovku, môžete cez Quick ball zapnúť Režim ovládania jednou rukou. Tiež môžete namiesto gest na celú obrazovku používať tlačidlá.</string>
 </resources>
