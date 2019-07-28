@@ -6,9 +6,6 @@ Veľkosť: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Predstavujeme verziu %1$s
 Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Úložisko nie je dostupné, skontrolujte SD kartu.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Nepodarilo sa spustiť stiahnutie. Ubezpečte sa, že Správca sťahovania funguje správne.</string>
     <string name="app_name">Záloha</string>
     <string name="local_app_name">Záloha</string>
@@ -230,7 +227,6 @@ Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="restore_backup">Obnoviť</string>
     <string name="enable_encrypt_description">Zašifrovať</string>
     <string name="disable_encrypt_description">Nezašifrovať</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Malý moment…</string>
     <string name="state_mounting">Prístup k úložisku routra…</string>
     <string name="abort_backup_confirm">Záloha nie je dokončená. Napriek tomu ukončiť?</string>
@@ -571,7 +567,6 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
  mali by ste si najskôr zálohovať iCloud."</string>
     <string name="list_footer_tip_title">Tipy:</string>
     <string name="import_tip_summary">V dôsledku problémov s kompatibilitou nie je možné prenášať všetky dáta z iOS zariadení. Pred spustením prenosu sa uistite, že ste vykonali zálohu iCloud.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importovať</string>
     <string name="select_empty">Vyberte položky k importovaniu</string>
     <string name="select_item_summary_wait">Čaká sa…</string>
