@@ -538,4 +538,20 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Do plného nabitia ostáva %smin</item>
         <item quantity="one">Do plného nabitia ostáva %smin</item>
     </plurals>	
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minút od posledného nabitia</item>
+        <item quantity="one">%d minúta od posledného nabitia</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d sekúnd od posledného nabitia</item>
+        <item quantity="one">%d seknda od posledného nabitia</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d min. ostáva</item>
+        <item quantity="one">%d min. ostáva</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d h ostáva</item>
+        <item quantity="one">%d h ostáva</item>
+    </plurals>
 </resources>

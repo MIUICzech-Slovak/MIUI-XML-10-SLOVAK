@@ -3281,4 +3281,17 @@ Rešpektujeme a chránime vaše súkromie."</string>
   <string name="privacy_apps_shield_message_summary">Nezobrazovať upozornenia pre zabezpečené aplikácie</string>
   <string name="privacy_apps_shield_message_title">Nezobrazovať upozornenia</string>
   <string name="privacy_apps_tutorial_dlg_title">Ako nájsť skryté aplikácie</string>
+  <string name="battery_statistics_activity_title">Spotreba batérie</string>
+  <string name="pc_battery_detail_curve_reference_now">Teraz</string>
+  <string name="pc_battery_detail_device_item_title">Spotreba batérie</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Podrobnosti</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Hodnotenie</string>
+  <string name="pc_battery_history_rank_mha_menu_item">miliampére za hodinu</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Percentá</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm ostáva</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm od nabitia</string>
+  <string name="pc_statistics_battery_use_summary">%s od posledného nabitia</string>
+  <string name="pc_statistics_battery_use_title">Spotreba batérie</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Bez potrebných povolení nebude táto aplikácia správne fungovať.</string>
+  <string name="traffic_setting_fragment_default">Vybrať</string>
 </resources>
