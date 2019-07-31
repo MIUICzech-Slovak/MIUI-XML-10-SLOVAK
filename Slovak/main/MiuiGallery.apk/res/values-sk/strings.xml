@@ -1651,7 +1651,6 @@
   <string name="assistant_page_discovery">Objavujte</string>
   <string name="assistant_page_server_error">Skontrolujte nastavenie siete</string>
   <string name="movie_customer_unsupport_audio_file">Nepodporovaný audio súbor</string>
-  <string name="set_as_baby_lock_wallpaper">Nastaviť ako tapetu zámku obrazovky</string>
   <string name="screen_editor_delete_dialog_msg">Vymazať tento screenshot?</string>
   <string name="screen_editor_btn_delete">Vymazať</string>
   <string name="screen_editor_btn_save">Uložiť</string>
@@ -1660,12 +1659,6 @@
   <string name="datetimepicker_dialog_title">Zmeniť čas</string>
   <string name="datetimepicker_updatetime_failed">Nebolo možné zmeniť čas</string>
   <string name="datetimepicker_updatetime_success">Čas je zmenený</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Zmeniť na predvolenú tapetu zámku obrazovky?</string>
-  <string name="baby_lock_wallpaper">Tapeta zámku obrazovky</string>
-  <string name="baby_lock_wallpaper_cancelled">Zmenené na predvolenú tapetu zámku obrazovky</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">Použiť súčasné nastavenia?</string>
-  <string name="baby_lock_wallpaper_title">Použiť fotografie dieťaťa ako tapetu zámku obrazovky</string>
-  <string name="apply">Použiť</string>
   <string name="filter_single_sky">Obloha</string>
   <string name="friday">Piatok</string>
   <string name="friday_short">Pia</string>
