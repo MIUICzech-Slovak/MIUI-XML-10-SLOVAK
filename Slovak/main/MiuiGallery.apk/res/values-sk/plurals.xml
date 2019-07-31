@@ -489,4 +489,64 @@
         <item quantity="other">%1$ds</item>
         <item quantity="one">%1$ds</item>
     </plurals>	
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">O 1 hodinu</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">O pol hodinu</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Ihneď</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">o %d min.</item>
+        <item quantity="one">o 1 minútu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d min.</item>
+        <item quantity="one">pred 1 min.</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">Vymazaných %d položiek</item>
+        <item quantity="one">Vymazaná %d položka</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Vymazať %d fotografií</item>
+        <item quantity="one">Vymazať %d fotografia</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred polhodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">O 1 hodinu</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">O polhodinu</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Ihneď</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">o %d min.</item>
+        <item quantity="one">o 1 min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min.</item>
+        <item quantity="one">pred 1 min.</item>
+    </plurals>
 </resources>

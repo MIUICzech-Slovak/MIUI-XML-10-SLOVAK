@@ -395,4 +395,18 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
   <string name="can_not_switch_when_super_power_active">Nie je možné prepínať medzi profilmi ak je aktivované Ultra šetrenie batérie</string>  
+  <string name="app_select_title">Pridajte často používané aplikácie</string>
+  <string name="superpower_app_add">Pridať</string>
+  <string name="superpower_app_finish">Hotovo</string>
+  <string name="superpower_battery_dangerous">Čo najskôr pripojte nabíjačku</string>
+  <string name="superpower_date">dd.MMMM EEEE</string>
+  <string name="superpower_dialog_app_select_content">Doinštalované aplikácie bežne spotrebujú viac batérie ako systémové aplikácie. Aj tak ich chcete pridať?</string>
+  <string name="superpower_dialog_app_select_title">Upozornenie</string>
+  <string name="superpower_incharging">Nabíjanie</string>
+  <string name="superpower_progress_battery_last">%s ostáva</string>
+  <string name="superpower_search_hint">Hľadať aplikácie</string>
+  <string name="superpower_select_app_title">Rozloženie plochy</string>
+  <string name="superpower_settings">Ultra šetrič batérie</string>
+  <string name="superpower_system">Odporúčané</string>
+  <string name="superpower_third">Doinštalované aplikácie</string>
 </resources>

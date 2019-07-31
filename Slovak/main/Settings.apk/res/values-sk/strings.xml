@@ -5933,4 +5933,8 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="select_time_format_title">Formát času</string>
   <string name="handy_mode_tips_full_screen">Keď používate gestá na celú obrazovku, môžete cez Quick ball zapnúť Režim ovládania jednou rukou. Tiež môžete namiesto gest na celú obrazovku používať tlačidlá.</string>
   <string name="status_bar_settings_show_weather">Zobraziť informácie o počasí v roletke</string>
+  <string name="color_led_charging_summary">Bude vypnutá keď sa batéria nabije</string>
+  <string name="color_led_game_mode_summary">Zobraziť efekty pre hry počas Zrýchlenia hier</string>
+  <string name="color_led_special_scene_title">Špeciálne efekty</string>
+  <string name="color_led_summary">Nefunguje počas režimu Nerušiť</string>
 </resources>
