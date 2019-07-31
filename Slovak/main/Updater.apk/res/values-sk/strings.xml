@@ -6,7 +6,8 @@
   <string name="btn_changelog">Zoznam zmien</string>
   <string name="btn_download">Stiahnuť novú verziu (%1$s)</string>
   <string name="btn_error">Nastala chyba, stiahnuť znova?</string>
-  <string name="btn_install">Inštalovať novú verziu</string>
+  <string name="btn_install">Skontr. MD5 a inštalovať</string>
+  <string name="btn_wrong_md5">Chyba MD5, stlačte pre vymazanie ZIP!</string>
   <string name="btn_no">Zrušiť</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Zastaviť</string>
