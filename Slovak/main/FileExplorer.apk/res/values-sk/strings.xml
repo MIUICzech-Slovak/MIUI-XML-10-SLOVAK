@@ -731,5 +731,5 @@ Získali ste ďalších %1$s"</string>
   <string name="error_file_already_exists">Tento súbor už existuje</string>
   <string name="function_file_operation">"Pre prístup a otváranie súborov; "</string>
   <string name="function_set_private">"Pre prehliadanie a šifrovanie súborov; "</string>
-  <string name="function_use_imei">"Pre prístup k OMEI a šifrovanie súborov; "</string>
+  <string name="function_use_imei">"Pre prístup k IMEI a šifrovanie súborov; "</string>
 </resources>
