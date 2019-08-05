@@ -522,4 +522,22 @@
   <string name="steps">krokov</string>
   <string name="sport_headline">Dnešná aktivita</string>
   <string name="timeline_headline">Nadchádzajúce</string>
+     <string name="access_select">Vybraných: %s</string>
+     <string name="access_unselect">Odobraných: %s</string>
+     <string name="add_to_desktop">Pridať na Domácu plochu</string>
+     <string name="btn_back">Späť</string>
+     <string name="btn_more">Viac</string>
+     <string name="cta_dialog_miot_text_all">Pre správne fungovanie sa vyžaduje prístup k sieti, polohe a Bluetooth. Chcte pokračovať?</string>
+     <string name="delete">Vymazať</string>
+     <string name="empty_card_btn">Otvoriť</string>
+     <string name="empty_card_tip">Nie ste prihlásený...</string>
+     <string name="empty_card_title">Žiadne dáta</string>
+     <string name="memory_clear_nothing_result">Chache je prázdna</string>
+     <string name="memory_clear_result">Vyčistené: %1$sB</string>
+    <string name="setting_authorization_canceled_dialog_cancel">Zrušiť</string>
+     <string name="setting_authorization_canceled_dialog_ok">Odstrániť</string>
+     <string name="setting_authorization_canceled_dialog_title">Odstrániť kartu</string>
+     <string name="show_more">Zobraziť viac</string>
+     <string name="smart_assistant_enter_tip">Asistent</string>
+     <string name="yesterday">Včera</string>
 </resources>

@@ -34,4 +34,12 @@
     <plurals name="days_ago">
         <item quantity="other">Pred %1$dd</item>
     </plurals>	
+     <plurals name="agenda_count_down">
+        <item quantity="other">O %d minút</item>
+        <item quantity="one">O %d minútu</item>
+     </plurals>
+     <plurals name="assistant_day">
+        <item quantity="other">O %d dní</item>
+        <item quantity="one">O %d deň</item>
+     </plurals>
 </resources>
