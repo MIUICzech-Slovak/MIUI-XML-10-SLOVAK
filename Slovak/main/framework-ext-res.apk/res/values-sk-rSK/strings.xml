@@ -68,7 +68,7 @@
   <string name="lockscreen_access_pattern_start">Vzor začatý</string>
   <string name="maml_component_customization_title">Nastavenia</string>
   <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
-  <string name="memory_clear_result">"Uvoľnené: %1$sB \nDostupné: %2$sB"</string>
+  <string name="memory_clear_result">Uvoľnené: %1$sB</string>
   <string name="miui_forbid_poweroff_when_device_locked">Nie je možné vypnúť. Zariadenie je uzamknuté.</string>
   <string name="miui_screen_ratio_hint">Chyba pomeru strán</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Viac nezobrazovať</string>
@@ -209,4 +209,13 @@
   <string name="frequent_email">Email</string>
   <string name="user_switching_dialog_switch_into_kid_space">Prepínanie do Detského profilu...</string>
   <string name="user_switching_dialog_switch_out_kid_space">Ukončenie Detského profilu...</string>  
+  <string name="input_method_edit_phrase_text">Upraviť časté frázy</string>
+  <string name="input_method_no_content_text">Žiadne položky</string>
+  <string name="input_method_switch_settings_text">Nastavenie klávesnice</string>
+  <string name="input_method_tab_clipboard_text">Schránka</string>
+  <string name="input_method_tab_phrase_text">Časté frázy</string>
+  <string name="slavewifi">Duálna Wi-Fi</string>
+  <string name="slavewifi_disconnect">Odpojiť</string>
+  <string name="slavewifi_notification_title">Zrýchlenie duálnej Wi-Fi</string>
+  <string name="slavewifi_settings">Dotykom upravíte nastavenia</string>  
 </resources>

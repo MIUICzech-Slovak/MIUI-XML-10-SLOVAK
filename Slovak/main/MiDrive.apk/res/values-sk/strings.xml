@@ -105,7 +105,7 @@
   <string name="pick_from_fileexplor_failed">Najskôr aktualizujte apl. Súbory.</string>
   <string name="quota_info">MiDrive: %1$s dostupné, %2$s celkom</string>
   <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
-  <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
+  <string name="rename_failed">Premenovanie zlyhalo</string>
   <string name="request_permission_msg">Povoľte MiDrive prístup k vášmu účtu.</string>
   <string name="request_permission_title">Vyžadujú sa povolenia</string>
   <string name="sd_full">SD karta je plná</string>

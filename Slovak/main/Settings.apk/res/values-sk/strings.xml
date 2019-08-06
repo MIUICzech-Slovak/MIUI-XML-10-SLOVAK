@@ -5937,4 +5937,23 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="color_led_game_mode_summary">Zobraziť efekty pre hry počas Zrýchlenia hier</string>
   <string name="color_led_special_scene_title">Špeciálne efekty</string>
   <string name="color_led_summary">Nefunguje počas režimu Nerušiť</string>
+  <string name="full_screen_keyboard_optimization">Vylepšiť klávesnicu</string>
+  <string name="input_method_function_clipboard">Schránka a časté frázy</string>
+  <string name="input_method_function_clipboard_des">Dotykom zobrazíte schránku a časté frázy</string>
+  <string name="input_method_function_no_function">Žiadne</string>
+  <string name="input_method_function_no_function_des">Nezobrazovať skratky</string>
+  <string name="input_method_function_switch">Prepnúť medzi klávesnicami</string>
+  <string name="input_method_function_switch_des">Dotykom prepnete na inú klávesnicu</string>
+  <string name="input_method_function_voice">Hlasový zadávanie</string>
+  <string name="input_method_function_voice_des">Dotykom spustíte Hlasové zadávanie</string>
+  <string name="left_function_key">Skratky vľavo</string>
+  <string name="long_press_power_key">Dlhé podržanie tlačidla Zapínania</string>
+  <string name="long_press_power_key_tips">Dlho podržte tlačidlo Zapínania</string>
+  <string name="normal_bottom_height_of_keyboard">Bežná</string>
+  <string name="power_usage_summary_title_new">Batéria a výkon</string>
+  <string name="raise_bottom_height_of_keyboard">Rozšírené</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Lišta s vlastnými skratkami bude zobrazená pod klávesnicou</string>
+  <string name="raise_bottom_height_of_keyboard_title">Prispôsobiť klávesnicu pre celý displej</string>
+  <string name="right_function_key">Skratky vpravo</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronizuje vaše fotografie, aplikácie a nastavenia.</string>
 </resources>

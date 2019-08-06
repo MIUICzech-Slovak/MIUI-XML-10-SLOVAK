@@ -732,4 +732,6 @@ Získali ste ďalších %1$s"</string>
   <string name="function_file_operation">"Pre prístup a otváranie súborov; "</string>
   <string name="function_set_private">"Pre prehliadanie a šifrovanie súborov; "</string>
   <string name="function_use_imei">"Pre prístup k IMEI a šifrovanie súborov; "</string>
+  <string name="hint_switch_to_grid_mode">Prepnuté do mriežky</string>
+  <string name="hint_switch_to_list_mode">Prepnuté do zoznamu</string>  
 </resources>

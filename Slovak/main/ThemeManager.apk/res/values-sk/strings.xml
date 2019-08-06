@@ -187,7 +187,7 @@
   <string name="resource_comment_good_comments">Pozitívne</string>
   <string name="resource_comment_invalid">Zvoľte počet hviezdičiek</string>
   <string name="resource_comment_loading_list">Načítavanie...</string>
-  <string name="resource_comment_name_default">Užívateľ %1$s</string>
+  <string name="resource_comment_name_default">Užívateľ</string>
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Bez komentára.</string>
   <string name="resource_comment_publish">Odoslať</string>

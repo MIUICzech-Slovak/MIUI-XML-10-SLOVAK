@@ -139,4 +139,5 @@
   <string name="superpower_settings">Ultra šetrič batérie</string>
   <string name="superpower_system">Odporúčané</string>
   <string name="superpower_third">Doinštalované aplikácie</string>
+  <string name="superpower_exit_hint">Deaktivovanie Ultra šetrenie batérie...</string>
 </resources>

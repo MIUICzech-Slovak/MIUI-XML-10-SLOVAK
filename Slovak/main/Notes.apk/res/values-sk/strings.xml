@@ -340,4 +340,10 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_user_guide_tip3">Stlačte plus pre pridanie úlohy.</string>
   <string name="todo_user_guide_tip4">Nastavte si upozornenia na vaše úlohy.</string>
   <string name="todoalert_done">OK</string>  
+  <string name="app_notification_info">Poznámky pracujú na pozadí</string>
+  <string name="check_in_todo_app">Zobraziť úlohy</string>
+  <string name="todo_float_permission_open_reminder">Povoľte Poznámkam zobraziť plávajúce okná pre používanie tejto funkcie.</string>
+  <string name="todo_menu_cancel">Zrušiť</string>
+  <string name="todo_user_guide_fw_pop">Pridať odkaz na plochu</string>
+  <string name="todo_user_guide_tip5">Nikdy nepremeškajte nič dôležité!</string>
 </resources>

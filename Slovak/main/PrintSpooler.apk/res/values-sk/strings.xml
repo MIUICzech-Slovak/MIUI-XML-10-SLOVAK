@@ -42,7 +42,7 @@
   <string name="print_searching_for_printers">Vyhľadávanie tlačiarní</string>
   <string name="print_select_printer">Vybrať tlačiareň</string>
   <string name="print_write_error_message">Do súboru nie je možné zapisovať</string>
-  <string name="printer_unavailable">%1$s – nie je k dispozícii</string>
+  <string name="printer_unavailable">Tlačiareň nie je k dispozícii</string>
   <string name="printing_app_crashed">Aplikácia pre tlač zlyhala</string>
   <string name="printing_notification_title_template">Prebieha tlač úlohy %1$s</string>
   <string name="reason_unknown">neznáme</string>
