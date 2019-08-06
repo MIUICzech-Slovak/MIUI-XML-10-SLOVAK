@@ -5947,8 +5947,6 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="input_method_function_voice">Hlasový zadávanie</string>
   <string name="input_method_function_voice_des">Dotykom spustíte Hlasové zadávanie</string>
   <string name="left_function_key">Skratky vľavo</string>
-  <string name="long_press_power_key">Dlhé podržanie tlačidla Zapínania</string>
-  <string name="long_press_power_key_tips">Dlho podržte tlačidlo Zapínania</string>
   <string name="normal_bottom_height_of_keyboard">Bežná</string>
   <string name="power_usage_summary_title_new">Batéria a výkon</string>
   <string name="raise_bottom_height_of_keyboard">Rozšírené</string>
