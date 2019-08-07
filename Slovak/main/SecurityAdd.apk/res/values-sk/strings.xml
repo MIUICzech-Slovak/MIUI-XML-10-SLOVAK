@@ -140,7 +140,5 @@
   <string name="superpower_system">Odporúčané</string>
   <string name="superpower_third">Doinštalované aplikácie</string>
   <string name="superpower_exit_hint">Deaktivovanie Ultra šetrenie batérie...</string>
-  <string name="gamebooster_network_dialog_message">Povoliť Zrýchleniu hier pripojenie na internet?</string>
-  <string name="gamebooster_network_dialog_title">Niektoré funkcie nie sú dostupné</string>
   <string name="gdpr_msg">Pre používanie tejto funkcie musíte súhlasiť s Xiaomi Podmienkami používania a Ochranou súkromia.</string>  
 </resources>
