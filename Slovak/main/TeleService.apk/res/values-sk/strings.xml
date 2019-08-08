@@ -1702,4 +1702,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="select_dds_dialog_title">Vyberte predvolenú SIM pre dáta</string>
   <string name="network_mode_updating_title">Typ siete</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">Preferovať 5G</string>
+  <string name="location">Poloha</string>
+  <string name="operator">Operátor</string>
+  <string name="smsc_dialog_message">Uistite sa, že zadané SMSC číslo je správne, inak nebudete môcť odosielať a prijímať SMS správy.</string>
 </resources>

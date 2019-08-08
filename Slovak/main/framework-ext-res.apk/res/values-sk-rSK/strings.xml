@@ -218,4 +218,27 @@
   <string name="slavewifi_disconnect">Odpojiť</string>
   <string name="slavewifi_notification_title">Zrýchlenie duálnej Wi-Fi</string>
   <string name="slavewifi_settings">Dotykom upravíte nastavenia</string>  
+  <string name="btn_cancel">Zrušiť</string>
+  <string name="btn_sure">OK</string>
+  <string name="confirm_cancel_task_files">Zrušiť posielanie súborov do %1$s?</string>
+  <string name="confirm_cancel_task_images">Zrušiť posielanie obrázkov do %1$s?</string>
+  <string name="default_device_name">Neznáme zariadenie</string>
+  <string name="device_type_pc">Počítač</string>
+  <string name="enable_midrop">Povoliť</string>
+  <string name="file_cannot_print">Nie je možné odoslať tento súbor.</string>
+  <string name="file_cannot_screen_throw">Nie je možné vytlačiť tento súbor.</string>
+  <string name="file_sending">Prenos súborov...</string>
+  <string name="functions_are_being_developed">Táto funkcia bude dostupná už čoskoro!</string>
+  <string name="pc_device_model_name">Počítač</string>
+  <string name="scanning_device_tips">Vyhľadávanie zariadení v blízkosti... Uistite sa, že druhé zariadenie je viditeľné.</string>
+  <string name="send_files_to">Odoslať súbory do</string>
+  <string name="throwing_print">Vytlačiť</string>
+  <string name="throwing_screen">Odoslať</string>
+  <string name="tips_prompt_enable_midrop">Zdieľajte súbory so zariadeniami v okolí</string>
+  <string name="unrecognized_manufacture">Neznáme zariadenie</string>
+  <string name="unrecognized_model">Neznáme zariadenie</string>
+  <string name="wireless_charging_notification_message1">Nenašlo sa žiadne zariadenie pre nabíjanie. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
+  <string name="wireless_charging_notification_message2">Batéria má menej ako 30% kapacity. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
+  <string name="wireless_charging_notification_message3">Nastala chyba počas nabíjania. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
+  <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
 </resources>
