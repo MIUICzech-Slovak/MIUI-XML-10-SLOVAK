@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Upozornenie</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Je nám ľúto, ale toto video sa nedá streamovať do tohto zariadenia.</string>
     <string name="selectTextMode">Vybrať text</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Ikona odtlačku prsta</string>
     <string name="paste_as_plain_text">Prilepiť ako obyčajný text</string>
     <string name="autofill">Automatické dopĺňanie</string>
@@ -462,7 +461,6 @@ V prípade otázok kontaktujte správcu organizácie."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Požiadavka zadaná pomocou kódu funkcie bola úspešne dokončená.</string>
     <string name="fcError">Problém s pripojením alebo neplatný kód funkcie.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Nájsť</string>
     <string name="find_next">Nájsť ďalšiu</string>
     <string name="find_on_page">Vyhľadať na stránke</string>
@@ -664,7 +662,6 @@ Naozaj chcete túto stránku opustiť?"</string>
     <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
     <string name="kg_sim_pin_instructions">Zadajte kód PIN SIM karty</string>
     <string name="kg_sim_unlock_progress_dialog_message">Prebieha odomykanie SIM karty...</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"%1$d-krát ste zadali nesprávne heslo. 
 
 Skúste to znova o %2$d s."</string>
@@ -970,7 +967,6 @@ Skúste to znova o %2$d s."</string>
     <string name="notification_channel_wfc">Volanie cez Wi‑Fi</string>
     <string name="notification_hidden_text">Nové upozornenie</string>
     <string name="notification_listener_binding_label">Aplikácia na počúvanie upozornení</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Služba na hodnotenie upozornení</string>
     <string name="notification_reply_button_accessibility">Odpovedať</string>
     <string name="notification_title">Chyba prihlásenia do účtu %1$s</string>
@@ -1748,7 +1744,6 @@ Chcete ju zavrieť?"</string>
     <string name="zen_mode_feature_name">Režim bez vyrušení</string>
     <string name="zen_mode_forever">Dokiaľ túto funkciu nevypnete</string>
     <string name="zen_mode_forever_dnd">Dokiaľ nevypnete režim bez vyrušení</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Do %1$s</string>
     <string name="zen_upgrade_notification_content">Klepnutím skontrolujete, čo je blokované.</string>
     <string name="zen_upgrade_notification_title">Režim bez vyrušení sa zmenil</string>
