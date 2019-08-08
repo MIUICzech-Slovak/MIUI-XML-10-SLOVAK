@@ -5954,4 +5954,9 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="raise_bottom_height_of_keyboard_title">Prispôsobiť klávesnicu pre celý displej</string>
   <string name="right_function_key">Skratky vpravo</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronizuje vaše fotografie, aplikácie a nastavenia.</string>
+  <string name="screen_dark_mode_advanced_title">Rozšírené</string>
+  <string name="screen_dark_mode_select_time_error_summary">Začiatok a koniec nemôžu byť rovnakom čase</string>
+  <string name="screen_dark_mode_smart_dark_summary">Vynútiť tmavý režim v aplikáciach. Niektoré aplikácie nemusia byť zobrazené správne.</string>
+  <string name="screen_dark_mode_smart_dark_title">Globálny tmavý režim</string>
+  <string name="screen_dark_mode_time_title">Naplánovať</string>
 </resources>
