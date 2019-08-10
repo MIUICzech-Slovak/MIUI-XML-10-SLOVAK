@@ -367,4 +367,19 @@
   <string name="shake_to_align_icons_title">Potrasením zaplniť prázdne bunky</string>
   <string name="system_shortcuts_more_operation">Info o aplikácií</string>
   <string name="no_space_toast_when_click_widget">Nie je dostatok miesta na tejto ploche.</string>  
+  <string name="all_apps">Všetky aplikácie</string>
+  <string name="all_apps_no_search_results">Nič sa nenašlo</string>
+  <string name="all_apps_search_app">Vyhľadať aplikácie</string>
+  <string name="all_apps_search_market_message">Vyhľadať online</string>
+  <string name="all_apps_setting_desktop_desc">Zobraziť všetky nainštalované aplikácie na ploche. Stlačte a podržte ikonu aplikácie pre zobrazenie dostupných skratiek.</string>
+  <string name="all_apps_setting_desktop_title">Bežné</string>
+  <string name="all_apps_setting_drawer_desc">Umiestniť všetky nainštalované aplikácie do zoznamu aplácií ktorý zobrazíte potiahnutím nahor.</string>
+  <string name="all_apps_setting_drawer_tips_desc">Zoznam aplikácií zobrazíte potiahnutím nahor na ploche. Chcete prepnúť do zoznamu aplikácií?</string>
+  <string name="all_apps_setting_drawer_tips_title">Použiť Zoznam aplikácií</string>
+  <string name="all_apps_setting_drawer_title">So zoznamom aplikácií</string>
+  <string name="all_apps_setting_title">Plocha</string>
+  <string name="all_apps_slide_up_tips">Potiahnutie nahor otvorí zoznam aplikácií.</string>
+  <string name="all_apps_suggestions">Návrh aplikácií</string>
+  <string name="recent_apps">Nedávne</string>
+  <string name="remove_invalidate_gadget_tips">Jeden z widgetov ktoré používate nie je dostupný. Môžete pridať iný.</string>
 </resources>
