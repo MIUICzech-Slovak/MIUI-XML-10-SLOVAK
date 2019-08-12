@@ -791,4 +791,6 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="user_define_watermark_save">Uložiť</string>
   <string name="lying_direct_hint">Súčasná orientácia</string>
   <string name="pref_camera_snap_entry_summary">Stlačte a podržte tlačidlo pre zníženie hlasitosti ak je vypnutý displej pre zhotovenie fotografie</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD je vypnuté</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD je zapnuté</string>
 </resources>

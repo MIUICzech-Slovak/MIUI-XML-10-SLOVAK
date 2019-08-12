@@ -706,4 +706,9 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="cloud_storage_manage_title">Spravovať miesto v cloude</string>  
    <string name="data_protection_title">Ochrana dát</string>
   <string name="sync_setting_title">Nastavenia synchr.</string>
+  <string name="pre_privacy_policy">Ochrana súkromia</string>
+  <string name="pre_user_agreement">Podmienky používania</string>
+  <string name="privacy_and_agreement">Súkromie a Podmienky</string>
+  <string name="sync_normal_summary">Niektoré položky zo zoznamu nemohli byť synchronizované</string>
+  <string name="sync_normal_title">Synchr. nebola dokončená</string>  
 </resources>

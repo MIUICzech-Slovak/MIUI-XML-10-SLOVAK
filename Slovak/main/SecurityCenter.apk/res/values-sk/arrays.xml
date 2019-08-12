@@ -209,4 +209,12 @@
         <item>Denný dátový balíček</item>
         <item>Neobmedzený dátový balíček</item>
     </string-array>	
+    <string-array name="pc_settings_thermal_entries">
+        <item>Predvolené</item>
+        <item>Uprednostniť výkon</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Používa sa predvolený teplotný režim</item>
+        <item>Uprednostniť výkon</item>
+    </string-array>	
 </resources>

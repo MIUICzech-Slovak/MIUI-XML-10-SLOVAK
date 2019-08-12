@@ -298,4 +298,5 @@
   <string name="delete_description">Vymazať</string>
   <string name="deselect_all_description">Odznačiť</string>
   <string name="select_all_description">Všetko</string>
+  <string name="search_action_mode_cancel">Zrušiť</string>
 </resources>
