@@ -5707,7 +5707,7 @@ Táto funkcia vyžaduje povolenia pre prístup k vašej polohe, používanie mob
   <string name="usage_state_work_day">Pracovné dni</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">Pracovné dni: %dh %dm</string>
   <string name="usage_stats_normal_day">Pracovné dni</string>
-  <string name="usage_stats_week_day">Pracovné dni</string>
+  <string name="usage_stats_week_day">Víkendy</string>
   <string name="usagestats_app_category_miui_financial">Financie</string>
   <string name="usagestats_app_category_miui_game">Hry</string>
   <string name="usagestats_app_category_miui_life">Životný štýl</string>
