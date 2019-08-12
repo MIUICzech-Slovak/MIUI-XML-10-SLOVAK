@@ -5959,4 +5959,5 @@ Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na
   <string name="screen_dark_mode_smart_dark_summary">Vynútiť tmavý režim v aplikáciach. Niektoré aplikácie nemusia byť zobrazené správne.</string>
   <string name="screen_dark_mode_smart_dark_title">Globálny tmavý režim</string>
   <string name="screen_dark_mode_time_title">Naplánovať</string>
+  <string name="single_press_AI_button">Stlačenie AI tlačidla</string>
 </resources>
