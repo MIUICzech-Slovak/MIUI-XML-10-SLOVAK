@@ -188,7 +188,7 @@
   <string name="tomorrow">Zajtra</string>
   <string name="turn_off_a_repeat_alarm">Vypnúť opakovanie budíka</string>
   <string name="turn_off_this_repeat_alarm">Vypnúť opakovanie tohto budíka</string>
-  <string name="upcoming_alarm">"%s bude zvoniť budík"</string>
+  <string name="upcoming_alarm">Budík: %s</string>
   <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>
   <string name="vibrate_pref_summary">Vibrovať počas budenia</string>
   <string name="vibrate_when_ringing">Vibrovať počas zvonenia</string>
@@ -298,4 +298,11 @@
   <string name="system_permission_storage_desc">Pre prístup k zvoneniam</string>
   <string name="timer_alert_type_spring_rain">Letný dážď</string>
   <string name="volume_button_setting_desc">Priradiť funkcie k tlačidlám Zapínania a Hlasitosti</string>
+  <string name="alarm_ringtone">Zvonenie budíka</string>
+  <string name="ringtone_all">Všetky zvonenia</string>
+  <string name="ringtone_dew">Ranná rosa</string>
+  <string name="ringtone_dream">Sen</string>
+  <string name="ringtone_firefly">Fireflies</string>
+  <string name="set_alarm_choose_ringtone">Vybrať zvonenie</string>
+  <string name="set_alarm_other">Iné</string>
 </resources>

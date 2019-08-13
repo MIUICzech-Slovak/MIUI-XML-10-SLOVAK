@@ -1426,8 +1426,8 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
   <string name="quick_settings_wifi_nearby">Vyberte sieť</string>
   <string name="quick_settings_wifi_no_network">Žiadna sieť</string>
   <string name="quick_settings_wifi_not_connected">Nepripojené</string>
-  <string name="quick_settings_wifi_off_label">Sieť Wi‑Fi je vypnutá</string>
-  <string name="quick_settings_wifi_on_label">Wi‑Fi je zapnuté</string>
+  <string name="quick_settings_wifi_off_label">Sieť Wi-Fi je vypnutá</string>
+  <string name="quick_settings_wifi_on_label">Wi-Fi je zapnuté</string>
   <string name="quick_settings_work_mode_label">Pracovný režim</string>
   <string name="recent_cannot_dock">Rozdelenie obrazovky nie je možné použiť v Druhom profile</string>
   <string name="recent_dock_tip">Dotykom vyberte aplikáciu</string>
@@ -2033,5 +2033,7 @@ pre dlhý screenshot"</string>
   <string name="recents_dimiss_task">Vyčistiť</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Počas vysielania nie je možné používať rozdelenú obrazovku</string>
   <string name="recents_task_screening">Vysielanie</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Nie je možné prepínať medzi profilmi ak je aktivované Ultra šetrenie batérie</string>  
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Nie je možné prepínať medzi profilmi ak je aktivované Ultra šetrenie batérie</string> 
+  <string name="qs_open_night_mode_alert_summary">Súčasné nastavenia displeja nie sú kompatibilné s Tmavým režimom. Po vypnutí Tmavého režimu budú obnovené.</string>
+  <string name="quick_settings_nightmode_label">Tmavý režim</string>
 </resources>
