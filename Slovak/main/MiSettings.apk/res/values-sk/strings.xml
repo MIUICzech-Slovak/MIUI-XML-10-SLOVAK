@@ -44,7 +44,7 @@
     <string name="usage_state_saturday">Sob</string>
     <string name="usage_state_set_invalid_time_toast">Nie je možné nastaviť limit nižší ako 1 minúta</string>
     <string name="usage_state_sunday">Ned</string>
-    <string name="usage_state_thursday">Uto</string>
+    <string name="usage_state_thursday">Štv</string>
     <string name="usage_state_today">Ned</string>
     <string name="usage_state_today_total_text">Používanie dnes</string>
     <string name="usage_state_tuesday">Uto</string>
