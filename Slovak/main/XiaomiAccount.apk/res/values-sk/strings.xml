@@ -583,7 +583,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="search_menu_title">Vyhľadať</string>
   <string name="bind_google">Pripojte svoj Google účet</string>
   <string name="two_factor_auth">Dvoj-faktorové prihlásenie</string>
-  <string name="two_factor_auth_click_confirm">Potvrďte pre pre prihlásenie</string>
+  <string name="two_factor_auth_click_confirm">Potvrďte pre prihlásenie</string>
   <string name="two_factor_auth_click_confirm_summary">Budete vidieť upozornenie na druhom pripojenom zariadení. Dotykom na upozornenie povolíte prihlásenie na novom zariadení.</string>
   <string name="two_factor_auth_method">Spôsob prihlásenia</string>
   <string name="two_factor_auth_need_code">Zadajte kód</string>
