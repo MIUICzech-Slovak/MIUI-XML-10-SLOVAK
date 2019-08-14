@@ -584,4 +584,16 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="wallpaper_online_no_more">To je všetko</string>
   <string name="wallpaper_online_tip">Pripojte sa k sieti pre načítanie viac položiek</string>
   <string name="wallpaper_static">Statické</string>
+  <string name="author_attention">Sledovať</string>
+  <string name="author_attention_success">Sledovanie nastavené</string>
+  <string name="author_dialog_message">Zrušiť sledovanie?</string>
+  <string name="author_dynamic">Stav</string>
+  <string name="author_dynamic_no_resource">Nič sa nenašlo</string>
+  <string name="detail_author_attention_head">Sledujte niekoho z našich dizajnérov</string>
+  <string name="detail_author_fans">"Sledovatelia: "</string>
+  <string name="detail_author_works">"Položky: "</string>
+  <string name="resource_apply_trial">Použiť</string>
+  <string name="resource_download_trial">Skúsiť</string>
+  <string name="wallpaper_no_favorite">Žiadne položky.</string>
+  <string name="wallpaper_no_record">Žiadne položky.</string>  
 </resources>

@@ -582,4 +582,11 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_wx_bind_account_limit">Nebolo možné vytvoriť účet. Skúste sa prihlásiť iným spôsobom.</string>
   <string name="search_menu_title">Vyhľadať</string>
   <string name="bind_google">Pripojte svoj Google účet</string>
+  <string name="two_factor_auth">Dvoj-faktorové prihlásenie</string>
+  <string name="two_factor_auth_click_confirm">Potvrďte pre pre prihlásenie</string>
+  <string name="two_factor_auth_click_confirm_summary">Budete vidieť upozornenie na druhom pripojenom zariadení. Dotykom na upozornenie povolíte prihlásenie na novom zariadení.</string>
+  <string name="two_factor_auth_method">Spôsob prihlásenia</string>
+  <string name="two_factor_auth_need_code">Zadajte kód</string>
+  <string name="two_factor_auth_need_code_summary">Budete vidieť kód na druhom pripojenom zariadení. Zadajte tento kód na novom zariadení pre prihlásenie.</string>
+  <string name="two_factor_auth_summary">Ak sa budete chcieť prihlásiť na novom zariadení, budete upozornený na inom pripojenom zariadení. Budete musieť potvrdiť pokus o prihlásenie.</string>  
 </resources>

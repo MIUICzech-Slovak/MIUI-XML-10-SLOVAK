@@ -2036,4 +2036,5 @@ pre dlhý screenshot"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Nie je možné prepínať medzi profilmi ak je aktivované Ultra šetrenie batérie</string> 
   <string name="qs_open_night_mode_alert_summary">Súčasné nastavenia displeja nie sú kompatibilné s Tmavým režimom. Po vypnutí Tmavého režimu budú obnovené.</string>
   <string name="quick_settings_nightmode_label">Tmavý režim</string>
+  <string name="description_image_button_bubble_answer">Reproduktor</string>
 </resources>
