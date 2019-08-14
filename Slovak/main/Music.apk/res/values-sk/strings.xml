@@ -1041,4 +1041,7 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
   <string name="song_already_in_playlist">Táto skladba už je v poradí</string>
   <string name="song_is_added_to_playlist">Pridané do poradia</string>
   <string name="storage_cloned_app">Úložisko pre klonované aplikácie</string>
+  <string name="data_use_desc">Zmluvné podmienky</string>
+  <string name="privacy_desc">Ochrana súkromia (povinné)</string>
+  <string name="agreement_desc">Podmienky používania (povinné)</string>
 </resources>
