@@ -734,4 +734,7 @@ Získali ste ďalších %1$s"</string>
   <string name="function_use_imei">"Pre prístup k IMEI a šifrovanie súborov; "</string>
   <string name="hint_switch_to_grid_mode">Prepnuté do mriežky</string>
   <string name="hint_switch_to_list_mode">Prepnuté do zoznamu</string>  
+  <string name="grid_mode">Mriežka</string>
+  <string name="list_mode">Zoznam</string>
+  <string name="switch_doc_type">Vyberte formát</string>
 </resources>
