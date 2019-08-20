@@ -1730,5 +1730,4 @@
   <string name="remove_hidden_status_title">Odkryť</string>
   <string name="show_cloud_albumlist_summary">Spravovať albumy ktoré synchr. s cloudom</string>
   <string name="show_hidden_album_summary">Zobraziť a spravovať skryté albumy</string>
-  <string name="show_hidden_album_title">Zobraziť skryté albumy</string>
 </resources>
