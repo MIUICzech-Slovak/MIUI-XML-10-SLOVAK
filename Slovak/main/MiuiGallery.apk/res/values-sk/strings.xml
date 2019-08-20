@@ -1636,7 +1636,7 @@
   <string name="burst_save_error_msg">Nebolo možné uložiť</string>
   <string name="burst_save_processing">Spracovávanie...</string>
   <string name="decrypt_video_failed">Nebolo možné pripraviť video</string>
-  <string name="decrypting_video">Práprava videa...</string>
+  <string name="decrypting_video">Príprava videa...</string>
   <string name="editor_cancel">Zrušiť</string>
   <string name="editor_export">Uložiť</string>
   <string name="editor_talkback_redo">Znova</string>
@@ -1718,4 +1718,17 @@
   <string name="wednesday">Streda</string>
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
+  <string name="album_cloud_list_page_title">Spravovať synchr. albumy</string>
+  <string name="album_hidden_item_button_title">Odkryť</string>
+  <string name="album_hidden_page_title">Skryť</string>
+  <string name="chooser_fragment_mishare_title">Zdieľať do</string>
+  <string name="empty_album_cloud_list_title">Žiadne albumy na synchr.</string>
+  <string name="empty_album_hidden_list_title">žiadne skryté albumy</string>
+  <string name="projection_screen_project_in_screening">Používate vaše zariadenie pre vysielanie</string>
+  <string name="remove_hidden_status_success">Odobraný %s zo skrytých albumov</string>
+  <string name="remove_hidden_status_tip">Tento album bude zobrazený medzi ostatnými albumami ak ho odkryjete.</string>
+  <string name="remove_hidden_status_title">Odkryť</string>
+  <string name="show_cloud_albumlist_summary">Spravovať albumy ktoré synchr. s cloudom</string>
+  <string name="show_hidden_album_summary">Zobraziť a spravovať skryté albumy</string>
+  <string name="show_hidden_album_title">Zobraziť skryté albumy</string>
 </resources>

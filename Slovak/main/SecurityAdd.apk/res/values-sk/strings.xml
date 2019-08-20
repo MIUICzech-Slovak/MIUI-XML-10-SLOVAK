@@ -141,4 +141,5 @@
   <string name="superpower_third">Doinštalované aplikácie</string>
   <string name="superpower_exit_hint">Deaktivovanie Ultra šetrenie batérie...</string>
   <string name="gdpr_msg">Pre používanie tejto funkcie musíte súhlasiť s Xiaomi Podmienkami používania a Ochranou súkromia.</string>  
+  <string name="cta_main_purpose">Vitajte v Zrýchlení hier!</string>
 </resources>

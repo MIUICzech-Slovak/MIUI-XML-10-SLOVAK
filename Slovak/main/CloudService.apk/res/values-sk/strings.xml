@@ -711,4 +711,8 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="privacy_and_agreement">Súkromie a Podmienky</string>
   <string name="sync_normal_summary">Niektoré položky zo zoznamu nemohli byť synchronizované</string>
   <string name="sync_normal_title">Synchr. nebola dokončená</string>  
+  <string name="cloud_storage_no_data">Žiadne položky v cloude</string>
+  <string name="pay_info_dialog_confirm_to_pay">Zaplatiť %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Použiť Mi kredity: %s</string>
+  <string name="pay_info_dialog_title">Vyberte spôsob platby</string>
 </resources>

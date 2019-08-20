@@ -504,8 +504,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="verified_devices">Overené zariadenia</string>
   <string name="verify_phone_prompt">Vyberte telefónne číslo na overenie</string>
   <string name="verify_phone_title">Overiť telefónne číslo</string>
-  <string name="vip_account_settings">Vip Nastavenia</string>
-  <string name="vip_more_info">Viac Vip Info</string>
+  <string name="vip_account_settings">VIP Nastavenia</string>
+  <string name="vip_more_info">Viac VIP Info</string>
   <string name="vip_settings_info">VIP nastavenia</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
@@ -589,4 +589,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="two_factor_auth_need_code">Zadajte kód</string>
   <string name="two_factor_auth_need_code_summary">Budete vidieť kód na druhom pripojenom zariadení. Zadajte tento kód na novom zariadení pre prihlásenie.</string>
   <string name="two_factor_auth_summary">Ak sa budete chcieť prihlásiť na novom zariadení, budete upozornený na inom pripojenom zariadení. Budete musieť potvrdiť pokus o prihlásenie.</string>  
+  <string name="ep_unsupported">Vaše zariadenie nepodporuje prihlásenie Xiaomi účtom</string>
 </resources>

@@ -3005,7 +3005,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="card_main_deepclean_facebook_title">Facebook čistič</string>
   <string name="deep_power_save_item_summary_auto_brightness">Nastaviť jas displeja automaticky pre úsporu batérie</string>
   <string name="deep_power_save_item_summary_bluetooth">Deaktivovať Bluetooth pre úsporu batérie</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Vypnúť displej po 30s nečinnosti pre úsporu batérie</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Vypnúť displej po 15s nečinnosti pre úsporu batérie</string>
   <string name="deep_power_save_item_title_auto_brightness">Povoliť automatický jas</string>
   <string name="deep_power_save_item_title_bluetooth">Vypnúť Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Vypnúť displej</string>  
@@ -3308,4 +3308,24 @@ Rešpektujeme a chránime vaše súkromie."</string>
   <string name="power_setting_warm_performance_tip">Scenáre ktoré vyžadujú vysoký výkon zvýšia teplotu vášho zariadenia nad limit tepelnej ochrany.</string>
   <string name="power_setting_wireless_reverse_charging_summary">Nabíjajte kompatibilné zariadenia bezdrôtovo</string>
   <string name="power_setting_wireless_reverse_charging_title">Reverzné bezdrôtové nabíjanie</string>  
+  <string name="permission_action_always">Vždy povoliť</string>
+  <string name="permission_action_foreground">Len počas používania aplikácie</string>
+  <string name="banner_optimizemanage_summary">Uvoľniť pamäť</string>
+  <string name="banner_red_money_assist_button">Povoliť</string>
+  <string name="menu_summary_garbage_cleanup_ex">Vyčistiť %s odpadu</string>
+  <string name="phone_manage">Nástroje</string>
+  <string name="phone_manage_app_manager_summary">Spravovať aplikácie v zariadení</string>
+  <string name="phone_manage_clean_summary">Uvoľniť úložisko</string>
+  <string name="phone_manage_clean_title">Čistič</string>
+  <string name="phone_manage_electric_summary">Optimalizovať zariadenie pre úsporu batérie</string>
+  <string name="phone_manage_electric_title">Batéria</string>
+  <string name="phone_manage_special_summary">Preskúmajte naše nové funkcie</string>
+  <string name="phone_manage_special_title">Špeciálne funkcie</string>
+  <string name="phone_manage_system_tool_summary">Užitočné systémové nástroje</string>
+  <string name="phone_manage_system_tool_title">Nástroje</string>
+  <string name="power_save_mode">Šetrič batérie</string>
+  <string name="power_save_settings">Nastavenie batérie</string>
+  <string name="securitycenter_tab_title">Bezpečnosť</string>
+  <string name="system_tool_green_guard">Rodinný strážca</string>
+  <string name="system_tool_sos">Núdzové SOS</string>  
 </resources>
