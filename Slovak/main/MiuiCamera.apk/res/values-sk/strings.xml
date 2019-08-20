@@ -796,6 +796,5 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="macro_mode_use_hint_text_body">Použite Makro režim pre priblíženie malého objektu</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Jemné svetlo</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Celý displej</string>
   <string name="recommend_soft_light_tip">Použite blesk v režime Jemné svetlo</string>
 </resources>
