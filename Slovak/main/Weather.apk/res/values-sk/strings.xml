@@ -142,7 +142,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="privacy_grant_success">Autorizácia získaná</string>
   <string name="privacy_revoke_failed">Nebolo možné odmietnuť autorizáciu. Skúste to znova neskôr.</string>
   <string name="privacy_revoke_success">Autorizácia odmietnutá</string>
-  <string name="privacy_settings">Ochranou súkromia</string>
+  <string name="privacy_settings">Ochrana súkromia</string>
   <string name="pull_fresh_updated">Aktualizované</string>
   <string name="pull_fresh_updating">Aktualizácia</string>
   <string name="radar_cloud_image_title">Radar</string>
@@ -219,4 +219,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="weather_permission_agree">Prijať</string>  
   <string name="shortcut_short_label_24_hour_forecast">24h predpoveď</string>
   <string name="shortcut_short_label_recent_forecast">Skontrolovať počasie</string>  
+  <string name="about_weather_setting">O Počasí</string>
+  <string name="about_weather_setting_feedback">Spätná väzba</string>
+  <string name="feedback">Nahlásiť nesprávne informácie o počasí</string>
 </resources>

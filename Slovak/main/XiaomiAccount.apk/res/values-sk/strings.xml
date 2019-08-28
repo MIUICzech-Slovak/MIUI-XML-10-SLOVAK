@@ -590,4 +590,9 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="two_factor_auth_need_code_summary">Budete vidieť kód na druhom pripojenom zariadení. Zadajte tento kód na novom zariadení pre prihlásenie.</string>
   <string name="two_factor_auth_summary">Ak sa budete chcieť prihlásiť na novom zariadení, budete upozornený na inom pripojenom zariadení. Budete musieť potvrdiť pokus o prihlásenie.</string>  
   <string name="ep_unsupported">Vaše zariadenie nepodporuje prihlásenie Xiaomi účtom</string>
+  <string name="system_ad">Reklamy v systémových aplikáciach</string>
+  <string name="system_ad_list">Zobraziť aplikácie.</string>
+  <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémovych aplikáciach!</string>
+  <string name="system_ad_switch">Reklamy v systémových aplikáciach</string>
+  <string name="system_ad_switch_failed">zlyhalo</string>
 </resources>

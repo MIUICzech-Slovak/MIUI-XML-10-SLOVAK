@@ -3329,4 +3329,5 @@ Rešpektujeme a chránime vaše súkromie."</string>
   <string name="system_tool_green_guard">Rodinný strážca</string>
   <string name="system_tool_sos">Núdzové SOS</string>  
   <string name="cta_main_purpose">Vitajte v aplikácií Optimalizácia! Môžete tu vymazať odpad z vášho zariadenia, skontrolovať vírusy, ušetriť spotrebu energie a mnoho ďalších užitočných funkcií.</string>  
+  <string name="cta_HIPS_Perm_Location_Desc">získať presnú polohu (GPS)</string>
 </resources>

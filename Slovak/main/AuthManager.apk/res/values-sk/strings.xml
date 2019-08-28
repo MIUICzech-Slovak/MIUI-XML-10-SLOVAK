@@ -322,4 +322,15 @@
   <string name="permission_description_summary_sms">Aplikácia s týmto povolením môže odoslať SMS</string>
   <string name="permission_description_summary_storage">Aplikácia s týmto povolením môže pristupovať k vašim fotografiám a médiám v zariadení</string>
   <string name="permission_reminders">Upozornenie na povolenia</string>
+  <string name="permgroupdesc_calendar">Prístup k udalostiam v kalendári</string>
+  <string name="permgroupdesc_calllog">Prístup k položkám v zozname hovorov</string>
+  <string name="permgroupdesc_camera">Zhotoviť fotografie a videá</string>
+  <string name="permgroupdesc_contacts">Prístup ku kontaktom</string>
+  <string name="permgroupdesc_location">Prístup k polohe</string>
+  <string name="permgroupdesc_microphone">Nahrávať zvuk</string>
+  <string name="permgroupdesc_phone">Uskutočniť hovor</string>
+  <string name="permgroupdesc_recognition">Prístup k aktivitám</string>
+  <string name="permgroupdesc_sensors">Prístup k telovým senzorom</string>
+  <string name="permgroupdesc_sms">Čítať a posielať SMS</string>
+  <string name="permgroupdesc_storage">Prístup k súborom</string>
 </resources>

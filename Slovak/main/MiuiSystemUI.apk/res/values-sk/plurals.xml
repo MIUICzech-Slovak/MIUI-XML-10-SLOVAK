@@ -165,4 +165,8 @@
         <item quantity="other">" %1$s Hodín %2$s"</item>
 		<item quantity="other">" %1$s Hodina %2$s"</item>
     </plurals>	
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Ukončenie hovoru o %1$ds</item>
+        <item quantity="one">Ukončenie hovoru o %1$ds</item>
+    </plurals>
 </resources>
