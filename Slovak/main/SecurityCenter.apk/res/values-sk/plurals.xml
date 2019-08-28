@@ -554,4 +554,20 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d h ostáva</item>
         <item quantity="one">%d h ostáva</item>
     </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d apl. obsahuje malware</item>
+        <item quantity="one">%d apl. obsahuje malware</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Neskontrolované %d dní</item>
+        <item quantity="one">Neskontrolované %d deň</item>
+    </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">Blokovaných %d SMS</item>
+        <item quantity="one">Blokovaná %d SMS</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">Aktualizácií: %d</item>
+        <item quantity="one">Aktualizácií: %d</item>
+    </plurals>
 </resources>
